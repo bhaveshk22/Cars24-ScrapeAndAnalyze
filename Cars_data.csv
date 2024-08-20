@@ -1,0 +1,2374 @@
+,Brand,Manufacturing Year,Model,Kilometers Driven,Fuel Type,Transmission Type,Price,Location
+0,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,98493,Petrol,Automatic,953000,Bangalore
+1,Hyundai,2017,Eon ERA PLUS (O),33963,Petrol,Manual,381000,Bangalore
+2,Hyundai,2019,Creta SX 1.6 DIESEL,43987,Diesel,Manual,1152000,Bangalore
+3,Hyundai,2019,NEW SANTRO MAGNA,33609,Petrol,Manual,429000,Bangalore
+4,Hyundai,2021,NEW I20 ASTA 1.0 TURBO IMT DUAL TONE,26797,Petrol,Manual,1021000,Bangalore
+5,Hyundai,2019,Creta SX AT 1.6 PETROL,43448,Petrol,Automatic,1128000,Bangalore
+6,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,97183,Petrol,Automatic,873000,Bangalore
+7,Hyundai,2012,i20 SPORTZ 1.2,99928,Petrol,Manual,405000,Bangalore
+8,Hyundai,2021,Verna SX (O) 1.5 VTVT IVT,26940,Petrol,Automatic,1332000,Bangalore
+9,Hyundai,2018,Creta SX PLUS AT 1.6 PETROL,66956,Petrol,Automatic,942000,Bangalore
+10,Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,91312,Petrol,Manual,518000,Bangalore
+11,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,63572,Petrol,Manual,449000,Bangalore
+12,Hyundai,2020,NEW I20 Asta 1.0 GDI Turbo IMT,22995,Petrol,Manual,894000,Bangalore
+13,Hyundai,2019,Creta SX AT 1.6 PETROL,51652,Petrol,Automatic,1211000,Bangalore
+14,Hyundai,2019,NEW SANTRO SPORTZ MT,43454,Petrol,Manual,475000,Bangalore
+15,Hyundai,2015,Elite i20 ASTA 1.2,69680,Petrol,Manual,552000,Bangalore
+16,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,16247,CNG,Manual,786000,Bangalore
+17,Hyundai,2013,Verna FLUIDIC 1.6 CRDI SX,46332,Diesel,Manual,536000,Bangalore
+18,Hyundai,2015,Elite i20 ASTA 1.2,88718,Petrol,Manual,493000,Bangalore
+19,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.0 TURBO GDI,17693,Petrol,Manual,698000,Bangalore
+20,Hyundai,2019,NEW SANTRO SPORTZ MT,33811,Petrol,Manual,533000,Bangalore
+21,Hyundai,2019,VENUE SX 1.0 TURBO,69173,Petrol,Manual,796000,Bangalore
+22,Hyundai,2022,Creta EX 1.5 PETROL,15137,Petrol,Manual,1170000,Bangalore
+23,Hyundai,2013,i10 SPORTZ 1.2,34376,Petrol,Manual,311000,Bangalore
+24,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,72138,Petrol,Manual,462000,Bangalore
+25,Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,67557,Petrol,Manual,429000,Bangalore
+26,Hyundai,2011,i20 MAGNA 1.2,89386,Petrol,Manual,258000,Bangalore
+27,Hyundai,2022,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,40038,Petrol,Manual,596000,Bangalore
+28,Hyundai,2019,New Elantra 2.0 SX(O) AT PETROL,14129,Petrol,Automatic,1534000,Bangalore
+29,Hyundai,2012,i20 SPORTZ 1.2,64048,Petrol,Manual,349000,Bangalore
+30,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,60626,Petrol,Manual,432000,Bangalore
+31,Hyundai,2016,Creta E PLUS 1.6 PETROL,54309,Petrol,Manual,819000,Bangalore
+32,Hyundai,2012,Verna FLUIDIC 1.6 VTVT SX,88309,Petrol,Manual,436000,Bangalore
+33,Hyundai,2020,AURA SX 1.2,21521,Petrol,Manual,655000,Bangalore
+34,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,43237,Petrol,Manual,492000,Bangalore
+35,Hyundai,2015,i10 MAGNA 1.1,65097,Petrol,Manual,341000,Bangalore
+36,Hyundai,2018,Verna 1.6 VTVT SX,32982,Petrol,Manual,846000,Bangalore
+37,Hyundai,2012,i10 SPORTZ 1.2,75384,Petrol,Manual,312000,Bangalore
+38,Hyundai,2020,NEW SANTRO MAGNA,29027,Petrol,Manual,451000,Bangalore
+39,Hyundai,2010,Santro Xing GL,79984,Petrol,Manual,182000,Bangalore
+40,Hyundai,2013,i20 SPORTZ 1.4 AT,56822,Petrol,Automatic,395000,Bangalore
+41,Hyundai,2021,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,31259,Petrol,Automatic,699000,Bangalore
+42,Hyundai,2014,Verna FLUIDIC 1.6 VTVT SX,46423,Petrol,Manual,583000,Bangalore
+43,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,44032,Petrol,Automatic,408000,Bangalore
+44,Hyundai,2016,Creta SX 1.6 DIESEL,58014,Diesel,Manual,858000,Bangalore
+45,Hyundai,2013,Grand i10 MAGNA 1.2 KAPPA VTVT,87459,Petrol,Manual,336000,Bangalore
+46,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,100708,Petrol,Manual,374000,Bangalore
+47,Hyundai,2018,Elite i20 SPORTZ 1.2,77073,Petrol,Manual,567000,Bangalore
+48,Hyundai,2018,Creta SX PLUS 1.6 PETROL,57288,Petrol,Manual,907000,Bangalore
+49,Hyundai,2021,VENUE SX 1.0 TURBO,25798,Petrol,Manual,963000,Bangalore
+50,Hyundai,2011,Santro Xing GL PLUS,49805,Petrol,Manual,254000,Bangalore
+51,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,82706,Petrol,Automatic,388000,Bangalore
+52,Hyundai,2012,Verna FLUIDIC 1.6 CRDI SX,123296,Diesel,Manual,442000,Bangalore
+53,Hyundai,2012,i20 SPORTZ 1.4 CRDI,84002,Diesel,Manual,385000,Bangalore
+54,Hyundai,2019,Creta SX AT 1.6 PETROL,28264,Petrol,Automatic,1140000,Bangalore
+55,Hyundai,2015,Verna FLUIDIC 4S1.6 VTVT S O AT,32301,Petrol,Automatic,633000,Bangalore
+56,Hyundai,2020,GRAND I10 NIOS SPORTZ U2 1.2 CRDI,39250,Diesel,Manual,709000,Bangalore
+57,Hyundai,2014,i20 SPORTZ 1.2,65562,Petrol,Manual,422000,Bangalore
+58,Hyundai,2022,VENUE S 1.2,9802,Petrol,Manual,905000,Bangalore
+59,Hyundai,2020,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,17472,Petrol,Manual,674000,Bangalore
+60,Hyundai,2016,Elite i20 MAGNA 1.2,65656,Petrol,Manual,544000,Bangalore
+61,Hyundai,2020,VENUE SX PLUS 1.0 TURBO DCT,29075,Petrol,Automatic,984000,Bangalore
+62,Hyundai,2019,Tucson 2WD MT PETROL,31249,Petrol,Manual,1241000,Bangalore
+63,Hyundai,2015,i20 Active 1.4 SX,86615,Diesel,Manual,568000,Bangalore
+64,Hyundai,2021,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,10826,Petrol,Automatic,763000,Bangalore
+65,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,82571,Petrol,Manual,372000,Bangalore
+66,Hyundai,2021,ALCAZAR PRESTIGE (O) 6STR 2.0 AT,12485,Petrol,Automatic,1676000,Bangalore
+67,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,40581,Petrol,Manual,476000,Bangalore
+68,Hyundai,2013,i10 SPORTZ 1.2 AT,78126,Petrol,Automatic,302000,Bangalore
+69,Hyundai,2018,Verna 1.6 CRDI SX,117994,Diesel,Manual,730000,Bangalore
+70,Hyundai,2015,Creta SX PLUS AT 1.6 DIESEL,106215,Diesel,Automatic,835000,Bangalore
+71,Hyundai,2021,VENUE SX 1.0 (O) TURBO IMT,17981,Petrol,Manual,1060000,Bangalore
+72,Hyundai,2011,i10 MAGNA 1.2,43583,Petrol,Manual,269000,Bangalore
+73,Hyundai,2012,i20 ASTA 1.4 CRDI,115681,Diesel,Manual,379000,Bangalore
+74,Hyundai,2022,VENUE SX 1.0 (O) TURBO IMT,21422,Petrol,Manual,1127000,Bangalore
+75,Hyundai,2014,i20 SPORTZ 1.4 CRDI,102555,Diesel,Manual,432000,Bangalore
+76,Hyundai,2018,Verna 1.6 VTVT SX,60087,Petrol,Manual,797000,Bangalore
+77,Hyundai,2011,Santro Xing GLS,55224,Petrol,Manual,245000,Bangalore
+78,Hyundai,2016,i10 SPORTZ 1.1,48427,Petrol,Manual,386000,Bangalore
+79,Hyundai,2020,Creta SX (O) 1.4 TURBO DCT,32794,Petrol,Automatic,1515000,Bangalore
+80,Hyundai,2016,Elite i20 ASTA 1.4 CRDI (O),76454,Diesel,Manual,647000,Bangalore
+81,Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,18462,Petrol,Automatic,698000,Bangalore
+82,Hyundai,2019,Verna 1.6 VTVT SX (O) AT,49820,Petrol,Automatic,1024000,Bangalore
+83,Hyundai,2017,Eon ERA PLUS (O),36950,Petrol,Manual,322000,Bangalore
+84,Hyundai,2018,Verna 1.6 VTVT SX,44659,Petrol,Manual,834000,Bangalore
+85,Hyundai,2022,NEW I20 ASTA (O) 1.2 AT,12885,Petrol,Automatic,1103000,Bangalore
+86,Hyundai,2011,i20 SPORTZ (O) 1.2,65841,Petrol,Manual,306000,Bangalore
+87,Hyundai,2011,i10 SPORTZ 1.2,91035,Petrol,Manual,260000,Bangalore
+88,Hyundai,2012,i20 SPORTZ 1.4 CRDI,83337,Diesel,Manual,369000,Bangalore
+89,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,44309,Petrol,Automatic,964000,Bangalore
+90,Hyundai,2018,Creta SX (O) 1.6 DIESEL,40746,Diesel,Manual,1217000,Bangalore
+91,Hyundai,2011,i10 MAGNA 1.2,130587,Petrol,Manual,218000,Bangalore
+92,Hyundai,2019,Creta SX (O) EXECUTIVE 1.6 PETROL,48476,Petrol,Manual,1118000,Bangalore
+93,Hyundai,2016,Elite i20 SPORTZ 1.2,36748,Petrol,Manual,638000,Bangalore
+94,Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,36365,Petrol,Automatic,663000,Bangalore
+95,Hyundai,2020,AURA SX 1.2 (O),41269,Petrol,Manual,712000,Bangalore
+96,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,80561,Petrol,Automatic,902000,Bangalore
+97,Hyundai,2017,Creta SX PLUS 1.6 PETROL,52427,Petrol,Manual,902000,Bangalore
+98,Hyundai,2011,i20 SPORTZ 1.2,52325,Petrol,Manual,327000,Bangalore
+99,Hyundai,2011,i20 SPORTZ (O) 1.2,111350,Petrol,Manual,299000,Bangalore
+100,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,55620,Petrol,Automatic,991000,Bangalore
+101,Hyundai,2018,Verna 1.6 VTVT SX,15912,Petrol,Manual,913000,Bangalore
+102,Hyundai,2016,Elite i20 ASTA 1.2 (O),36174,Petrol,Manual,690000,Bangalore
+103,Hyundai,2020,AURA SX+ 1.0 TURBO GDI MT,39864,Petrol,Manual,740000,Bangalore
+104,Hyundai,2017,i20 Active 1.2 SX,69694,Petrol,Manual,649000,Bangalore
+105,Hyundai,2016,Verna FLUIDIC 1.6 CRDI S 4S,65029,Diesel,Manual,771000,Bangalore
+106,Hyundai,2015,Eon ERA +,22557,Petrol,Manual,302000,Bangalore
+107,Hyundai,2021,ALCAZAR 1.5 SIGNATURE (O) AT 6STR,24546,Diesel,Automatic,1898000,Bangalore
+108,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,23523,Petrol,Manual,434000,Bangalore
+109,Hyundai,2017,Creta E PLUS 1.6 PETROL,55852,Petrol,Manual,853000,Bangalore
+110,Hyundai,2012,i20 ASTA 1.4 CRDI,102029,Diesel,Manual,400000,Bangalore
+111,Hyundai,2017,Elite i20 ASTA 1.2,29254,Petrol,Manual,615000,Bangalore
+112,Hyundai,2014,i10 SPORTZ 1.1,82502,Petrol,Manual,294000,Bangalore
+113,Hyundai,2018,Verna 1.6 VTVT SX,55600,Petrol,Manual,828000,Bangalore
+114,Hyundai,2022,ALCAZAR 2.0 SIGNATURE (O) AT 7STR,11009,Petrol,Automatic,1889000,Bangalore
+115,Hyundai,2016,Creta SX PLUS 1.6 PETROL,69273,Petrol,Manual,836000,Bangalore
+116,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,27464,Petrol,Manual,514000,Bangalore
+117,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,43922,Petrol,Automatic,900000,Bangalore
+118,Hyundai,2017,Creta SX PLUS 1.6 PETROL,68811,Petrol,Manual,944000,Bangalore
+119,Hyundai,2023,VENUE SX 1.0 (O) TURBO IMT,6278,Petrol,Manual,1218000,Bangalore
+120,Hyundai,2017,Elite i20 ASTA 1.2,43170,Petrol,Manual,713000,Bangalore
+121,Hyundai,2018,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,103142,Petrol,Manual,465000,Bangalore
+122,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,65458,Petrol,Manual,505000,Bangalore
+123,Hyundai,2017,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,47224,Petrol,Automatic,555000,Bangalore
+124,Hyundai,2011,Santro Xing GL PLUS,78152,Petrol,Manual,248000,Bangalore
+125,Hyundai,2011,i10 MAGNA 1.1,70441,Petrol,Manual,262000,Bangalore
+126,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,83346,Petrol,Automatic,440000,Bangalore
+127,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,15069,Petrol,Manual,568000,Bangalore
+128,Hyundai,2014,Verna FLUIDIC 1.6 VTVT SX AT,107887,Petrol,Automatic,507000,Bangalore
+129,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,94859,Petrol,Automatic,840000,Bangalore
+130,Hyundai,2017,Verna 1.6 VTVT SX AT,58359,Petrol,Automatic,767000,Bangalore
+131,Hyundai,2016,Creta SX PLUS 1.6 PETROL,105587,Petrol,Manual,802000,Bangalore
+132,Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,35148,Petrol,Automatic,676000,Bangalore
+133,Hyundai,2019,Creta SX AT 1.6 PETROL,37657,Petrol,Automatic,1203000,Bangalore
+134,Hyundai,2017,Elite i20 ASTA 1.2,82689,Petrol,Manual,644000,Bangalore
+135,Hyundai,2013,i20 MAGNA (O) 1.2,96431,Petrol,Manual,366000,Bangalore
+136,Hyundai,2020,AURA SX PLUS 1.2 AMT,23213,Petrol,Automatic,673000,Bangalore
+137,Hyundai,2017,Xcent SX 1.2,55733,Petrol,Manual,613000,Bangalore
+138,Hyundai,2016,Creta SX PLUS 1.6 PETROL,60817,Petrol,Manual,932000,Bangalore
+139,Hyundai,2012,i10 ERA 1.1,56699,Petrol,Manual,269000,Bangalore
+140,Hyundai,2016,Eon ERA +,44873,Petrol,Manual,298000,Bangalore
+141,Hyundai,2014,i20 SPORTZ 1.2,57769,Petrol,Manual,493000,Bangalore
+142,Hyundai,2022,VENUE SX 1.0 (O) TURBO IMT,35746,Petrol,Manual,1198000,Bangalore
+143,Hyundai,2020,AURA SX PLUS 1.2 AMT CRDI,49985,Diesel,Automatic,810000,Bangalore
+144,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,42364,Petrol,Automatic,613000,Bangalore
+145,Hyundai,2016,Creta SX PLUS AT 1.6 DIESEL,93290,Diesel,Automatic,936000,Bangalore
+146,Hyundai,2022,VENUE SX (O) 1.5 CRDI,14280,Diesel,Manual,1231000,Bangalore
+147,Hyundai,2019,Creta SX AT 1.6 PETROL,44370,Petrol,Automatic,1124000,Bangalore
+148,Hyundai,2016,Creta SX PLUS AT 1.6 DIESEL,113873,Diesel,Automatic,946000,Bangalore
+149,Hyundai,2016,Elite i20 ASTA 1.2 (O),89398,Petrol,Manual,634000,Bangalore
+150,Hyundai,2016,Grand i10 ASTA 1.2 KAPPA VTVT,42552,Petrol,Manual,488000,Bangalore
+151,Hyundai,2016,Creta E PLUS 1.6 PETROL,48665,Petrol,Manual,833000,Bangalore
+152,Hyundai,2014,i20 SPORTZ 1.2,40194,Petrol,Manual,469000,Bangalore
+153,Hyundai,2017,Creta SX PLUS 1.6 PETROL,18538,Petrol,Manual,983000,Bangalore
+154,Hyundai,2016,Creta E PLUS 1.6 PETROL,89371,Petrol,Manual,858000,Bangalore
+155,Hyundai,2012,i10 SPORTZ 1.2,36577,Petrol,Manual,333000,Bangalore
+156,Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,65464,Petrol,Manual,503000,Bangalore
+157,Hyundai,2012,i20 SPORTZ 1.2,52538,Petrol,Manual,413000,Bangalore
+158,Hyundai,2014,Xcent S 1.2,65455,Petrol,Manual,426000,Bangalore
+159,Hyundai,2016,Creta SX PLUS 1.6 PETROL,92043,Petrol,Manual,850000,Bangalore
+160,Hyundai,2016,Elite i20 ASTA 1.2 (O),55254,Petrol,Manual,680000,Bangalore
+161,Hyundai,2016,Elite i20 ASTA 1.4 CRDI (O),79701,Diesel,Manual,731000,Bangalore
+162,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,26534,Petrol,Manual,453000,Bangalore
+163,Hyundai,2019,i20 Active 1.2 SX,73607,Petrol,Manual,728000,Bangalore
+164,Hyundai,2019,NEW SANTRO ASTA MT,55677,Petrol,Manual,471000,Bangalore
+165,Hyundai,2019,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,73192,Petrol,Automatic,564000,Bangalore
+166,Hyundai,2017,Elite i20 ASTA 1.2,23793,Petrol,Manual,699000,Bangalore
+167,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,14274,Petrol,Automatic,728000,Bangalore
+168,Hyundai,2017,Elite i20 ASTA 1.2,51852,Petrol,Manual,658000,Bangalore
+169,Hyundai,2019,Creta SX AT 1.6 PETROL,58130,Petrol,Automatic,1087000,Bangalore
+170,Hyundai,2022,AURA SX PLUS 1.2 AMT,9393,Petrol,Automatic,794000,Bangalore
+171,Hyundai,2012,i20 SPORTZ 1.2,62951,Petrol,Manual,428000,Bangalore
+172,Hyundai,2018,Eon ERA PLUS (O),57966,Petrol,Manual,354000,Bangalore
+173,Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,92759,Petrol,Manual,497000,Bangalore
+174,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,49460,Petrol,Manual,447000,Bangalore
+175,Hyundai,2018,Elite i20 ASTA 1.2 (O),81961,Petrol,Manual,687000,Bangalore
+176,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,52074,Petrol,Manual,458000,Bangalore
+177,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,50840,Petrol,Automatic,597000,Bangalore
+178,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,60620,Petrol,Manual,527000,Bangalore
+179,Hyundai,2018,Verna 1.6 VTVT SX (O) AT,61288,Petrol,Automatic,913000,Bangalore
+180,Hyundai,2016,Verna 1.6 CRDI SX,69384,Diesel,Manual,801000,Bangalore
+181,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,11853,Petrol,Manual,594000,Bangalore
+182,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,81093,Petrol,Manual,419000,Bangalore
+183,Hyundai,2017,Elite i20 ASTA 1.2,32241,Petrol,Manual,711000,Bangalore
+184,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,44868,Petrol,Automatic,581000,Bangalore
+185,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,41208,Petrol,Manual,531000,Bangalore
+186,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,49862,Petrol,Manual,523000,Bangalore
+187,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,93513,Petrol,Manual,403000,Bangalore
+188,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,21223,Petrol,Manual,547000,Bangalore
+189,Hyundai,2011,Eon ERA,58637,Petrol,Manual,227000,Bangalore
+190,Hyundai,2022,VENUE SX (O) 1.0 TURBO DCT,15703,Petrol,Automatic,1331000,Bangalore
+191,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,74972,Petrol,Manual,484000,Bangalore
+192,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,33903,Petrol,Manual,498000,Bangalore
+193,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,41548,Petrol,Manual,436000,Bangalore
+194,Hyundai,2020,NEW I20 ASTA (O) 1.2 MT,28806,Petrol,Manual,828000,Bangalore
+195,Hyundai,2020,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,45834,Petrol,Automatic,656000,Bangalore
+196,Hyundai,2022,VENUE S 1.2,18184,Petrol,Manual,864000,Bangalore
+197,Hyundai,2019,VENUE S 1.0 TURBO DCT,52244,Petrol,Automatic,817000,Bangalore
+198,Hyundai,2021,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,37258,Petrol,Manual,672000,Bangalore
+199,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,10218,Petrol,Automatic,704000,Bangalore
+200,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,42546,Petrol,Automatic,981000,Bangalore
+201,Hyundai,2017,Elite i20 ASTA 1.2,39866,Petrol,Manual,674000,Bangalore
+202,Hyundai,2011,i10 SPORTZ 1.2,47500,Petrol,Manual,303000,Bangalore
+203,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,45828,Petrol,Automatic,597000,Bangalore
+204,Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,51615,Petrol,Manual,524000,Bangalore
+205,Hyundai,2023,VENUE SX 1.2 PETROL,9717,Petrol,Manual,1130000,Bangalore
+206,Hyundai,2020,NEW SANTRO ASTA AMT,18062,Petrol,Automatic,673000,Bangalore
+207,Hyundai,2014,Verna FLUIDIC 1.6 CRDI SX,89332,Diesel,Manual,561000,Bangalore
+208,Hyundai,2019,NEW SANTRO SPORTZ MT,21868,Petrol,Manual,542000,Bangalore
+209,Hyundai,2019,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,87055,Petrol,Manual,605000,Bangalore
+210,Hyundai,2021,VENUE SX 1.0 TURBO,52456,Petrol,Manual,934000,Bangalore
+211,Hyundai,2017,Elite i20 ASTA 1.2 (O),26827,Petrol,Manual,707000,Bangalore
+212,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,31709,Petrol,Manual,543000,Bangalore
+213,Hyundai,2015,Xcent S 1.2,54387,Petrol,Manual,429000,Bangalore
+214,Hyundai,2014,i20 SPORTZ 1.2,69425,Petrol,Manual,465000,Bangalore
+215,Hyundai,2016,Elite i20 ASTA 1.2 (O),71258,Petrol,Manual,706000,Bangalore
+216,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,51792,Petrol,Manual,669000,Bangalore
+217,Hyundai,2020,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,49849,Petrol,Manual,655000,Bangalore
+218,Hyundai,2017,Elite i20 ASTA 1.4 CRDI,70639,Diesel,Manual,700000,Bangalore
+219,Hyundai,2016,Elite i20 SPORTZ 1.2,58161,Petrol,Manual,552000,Bangalore
+220,Hyundai,2019,Creta SX 1.6 DIESEL,75395,Diesel,Manual,1289000,Bangalore
+221,Hyundai,2019,NEW SANTRO SPORTZ MT,43255,Petrol,Manual,482000,Bangalore
+222,Hyundai,2018,Elite i20 MAGNA EXECUTIVE CVT,32293,Petrol,Automatic,635000,Bangalore
+223,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,40780,Petrol,Manual,564000,Bangalore
+224,Hyundai,2016,Elite i20 ASTA 1.2 (O),58091,Petrol,Manual,672000,Bangalore
+225,Hyundai,2019,Verna 1.6 VTVT SX + AT,37380,Petrol,Automatic,928000,Bangalore
+226,Hyundai,2018,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,13259,Petrol,Manual,541000,Bangalore
+227,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,21881,Petrol,Automatic,1023000,Bangalore
+228,Hyundai,2020,VENUE S 1.2,17800,Petrol,Manual,732000,Bangalore
+229,Hyundai,2021,NEW SANTRO SPORTZ MT,23972,Petrol,Manual,566000,Bangalore
+230,Hyundai,2020,GRAND I10 NIOS MAGNA 1.2 KAPPA VTVT,21438,Petrol,Manual,599000,Bangalore
+231,Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,60260,Petrol,Manual,443000,Bangalore
+232,Hyundai,2016,i20 Active 1.2 S,55034,Petrol,Manual,604000,Bangalore
+233,Hyundai,2019,Creta SX (O) 1.6 PETROL,60704,Petrol,Manual,1081000,Bangalore
+234,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,12047,Petrol,Automatic,486000,Bangalore
+235,Hyundai,2019,VENUE SX 1.0 (O) TURBO,34996,Petrol,Manual,957000,Bangalore
+236,Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,34496,Petrol,Manual,528000,Bangalore
+237,Hyundai,2014,Xcent S 1.2,67606,Petrol,Manual,412000,Bangalore
+238,Hyundai,2021,NEW I20 ASTA (O) 1.2 MT,30376,Petrol,Manual,811000,Bangalore
+239,Hyundai,2021,Creta SX (O) 1.4 TURBO DCT DUAL TONE,21027,Petrol,Automatic,1725000,Bangalore
+240,Hyundai,2016,Elite i20 ASTA 1.4 CRDI (O),86715,Diesel,Manual,719000,Bangalore
+241,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,27754,Petrol,Automatic,704000,Bangalore
+242,Hyundai,2015,Xcent S 1.2,69271,Petrol,Manual,419000,Bangalore
+243,Hyundai,2013,Grand i10 MAGNA 1.2 KAPPA VTVT,98718,Petrol,Manual,380000,Bangalore
+244,Hyundai,2014,Grand i10 MAGNA 1.2 KAPPA VTVT,40479,Petrol,Manual,425000,Bangalore
+245,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,80575,Petrol,Automatic,458000,Bangalore
+246,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,50784,Petrol,Manual,521000,Bangalore
+247,Hyundai,2013,i10 SPORTZ 1.2,55303,Petrol,Manual,349000,Bangalore
+248,Hyundai,2019,Elite i20 ASTA (O) CVT,23570,Petrol,Automatic,792000,Bangalore
+249,Hyundai,2021,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,30588,Petrol,Automatic,745000,Bangalore
+250,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,69760,Petrol,Manual,453000,Bangalore
+251,Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,39916,Petrol,Manual,472000,Bangalore
+252,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,24183,Petrol,Manual,582000,Bangalore
+253,Hyundai,2020,Verna SX (O) 1.5 CRDI,60943,Diesel,Manual,1288000,Bangalore
+254,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,23731,Petrol,Manual,559000,Bangalore
+255,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,70403,Petrol,Manual,441000,Bangalore
+256,Hyundai,2017,i20 Active 1.4 SX,39981,Diesel,Manual,779000,Bangalore
+257,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,27218,Petrol,Manual,476000,Bangalore
+258,Hyundai,2021,VENUE SX 1.0 TURBO IMT,16920,Petrol,Manual,977000,Bangalore
+259,Hyundai,2014,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,61541,Petrol,Automatic,429000,Bangalore
+260,Hyundai,2013,i10 SPORTZ 1.2,46079,Petrol,Manual,408000,Bangalore
+261,Hyundai,2022,Creta SX (O) 1.4 TURBO DCT,20634,Petrol,Automatic,1770000,Bangalore
+262,Hyundai,2017,Grand i10 ERA 1.2 KAPPA VTVT,81602,Petrol,Manual,405000,Bangalore
+263,Hyundai,2022,NEW SANTRO SPORTZ MT,19934,Petrol,Manual,587000,Bangalore
+264,Hyundai,2013,i20 MAGNA (O) 1.2,80835,Petrol,Manual,359000,Bangalore
+265,Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,12878,Petrol,Automatic,722000,Bangalore
+266,Hyundai,2020,Creta SX (O) IVT 1.5 PETROL,38702,Petrol,Automatic,1489000,Bangalore
+267,Hyundai,2017,Elite i20 ASTA 1.2,35728,Petrol,Manual,730000,Bangalore
+268,Hyundai,2018,Verna 1.6 VTVT SX,78703,Petrol,Manual,853000,Bangalore
+269,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,26623,Petrol,Manual,515000,Bangalore
+270,Hyundai,2019,NEW SANTRO SPORTZ AMT,52278,Petrol,Automatic,512000,Bangalore
+271,Hyundai,2015,Xcent S (O) 1.2,71143,Petrol,Manual,453000,Bangalore
+272,Hyundai,2013,Verna FLUIDIC 1.6 CRDI SX,103388,Diesel,Manual,434000,Bangalore
+273,Hyundai,2016,Grand i10 ASTA AT 1.2 KAPPA VTVT,93065,Petrol,Automatic,471000,Bangalore
+274,Hyundai,2014,Xcent S 1.2,72810,Petrol,Manual,409000,Bangalore
+275,Hyundai,2019,Creta SX AT 1.6 PETROL,6606,Petrol,Automatic,1240000,Bangalore
+276,Hyundai,2022,VENUE S+ 1.2,33680,Petrol,Manual,855000,Bangalore
+277,Hyundai,2015,Eon D-LITE+,71802,Petrol,Manual,260000,Bangalore
+278,Hyundai,2014,Grand i10 MAGNA 1.2 KAPPA VTVT,80602,Petrol,Manual,416000,Bangalore
+279,Hyundai,2022,NEW I20 SPORTZ 1.2 MT DUAL TONE,38428,Petrol,Manual,844000,Bangalore
+280,Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,31281,Petrol,Manual,482000,Bangalore
+281,Hyundai,2015,Grand i10 ASTA (O) 1.2 KAPPA VTVT,99767,Petrol,Manual,419000,Bangalore
+282,Hyundai,2013,Eon ERA +,59056,Petrol,Manual,272000,Bangalore
+283,Hyundai,2015,Elite i20 MAGNA 1.2,74832,Petrol,Manual,496000,Bangalore
+284,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,40475,Petrol,Automatic,1025000,Bangalore
+285,Hyundai,2020,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,9281,Petrol,Manual,631000,Bangalore
+286,Hyundai,2021,Creta SX 1.5 PETROL,24743,Petrol,Manual,1404000,Bangalore
+287,Hyundai,2014,Eon ERA +,35510,Petrol,Manual,285000,Bangalore
+288,Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX,59998,Petrol,Manual,450000,Bangalore
+289,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,62456,Petrol,Manual,643000,Bangalore
+290,Hyundai,2014,Eon MAGNA +,97619,Petrol,Manual,261000,Bangalore
+291,Hyundai,2012,i10 SPORTZ 1.2,57348,Petrol,Manual,340000,Bangalore
+292,Hyundai,2022,NEW I20 N LINE N6 1.0 TURBO GDI IMT,9193,Petrol,Manual,1088000,Bangalore
+293,Hyundai,2016,Creta SX PLUS 1.6 PETROL,76040,Petrol,Manual,816000,Bangalore
+294,Hyundai,2016,i20 Active 1.4 SX,82644,Diesel,Manual,599000,Bangalore
+295,Hyundai,2018,Verna 1.4 EX PETROL,70838,Petrol,Manual,706000,Bangalore
+296,Hyundai,2017,Elite i20 ERA 1.2,10914,Petrol,Manual,569000,Bangalore
+297,Hyundai,2013,i20 MAGNA (O) 1.4 CRDI,94514,Diesel,Manual,360000,Bangalore
+298,Hyundai,2022,Creta SX (O) AT 1.5 DIESEL,27509,Diesel,Automatic,1846000,Bangalore
+299,Hyundai,2014,Santro Xing GLS PLUS AUDIO,74647,Petrol,Manual,274000,Bangalore
+300,Hyundai,2019,NEW SANTRO SPORTZ AMT,20560,Petrol,Automatic,546000,Bangalore
+301,Hyundai,2023,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,11028,Petrol,Manual,754000,Bangalore
+302,Hyundai,2018,Elite i20 ASTA 1.2 (O),50068,Petrol,Manual,692000,Bangalore
+303,Hyundai,2013,i20 ASTA 1.2,78316,Petrol,Manual,408000,Bangalore
+304,Hyundai,2016,i10 SPORTZ 1.1,16798,Petrol,Manual,416000,Bangalore
+305,Hyundai,2014,Santro Xing GL PLUS,69029,Petrol,Manual,252000,Bangalore
+306,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,96375,Petrol,Manual,436000,Bangalore
+307,Hyundai,2014,Grand i10 MAGNA 1.2 KAPPA VTVT,76725,Petrol,Manual,384000,Bangalore
+308,Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,117675,Petrol,Manual,496000,Bangalore
+309,Hyundai,2016,Elite i20 MAGNA 1.2,55009,Petrol,Manual,540000,Bangalore
+310,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,17285,Petrol,Automatic,676000,Bangalore
+311,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,39915,Petrol,Manual,701000,Bangalore
+312,Hyundai,2017,Creta SX PLUS 1.6 PETROL,61235,Petrol,Manual,902000,Bangalore
+313,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,28474,Petrol,Manual,503000,Bangalore
+314,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,45003,Petrol,Manual,500000,Bangalore
+315,Hyundai,2011,i10 MAGNA 1.2,72455,Petrol,Manual,271000,Bangalore
+316,Hyundai,2014,Grand i10 MAGNA 1.1 CRDI,54106,Diesel,Manual,458000,Bangalore
+317,Hyundai,2013,i10 ASTA 1.2,61285,Petrol,Manual,411000,Bangalore
+318,Hyundai,2014,Xcent SX AT 1.2 (O),96431,Petrol,Automatic,422000,Bangalore
+319,Hyundai,2018,Verna 1.6 VTVT SX (O) AT,19792,Petrol,Automatic,994000,Bangalore
+320,Hyundai,2015,Xcent S (O) 1.2,88423,Petrol,Manual,395000,Bangalore
+321,Hyundai,2014,Xcent S 1.2,82065,Petrol,Manual,376000,Bangalore
+322,Hyundai,2019,Grand i10 MAGNA 1.2 KAPPA VTVT,14199,Petrol,Manual,483000,Bangalore
+323,Hyundai,2019,Elite i20 ASTA 1.2 (O),25298,Petrol,Manual,711000,Bangalore
+324,Hyundai,2018,Xcent E+,73536,Petrol,Manual,455000,Bangalore
+325,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2 CVT,38639,Petrol,Automatic,743000,Bangalore
+326,Hyundai,2020,Creta S 1.5 PETROL,30447,Petrol,Manual,1183000,Bangalore
+327,Hyundai,2016,Elite i20 SPORTZ 1.2,50641,Petrol,Manual,590000,Bangalore
+328,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,21733,Petrol,Manual,727000,Bangalore
+329,Hyundai,2019,Creta SX 1.6 PETROL DUAL TONE,36336,Petrol,Manual,1056000,Bangalore
+330,Hyundai,2017,Elite i20 SPORTZ 1.2,78959,Petrol,Manual,567000,Bangalore
+331,Hyundai,2020,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,17849,Petrol,Manual,581000,Bangalore
+332,Hyundai,2019,Verna 1.6 VTVT SX,55921,Petrol,Manual,778000,delhi-ncr
+333,Hyundai,2015,Elite i20 MAGNA 1.2,66704,Petrol,Manual,434000,delhi-ncr
+334,Hyundai,2019,Verna 1.6 VTVT SX,34032,Petrol,Manual,835000,delhi-ncr
+335,Hyundai,2022,Creta SX (O) 1.4 TURBO DCT,40368,Petrol,Automatic,1654000,delhi-ncr
+336,Hyundai,2020,VENUE SX 1.0 TURBO,43417,Petrol,Manual,831000,delhi-ncr
+337,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,29759,Petrol,Automatic,900000,delhi-ncr
+338,Hyundai,2024,NEW I20 Sportz (O) 1.2 IVT,3295,Petrol,Automatic,977000,delhi-ncr
+339,Hyundai,2020,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,20631,Petrol,Manual,541000,delhi-ncr
+340,Hyundai,2019,NEW SANTRO SPORTZ MT,53016,Petrol,Manual,417000,delhi-ncr
+341,Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,29040,Petrol,Manual,360000,delhi-ncr
+342,Hyundai,2014,Eon ERA +,45069,Petrol,Manual,200000,delhi-ncr
+343,Hyundai,2016,i20 Active 1.2 S,54035,Petrol,Manual,503000,delhi-ncr
+344,Hyundai,2018,Elite i20 ASTA 1.2 (O),48575,Petrol,Manual,530000,delhi-ncr
+345,Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,48626,Petrol,Manual,287000,delhi-ncr
+346,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,41163,Petrol,Manual,386000,delhi-ncr
+347,Hyundai,2017,Elite i20 MAGNA EXECUTIVE 1.2,27659,Petrol,Manual,484000,delhi-ncr
+348,Hyundai,2022,Creta EX 1.5 PETROL,19352,Petrol,Manual,1151000,delhi-ncr
+349,Hyundai,2019,Verna 1.6 VTVT SX (O) AT,40798,Petrol,Automatic,877000,delhi-ncr
+350,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,32410,Petrol,Manual,430000,delhi-ncr
+351,Hyundai,2017,Elite i20 SPORTZ 1.2,31781,Petrol,Manual,530000,delhi-ncr
+352,Hyundai,2017,Verna 1.6 VTVT SX (O) AT,101051,Petrol,Automatic,759000,delhi-ncr
+353,Hyundai,2019,Creta SX 1.6 PETROL,21240,Petrol,Manual,866000,delhi-ncr
+354,Hyundai,2021,Creta SX 1.5 DIESEL,25879,Diesel,Manual,1382000,delhi-ncr
+355,Hyundai,2021,VENUE SX 1.0 TURBO IMT,43632,Petrol,Manual,836000,delhi-ncr
+356,Hyundai,2021,Verna SX (O) 1.5 CRDI AT,63807,Diesel,Automatic,1149000,delhi-ncr
+357,Hyundai,2018,Tucson 2WD MT PETROL,43368,Petrol,Manual,1250000,delhi-ncr
+358,Hyundai,2021,Creta S 1.5 PETROL,20633,Petrol,Manual,1118000,delhi-ncr
+359,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,40186,Petrol,Manual,396000,delhi-ncr
+360,Hyundai,2016,Creta SX PLUS 1.6 PETROL,84938,CNG,Manual,699000,delhi-ncr
+361,Hyundai,2015,Elite i20 SPORTZ 1.2,76547,Petrol,Manual,400000,delhi-ncr
+362,Hyundai,2019,VENUE SX 1.0 (O) TURBO,57649,Petrol,Manual,744000,delhi-ncr
+363,Hyundai,2022,NEW I20 N LINE N6 1.0 TURBO GDI IMT,10797,Petrol,Manual,919000,delhi-ncr
+364,Hyundai,2020,AURA SX+ 1.0 TURBO GDI MT,63013,Petrol,Manual,654000,delhi-ncr
+365,Hyundai,2019,Elite i20 MAGNA PLUS 1.4 CRDI,60699,Diesel,Manual,615000,delhi-ncr
+366,Hyundai,2015,Elite i20 MAGNA 1.2,38116,Petrol,Manual,426000,delhi-ncr
+367,Hyundai,2016,Creta BASE 1.6 PETROL,82912,Petrol,Manual,592000,delhi-ncr
+368,Hyundai,2017,Elite i20 SPORTZ 1.2,43570,Petrol,Manual,531000,delhi-ncr
+369,Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX OPT,91163,Petrol,Manual,397000,delhi-ncr
+370,Hyundai,2019,Elite i20 MAGNA PLUS 1.4 CRDI,62874,Diesel,Manual,620000,delhi-ncr
+371,Hyundai,2019,NEW SANTRO SPORTZ MT,62309,Petrol,Manual,417000,delhi-ncr
+372,Hyundai,2022,VENUE S+ 1.2,9796,Petrol,Manual,797000,delhi-ncr
+373,Hyundai,2013,Eon MAGNA +,67222,Petrol,Manual,192000,delhi-ncr
+374,Hyundai,2015,Creta SX PLUS 1.6 PETROL,102963,Petrol,Manual,600000,delhi-ncr
+375,Hyundai,2020,Creta SX AT 1.5 DIESEL,73831,Diesel,Automatic,1266000,delhi-ncr
+376,Hyundai,2015,Elite i20 SPORTZ 1.2,40714,Petrol,Manual,459000,delhi-ncr
+377,Hyundai,2021,NEW I20 ASTA (O) 1.0 TURBO GDI DCT,20607,Petrol,Automatic,894000,delhi-ncr
+378,Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,73097,Petrol,Manual,394000,delhi-ncr
+379,Hyundai,2010,i10 SPORTZ 1.2,74002,Petrol,Manual,144000,delhi-ncr
+380,Hyundai,2019,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,29932,Petrol,Manual,509000,delhi-ncr
+381,Hyundai,2019,Creta SX AT 1.6 DIESEL,67168,Diesel,Automatic,1060000,delhi-ncr
+382,Hyundai,2014,i20 SPORTZ 1.2,78713,Petrol,Manual,347000,delhi-ncr
+383,Hyundai,2010,Santro Xing GLS,55306,Petrol,Manual,112000,delhi-ncr
+384,Hyundai,2018,Creta SX 1.6 PETROL,30720,Petrol,Manual,916000,delhi-ncr
+385,Hyundai,2016,Creta SX PLUS 1.6 PETROL,78062,Petrol,Manual,741000,delhi-ncr
+386,Hyundai,2019,VENUE SX 1.0 TURBO,48008,Petrol,Manual,796000,delhi-ncr
+387,Hyundai,2012,Verna FLUIDIC 1.6 VTVT EX,38005,Petrol,Manual,372000,delhi-ncr
+388,Hyundai,2012,Santro Xing GL PLUS,67395,Petrol,Manual,187000,delhi-ncr
+389,Hyundai,2016,Creta S 1.6 PETROL,77095,Petrol,Manual,700000,delhi-ncr
+390,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,21010,Petrol,Manual,426000,delhi-ncr
+391,Hyundai,2021,VENUE SX 1.0 TURBO,29239,Petrol,Manual,857000,delhi-ncr
+392,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,24376,Petrol,Manual,426000,delhi-ncr
+393,Hyundai,2019,NEW SANTRO SPORTZ MT,31157,Petrol,Manual,441000,delhi-ncr
+394,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,101240,Petrol,Automatic,721000,delhi-ncr
+395,Hyundai,2011,i10 MAGNA 1.2,75338,Petrol,Manual,182000,delhi-ncr
+396,Hyundai,2011,i20 SPORTZ 1.2,73031,Petrol,Manual,183000,delhi-ncr
+397,Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,33693,Petrol,Manual,514000,delhi-ncr
+398,Hyundai,2020,VENUE SX 1.0 TURBO,25041,Petrol,Manual,830000,delhi-ncr
+399,Hyundai,2011,i10 MAGNA 1.2,75117,Petrol,Manual,166000,delhi-ncr
+400,Hyundai,2019,NEW SANTRO SPORTZ MT,49352,Petrol,Manual,417000,delhi-ncr
+401,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,90739,Petrol,Automatic,735000,delhi-ncr
+402,Hyundai,2018,Creta E PLUS 1.6 PETROL,103702,Petrol,Manual,713000,delhi-ncr
+403,Hyundai,2019,NEW SANTRO SPORTZ AMT,65109,Petrol,Automatic,417000,delhi-ncr
+404,Hyundai,2012,i10 MAGNA 1.2,30532,Petrol,Manual,209000,delhi-ncr
+405,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,69965,CNG,Manual,404000,delhi-ncr
+406,Hyundai,2016,Grand i10 ASTA 1.2 KAPPA VTVT,72561,Petrol,Manual,426000,delhi-ncr
+407,Hyundai,2016,Creta BASE 1.6 PETROL,65480,Petrol,Manual,656000,delhi-ncr
+408,Hyundai,2021,XCENT PRIME T+ CNG,30541,CNG,Manual,638000,delhi-ncr
+409,Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,52543,Petrol,Automatic,492000,delhi-ncr
+410,Hyundai,2011,i10 MAGNA 1.2,57449,Petrol,Manual,161000,delhi-ncr
+411,Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,99108,Petrol,Manual,332000,delhi-ncr
+412,Hyundai,2014,i20 SPORTZ 1.2,85084,Petrol,Manual,342000,delhi-ncr
+413,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,95409,Petrol,Automatic,729000,delhi-ncr
+414,Hyundai,2019,NEW SANTRO SPORTZ MT,24771,Petrol,Manual,441000,delhi-ncr
+415,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,53350,Petrol,Automatic,883000,delhi-ncr
+416,Hyundai,2011,i10 MAGNA 1.2,114720,Petrol,Manual,161000,delhi-ncr
+417,Hyundai,2011,i10 MAGNA 1.2,82923,Petrol,Manual,161000,delhi-ncr
+418,Hyundai,2011,i10 MAGNA 1.1,82143,Petrol,Manual,152000,delhi-ncr
+419,Hyundai,2020,Grand i10 SPORTZ 1.2 KAPPA VTVT,22924,Petrol,Manual,546000,delhi-ncr
+420,Hyundai,2013,i20 MAGNA 1.2,69108,Petrol,Manual,267000,delhi-ncr
+421,Hyundai,2011,i10 SPORTZ 1.2,55723,Petrol,Manual,174000,delhi-ncr
+422,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,72340,Petrol,Automatic,884000,delhi-ncr
+423,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,16739,Petrol,Automatic,429000,delhi-ncr
+424,Hyundai,2016,Grand i10 ASTA (O) 1.2 KAPPA VTVT,59812,Petrol,Manual,394000,delhi-ncr
+425,Hyundai,2013,Eon MAGNA +,100340,Petrol,Manual,194000,delhi-ncr
+426,Hyundai,2012,i10 MAGNA 1.2,61470,Petrol,Manual,208000,delhi-ncr
+427,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,74436,Petrol,Automatic,826000,delhi-ncr
+428,Hyundai,2011,Santro Xing GL PLUS,69102,Petrol,Manual,164000,delhi-ncr
+429,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,79122,Petrol,Manual,428000,delhi-ncr
+430,Hyundai,2011,i20 MAGNA (O) 1.2,43790,Petrol,Manual,246000,delhi-ncr
+431,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,70908,Petrol,Automatic,883000,delhi-ncr
+432,Hyundai,2011,i20 SPORTZ 1.2,71485,Petrol,Manual,208000,delhi-ncr
+433,Hyundai,2018,Creta SX PLUS AT 1.6 PETROL,86490,Petrol,Automatic,896000,delhi-ncr
+434,Hyundai,2011,i20 MAGNA 1.2,97176,Petrol,Manual,196000,delhi-ncr
+435,Hyundai,2015,Elite i20 MAGNA 1.2,84601,Petrol,Manual,408000,delhi-ncr
+436,Hyundai,2016,Grand i10 ASTA 1.2 KAPPA VTVT,97399,Petrol,Manual,395000,delhi-ncr
+437,Hyundai,2011,i20 SPORTZ 1.2,99510,Petrol,Manual,213000,delhi-ncr
+438,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,60443,Petrol,Manual,415000,delhi-ncr
+439,Hyundai,2012,i10 MAGNA 1.1,100144,Petrol,Manual,173000,delhi-ncr
+440,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,80208,Petrol,Automatic,442000,delhi-ncr
+441,Hyundai,2016,Grand i10 MAGNA AT 1.2 KAPPA VTVT,25133,Petrol,Automatic,416000,delhi-ncr
+442,Hyundai,2018,Xcent S 1.2,87732,CNG,Manual,495000,delhi-ncr
+443,Hyundai,2019,NEW SANTRO ERA EXECUTIVE,69331,Petrol,Manual,380000,delhi-ncr
+444,Hyundai,2017,Verna 1.6 VTVT SX,79384,Petrol,Manual,675000,delhi-ncr
+445,Hyundai,2015,Elite i20 MAGNA 1.2,60958,Petrol,Manual,437000,delhi-ncr
+446,Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,50181,CNG,Manual,331000,delhi-ncr
+447,Hyundai,2015,i20 Active 1.2 SX,51090,Petrol,Manual,476000,delhi-ncr
+448,Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,62536,Petrol,Manual,331000,delhi-ncr
+449,Hyundai,2017,New Elantra 2.0 SX(O) AT PETROL,113960,Petrol,Automatic,893000,delhi-ncr
+450,Hyundai,2016,Creta BASE 1.6 PETROL,45368,Petrol,Manual,656000,delhi-ncr
+451,Hyundai,2018,Grand i10 MAGNA AT 1.2 KAPPA VTVT,44018,Petrol,Automatic,487000,delhi-ncr
+452,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,96739,Petrol,Manual,391000,delhi-ncr
+453,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,40819,Petrol,Manual,338000,delhi-ncr
+454,Hyundai,2018,Creta SX 1.6 PETROL,53315,Petrol,Manual,900000,delhi-ncr
+455,Hyundai,2017,Grand i10 MAGNA 1.2 KAPPA VTVT,26617,Petrol,Manual,421000,delhi-ncr
+456,Hyundai,2014,Elite i20 MAGNA 1.2,52966,Petrol,Manual,364000,delhi-ncr
+457,Hyundai,2017,Elite i20 SPORTZ 1.2,81832,Petrol,Manual,498000,delhi-ncr
+458,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,97470,Petrol,Automatic,765000,delhi-ncr
+459,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,95968,Petrol,Manual,323000,delhi-ncr
+460,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,33864,Petrol,Manual,650000,delhi-ncr
+461,Hyundai,2017,Elite i20 MAGNA 1.2,62492,Petrol,Manual,508000,delhi-ncr
+462,Hyundai,2021,VENUE S 1.2,15045,Petrol,Manual,734000,delhi-ncr
+463,Hyundai,2014,i10 MAGNA 1.1,84017,Petrol,Manual,233000,delhi-ncr
+464,Hyundai,2020,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,43846,Petrol,Manual,512000,delhi-ncr
+465,Hyundai,2017,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,51401,Petrol,Manual,401000,delhi-ncr
+466,Hyundai,2016,Elite i20 MAGNA 1.2,74240,Petrol,Manual,450000,delhi-ncr
+467,Hyundai,2021,VENUE S 1.2,19866,Petrol,Manual,761000,delhi-ncr
+468,Hyundai,2018,Xcent S 1.2,90833,CNG,Manual,471000,delhi-ncr
+469,Hyundai,2015,Elite i20 ASTA 1.2,93800,Petrol,Manual,443000,delhi-ncr
+470,Hyundai,2011,i20 MAGNA 1.2,34169,Petrol,Manual,223000,delhi-ncr
+471,Hyundai,2012,i10 MAGNA 1.2,99372,Petrol,Manual,172000,delhi-ncr
+472,Hyundai,2020,Creta SX 1.5 PETROL,64872,Petrol,Manual,1170000,delhi-ncr
+473,Hyundai,2020,Creta S 1.5 PETROL,80427,Petrol,Manual,1007000,delhi-ncr
+474,Hyundai,2019,Xcent S 1.2,41326,Petrol,Manual,521000,delhi-ncr
+475,Hyundai,2017,Elite i20 SPORTZ 1.2,47327,Petrol,Manual,505000,delhi-ncr
+476,Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,92619,Petrol,Manual,317000,delhi-ncr
+477,Hyundai,2017,Creta E PLUS 1.6 PETROL,83038,Petrol,Manual,713000,delhi-ncr
+478,Hyundai,2020,VENUE SX 1.0 (O) TURBO,36125,Petrol,Manual,864000,delhi-ncr
+479,Hyundai,2012,i10 MAGNA 1.2,40020,Petrol,Manual,200000,delhi-ncr
+480,Hyundai,2019,Creta SX AT 1.6 PETROL,69534,Petrol,Automatic,1099000,delhi-ncr
+481,Hyundai,2022,Creta SX IVT 1.5 PETROL,23516,Petrol,Automatic,1512000,delhi-ncr
+482,Hyundai,2020,Verna SX (O) 1.0 TURBO DCT,42349,Petrol,Automatic,1102000,delhi-ncr
+483,Hyundai,2019,NEW SANTRO SPORTZ AMT,2479,Petrol,Automatic,494000,delhi-ncr
+484,Hyundai,2019,NEW SANTRO MAGNA CNG,75012,CNG,Manual,473000,delhi-ncr
+485,Hyundai,2019,Creta E PLUS 1.6 PETROL,17333,Petrol,Manual,921000,delhi-ncr
+486,Hyundai,2012,i10 ERA 1.1,50949,Petrol,Manual,196000,delhi-ncr
+487,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,75903,Petrol,Automatic,827000,delhi-ncr
+488,Hyundai,2014,Eon MAGNA +,43441,Petrol,Manual,213000,delhi-ncr
+489,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,60403,Petrol,Manual,558000,delhi-ncr
+490,Hyundai,2020,Creta SX (O) 1.4 TURBO DCT,57460,Petrol,Automatic,1439000,delhi-ncr
+491,Hyundai,2023,AURA S 1.2 CNG,25460,CNG,Manual,777000,delhi-ncr
+492,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,15600,Petrol,Manual,650000,delhi-ncr
+493,Hyundai,2015,Grand i10 MAGNA 1.2 KAPPA VTVT,62902,Petrol,Manual,304000,delhi-ncr
+494,Hyundai,2016,i10 MAGNA 1.1,41176,Petrol,Manual,314000,delhi-ncr
+495,Hyundai,2023,NEW I20 ASTA (O) 1.2 MT,20051,Petrol,Manual,899000,delhi-ncr
+496,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,36341,Petrol,Automatic,380000,delhi-ncr
+497,Hyundai,2014,Xcent S (O) 1.2,89712,Petrol,Manual,300000,delhi-ncr
+498,Hyundai,2021,NEW SANTRO MAGNA,13421,Petrol,Manual,469000,delhi-ncr
+499,Hyundai,2022,VENUE SX 1.2 PETROL,25523,Petrol,Manual,947000,delhi-ncr
+500,Hyundai,2014,i20 SPORTZ 1.2,54137,Petrol,Manual,354000,delhi-ncr
+501,Hyundai,2022,Creta SX (O) IVT 1.5 PETROL,42763,Petrol,Automatic,1561000,delhi-ncr
+502,Hyundai,2019,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,19784,Petrol,Manual,539000,delhi-ncr
+503,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,17035,Petrol,Manual,650000,delhi-ncr
+504,Hyundai,2020,Creta SX (O) 1.4 TURBO DCT,57541,Petrol,Automatic,1469000,delhi-ncr
+505,Hyundai,2017,Eon ERA +,60656,Petrol,Manual,245000,delhi-ncr
+506,Hyundai,2013,Verna FLUIDIC 1.4 VTVT,37454,Petrol,Manual,356000,delhi-ncr
+507,Hyundai,2021,VENUE S 1.2,22303,Petrol,Manual,775000,delhi-ncr
+508,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,41711,Petrol,Automatic,861000,delhi-ncr
+509,Hyundai,2023,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,15568,Petrol,Manual,679000,delhi-ncr
+510,Hyundai,2019,Creta S 1.4 DIESEL,51919,Diesel,Manual,859000,delhi-ncr
+511,Hyundai,2019,Creta SX AT 1.6 PETROL,34348,Petrol,Automatic,1063000,delhi-ncr
+512,Hyundai,2021,VENUE SX PLUS 1.0 TURBO DCT,18098,Petrol,Automatic,1064000,delhi-ncr
+513,Hyundai,2022,AURA S 1.2 CNG,39362,CNG,Manual,734000,delhi-ncr
+514,Hyundai,2020,VENUE S 1.4 CRDI,46446,Diesel,Manual,735000,delhi-ncr
+515,Hyundai,2016,i10 MAGNA 1.1,48302,Petrol,Manual,278000,delhi-ncr
+516,Hyundai,2011,i20 MAGNA 1.2,78624,Petrol,Manual,183000,delhi-ncr
+517,Hyundai,2022,GRAND I10 NIOS SPORTZ U2 AMT 1.2 CRDI,38529,Diesel,Automatic,719000,delhi-ncr
+518,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,95573,CNG,Manual,409000,delhi-ncr
+519,Hyundai,2021,NEW SANTRO SPORTZ AMT,21850,Petrol,Automatic,542000,delhi-ncr
+520,Hyundai,2016,Creta SX PLUS ANNIVERSARY EDITION 1.6 PETROL,68339,Petrol,Manual,736000,delhi-ncr
+521,Hyundai,2013,i10 MAGNA 1.2,55217,Petrol,Manual,215000,delhi-ncr
+522,Hyundai,2012,i10 SPORTZ 1.2 AT,42065,Petrol,Automatic,250000,delhi-ncr
+523,Hyundai,2021,VENUE S 1.2,43270,Petrol,Manual,695000,delhi-ncr
+524,Hyundai,2016,Creta SX PLUS 1.6 PETROL,122390,Petrol,Manual,653000,delhi-ncr
+525,Hyundai,2021,Creta SX (O) 1.5 DIESEL,42584,Diesel,Manual,1295000,delhi-ncr
+526,Hyundai,2019,NEW SANTRO SPORTZ MT,61630,Petrol,Manual,378000,delhi-ncr
+527,Hyundai,2013,Grand i10 SPORTZ 1.2 KAPPA VTVT,80540,Petrol,Manual,291000,delhi-ncr
+528,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,30800,Petrol,Automatic,459000,delhi-ncr
+529,Hyundai,2016,Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,49812,Petrol,Automatic,407000,delhi-ncr
+530,Hyundai,2011,i20 SPORTZ 1.2,82650,Petrol,Manual,215000,delhi-ncr
+531,Hyundai,2019,NEW SANTRO SPORTZ MT,41083,Petrol,Manual,378000,delhi-ncr
+532,Hyundai,2015,Verna FLUIDIC 4S 1.6 VTVT S,72498,Petrol,Manual,543000,delhi-ncr
+533,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,60846,Petrol,Automatic,698000,delhi-ncr
+534,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,57677,Petrol,Manual,368000,delhi-ncr
+535,Hyundai,2019,Elite i20 SPORTZ 1.2,34181,Petrol,Manual,524000,delhi-ncr
+536,Hyundai,2013,Grand i10 SPORTZ 1.2 KAPPA VTVT,71311,Petrol,Manual,284000,delhi-ncr
+537,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,10212,Petrol,Manual,496000,delhi-ncr
+538,Hyundai,2017,Elite i20 ASTA 1.2 (O),57487,Petrol,Manual,520000,delhi-ncr
+539,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,42018,Petrol,Manual,388000,delhi-ncr
+540,Hyundai,2018,Verna 1.6 VTVT SX (O) AT,13069,Petrol,Automatic,892000,delhi-ncr
+541,Hyundai,2018,Elite i20 SPORTZ 1.2,17385,Petrol,Manual,583000,delhi-ncr
+542,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,25013,CNG,Manual,701000,delhi-ncr
+543,Hyundai,2016,i10 MAGNA 1.1,59405,Petrol,Manual,309000,delhi-ncr
+544,Hyundai,2014,Xcent S 1.2,63873,Petrol,Manual,319000,delhi-ncr
+545,Hyundai,2021,NEW I20 ASTA 1.2 MT,42707,Petrol,Manual,752000,delhi-ncr
+546,Hyundai,2012,i10 MAGNA 1.2,52773,Petrol,Manual,190000,delhi-ncr
+547,Hyundai,2021,VENUE SX 1.5 CRDI,46063,Diesel,Manual,901000,delhi-ncr
+548,Hyundai,2016,i10 SPORTZ 1.1,45505,Petrol,Manual,385000,Hyderabad
+549,Hyundai,2017,Creta SX PLUS 1.6 PETROL,47231,Petrol,Manual,958000,Hyderabad
+550,Hyundai,2016,i10 SPORTZ 1.1,48333,Petrol,Manual,400000,Hyderabad
+551,Hyundai,2021,Creta SX (O) 1.4 TURBO DCT,46110,Petrol,Automatic,1630000,Hyderabad
+552,Hyundai,2020,Creta SX (O) 1.6 PETROL,53893,Petrol,Manual,1209000,Hyderabad
+553,Hyundai,2018,Creta SX AT 1.6 PETROL,38297,Petrol,Automatic,1158000,Hyderabad
+554,Hyundai,2016,Eon SPORTZ,43699,Petrol,Manual,301000,Hyderabad
+555,Hyundai,2013,i10 MAGNA 1.2,37308,Petrol,Manual,311000,Hyderabad
+556,Hyundai,2017,Elite i20 SPORTZ 1.2,32430,Petrol,Manual,590000,Hyderabad
+557,Hyundai,2019,Verna 1.6 CRDI SX + AT,68080,Diesel,Automatic,976000,Hyderabad
+558,Hyundai,2022,VENUE SX PLUS 1.0 TURBO DCT,35606,Petrol,Automatic,1133000,Hyderabad
+559,Hyundai,2018,i20 Active 1.2 S,36643,Petrol,Manual,628000,Hyderabad
+560,Hyundai,2013,i20 MAGNA (O) 1.2,65489,Petrol,Manual,380000,Hyderabad
+561,Hyundai,2017,Creta E PLUS 1.6 PETROL,58022,Petrol,Manual,723000,Hyderabad
+562,Hyundai,2021,VENUE S 1.0 TURBO IMT,52639,Petrol,Manual,824000,Hyderabad
+563,Hyundai,2015,i10 MAGNA 1.1,67644,Petrol,Manual,303000,Hyderabad
+564,Hyundai,2016,Elite i20 ASTA 1.2,46532,Petrol,Manual,592000,Hyderabad
+565,Hyundai,2017,Creta SX (O) 1.6 DIESEL,96121,Diesel,Manual,1015000,Hyderabad
+566,Hyundai,2015,Verna FLUIDIC 1.6 CRDI S 4S,100902,Diesel,Manual,623000,Hyderabad
+567,Hyundai,2019,Creta SX 1.6 PETROL,35188,Petrol,Manual,1011000,Hyderabad
+568,Hyundai,2013,Eon ERA +,67729,Petrol,Manual,215000,Hyderabad
+569,Hyundai,2017,Verna 1.6 VTVT SX,85925,Petrol,Manual,668000,Hyderabad
+570,Hyundai,2020,Elite i20 MAGNA PLUS 1.2,44820,Petrol,Manual,616000,Hyderabad
+571,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,68249,Petrol,Automatic,420000,Hyderabad
+572,Hyundai,2017,Creta SX 1.6 DIESEL,103070,Diesel,Manual,890000,Hyderabad
+573,Hyundai,2018,Eon MAGNA +,49315,Petrol,Manual,317000,Hyderabad
+574,Hyundai,2020,Elite i20 ASTA 1.2 (O),32661,Petrol,Manual,746000,Hyderabad
+575,Hyundai,2011,i10 SPORTZ 1.2,89916,Petrol,Manual,262000,Hyderabad
+576,Hyundai,2017,Elite i20 SPORTZ 1.2,72715,Petrol,Manual,589000,Hyderabad
+577,Hyundai,2014,Xcent SX 1.2 (O),62570,Petrol,Manual,418000,Hyderabad
+578,Hyundai,2019,NEW SANTRO SPORTZ AMT,66483,Petrol,Automatic,449000,Hyderabad
+579,Hyundai,2019,Elite i20 ASTA (O) CVT,31248,Petrol,Automatic,778000,Hyderabad
+580,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,64687,Petrol,Automatic,451000,Hyderabad
+581,Hyundai,2017,Elite i20 SPORTZ 1.2,91444,Petrol,Manual,566000,Hyderabad
+582,Hyundai,2015,Xcent S 1.2,111396,Petrol,Manual,376000,Hyderabad
+583,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,40354,Petrol,Manual,480000,Hyderabad
+584,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,75759,Petrol,Automatic,999000,Hyderabad
+585,Hyundai,2021,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,30101,Petrol,Manual,675000,Hyderabad
+586,Hyundai,2015,Xcent S 1.2,70021,Petrol,Manual,383000,Hyderabad
+587,Hyundai,2016,Elite i20 ASTA 1.2,77521,Petrol,Manual,581000,Hyderabad
+588,Hyundai,2012,Santro Xing GL PLUS,50123,Petrol,Manual,220000,Hyderabad
+589,Hyundai,2014,Grand i10 ASTA AT 1.2 KAPPA VTVT,86223,Petrol,Automatic,430000,Hyderabad
+590,Hyundai,2021,VENUE SX PLUS 1.0 TURBO DCT,40080,Petrol,Automatic,975000,Hyderabad
+591,Hyundai,2016,i10 SPORTZ 1.1,58416,Petrol,Manual,399000,Hyderabad
+592,Hyundai,2015,i10 MAGNA 1.1,91398,Petrol,Manual,351000,Hyderabad
+593,Hyundai,2017,i20 Active 1.2 SX,95737,Petrol,Manual,585000,Hyderabad
+594,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,31444,Petrol,Automatic,575000,Hyderabad
+595,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,64703,Petrol,Automatic,999000,Hyderabad
+596,Hyundai,2021,VENUE SX 1.0 (O) TURBO IMT,10086,Petrol,Manual,982000,Hyderabad
+597,Hyundai,2015,Xcent S 1.2,35155,Petrol,Manual,422000,Hyderabad
+598,Hyundai,2020,VENUE SX 1.0 TURBO,73672,Petrol,Manual,866000,Hyderabad
+599,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,64087,Petrol,Manual,400000,Hyderabad
+600,Hyundai,2020,NEW SANTRO SPORTZ MT,28540,Petrol,Manual,490000,Hyderabad
+601,Hyundai,2015,Grand i10 ASTA 1.1 CRDI,101450,Diesel,Manual,425000,Hyderabad
+602,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,60833,Petrol,Manual,422000,Hyderabad
+603,Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,53131,Petrol,Manual,504000,Hyderabad
+604,Hyundai,2020,Elite i20 ASTA 1.2 (O),65743,Petrol,Manual,759000,Hyderabad
+605,Hyundai,2021,VENUE S 1.0 TURBO IMT,33023,Petrol,Manual,918000,Hyderabad
+606,Hyundai,2020,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,70045,Petrol,Manual,607000,Hyderabad
+607,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,38401,Petrol,Manual,459000,Hyderabad
+608,Hyundai,2019,NEW SANTRO MAGNA AMT,33336,Petrol,Automatic,442000,Hyderabad
+609,Hyundai,2013,i10 MAGNA 1.2,54312,Petrol,Manual,309000,Hyderabad
+610,Hyundai,2019,Grand i10 SPORTZ 1.2 KAPPA VTVT,50358,Petrol,Manual,514000,Hyderabad
+611,Hyundai,2019,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,33740,Petrol,Automatic,608000,Hyderabad
+612,Hyundai,2022,AURA SX PLUS 1.2 AMT,37286,Petrol,Automatic,810000,Hyderabad
+613,Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,72376,Petrol,Automatic,511000,Hyderabad
+614,Hyundai,2022,VENUE SX 1.0 (O) TURBO IMT,19887,Petrol,Manual,1030000,Hyderabad
+615,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,63423,Petrol,Manual,423000,Hyderabad
+616,Hyundai,2021,NEW SANTRO SPORTZ AMT,60897,Petrol,Automatic,516000,Hyderabad
+617,Hyundai,2021,VENUE S 1.0 TURBO IMT,57375,Petrol,Manual,889000,Hyderabad
+618,Hyundai,2020,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,30197,Petrol,Automatic,672000,Hyderabad
+619,Hyundai,2020,NEW SANTRO ASTA AMT,48844,Petrol,Automatic,525000,Hyderabad
+620,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,77381,Petrol,Automatic,436000,Hyderabad
+621,Hyundai,2015,Grand i10 SPORTZ 1.2 KAPPA VTVT,51290,Petrol,Manual,400000,Hyderabad
+622,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,52180,Petrol,Automatic,999000,Hyderabad
+623,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,33221,Petrol,Manual,626000,Hyderabad
+624,Hyundai,2021,NEW SANTRO ERA EXECUTIVE,17789,Petrol,Manual,472000,Hyderabad
+625,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,67778,Petrol,Automatic,550000,Hyderabad
+626,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,64785,Petrol,Manual,415000,Hyderabad
+627,Hyundai,2021,NEW I20 SPORTZ 1.2 MT,45070,Petrol,Manual,737000,Hyderabad
+628,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,96635,Petrol,Manual,393000,Hyderabad
+629,Hyundai,2016,Elite i20 ASTA 1.2,53500,Petrol,Manual,592000,Hyderabad
+630,Hyundai,2019,Grand i10 MAGNA 1.2 KAPPA VTVT,45619,Petrol,Manual,532000,Hyderabad
+631,Hyundai,2021,NEW I20 Asta 1.0 GDI Turbo IMT,27958,Petrol,Manual,866000,Hyderabad
+632,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,101404,Petrol,Manual,412000,Hyderabad
+633,Hyundai,2019,NEW SANTRO ERA EXECUTIVE,52881,Petrol,Manual,416000,Hyderabad
+634,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,82452,Petrol,Manual,438000,Hyderabad
+635,Hyundai,2015,Creta SX PLUS AT 1.6 DIESEL,95778,Diesel,Automatic,919000,Hyderabad
+636,Hyundai,2019,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,88880,Petrol,Manual,612000,Hyderabad
+637,Hyundai,2020,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,21643,Petrol,Manual,621000,Hyderabad
+638,Hyundai,2021,Creta SX (O) 1.4 TURBO DCT,50026,Petrol,Automatic,1601000,Hyderabad
+639,Hyundai,2018,i20 Active 1.2 S,59374,Petrol,Manual,646000,Hyderabad
+640,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,50918,Petrol,Manual,444000,Hyderabad
+641,Hyundai,2014,Eon ERA +,59689,Petrol,Manual,239000,Hyderabad
+642,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,51280,Petrol,Manual,503000,Hyderabad
+643,Hyundai,2016,Creta S PLUS 1.4 DIESEL,76700,Diesel,Manual,823000,Hyderabad
+644,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,31381,Petrol,Manual,657000,Hyderabad
+645,Hyundai,2015,Verna FLUIDIC 4S 1.6 VTVT S(O),99131,Petrol,Manual,574000,Hyderabad
+646,Hyundai,2020,Grand i10 SPORTZ 1.2 KAPPA VTVT,16292,Petrol,Manual,589000,Hyderabad
+647,Hyundai,2014,i10 MAGNA 1.1,49024,Petrol,Manual,319000,Hyderabad
+648,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,40012,Petrol,Manual,484000,Hyderabad
+649,Hyundai,2018,Elite i20 ASTA 1.2 (O),71208,Petrol,Manual,663000,Hyderabad
+650,Hyundai,2018,NEW SANTRO SPORTZ AMT,25871,Petrol,Automatic,459000,Hyderabad
+651,Hyundai,2021,GRAND I10 NIOS ASTA AMT 1.2 KAPPA VTVT,18433,Petrol,Automatic,745000,Hyderabad
+652,Hyundai,2017,Creta SX PLUS 1.6 PETROL,25980,Petrol,Manual,947000,Hyderabad
+653,Hyundai,2020,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,34100,Petrol,Manual,673000,Hyderabad
+654,Hyundai,2020,Verna SX 1.5 VTVT,41763,Petrol,Manual,932000,Hyderabad
+655,Hyundai,2017,Elite i20 SPORTZ 1.2,50623,Petrol,Manual,591000,Hyderabad
+656,Hyundai,2015,Elite i20 SPORTZ 1.2,94670,Petrol,Manual,488000,Hyderabad
+657,Hyundai,2020,AURA SX PLUS 1.2 AMT,58604,Petrol,Automatic,705000,Hyderabad
+658,Hyundai,2014,Grand i10 ASTA 1.2 KAPPA VTVT,81987,Petrol,Manual,401000,Hyderabad
+659,Hyundai,2019,Verna 1.6 VTVT SX,61985,Petrol,Manual,814000,Hyderabad
+660,Hyundai,2019,Grand i10 MAGNA 1.2 KAPPA VTVT,24125,Petrol,Manual,522000,Hyderabad
+661,Hyundai,2014,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,86050,Petrol,Automatic,409000,Hyderabad
+662,Hyundai,2020,Creta SX (O) IVT 1.5 PETROL,26720,Petrol,Automatic,1529000,Hyderabad
+663,Hyundai,2015,Elite i20 SPORTZ 1.2,118068,Petrol,Manual,494000,Hyderabad
+664,Hyundai,2011,i10 MAGNA 1.2,91664,Petrol,Manual,252000,Hyderabad
+665,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,61638,Petrol,Automatic,662000,Hyderabad
+666,Hyundai,2020,Creta SX (O) 1.4 TURBO DCT,72204,Petrol,Automatic,1542000,Hyderabad
+667,Hyundai,2020,NEW SANTRO SPORTZ AMT,72395,Petrol,Automatic,518000,Hyderabad
+668,Hyundai,2018,Grand i10 ASTA 1.2 KAPPA VTVT,35643,Petrol,Manual,534000,Hyderabad
+669,Hyundai,2018,Creta SX AT 1.6 PETROL,44229,Petrol,Automatic,1135000,Hyderabad
+670,Hyundai,2011,i10 MAGNA 1.2,58156,Petrol,Manual,268000,Hyderabad
+671,Hyundai,2015,Verna FLUIDIC 4S 1.6 VTVT S(O),94724,Petrol,Manual,574000,Hyderabad
+672,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,60269,Petrol,Automatic,924000,Hyderabad
+673,Hyundai,2019,Grand i10 MAGNA 1.2 KAPPA VTVT,24312,Petrol,Manual,526000,Hyderabad
+674,Hyundai,2019,Elite i20 ASTA 1.2 (O),40619,Petrol,Manual,665000,Hyderabad
+675,Hyundai,2019,Creta SX (O) 1.6 PETROL,83716,Petrol,Manual,1096000,Hyderabad
+676,Hyundai,2021,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,26910,Petrol,Manual,636000,Hyderabad
+677,Hyundai,2016,Grand i10 ASTA 1.2 KAPPA VTVT,88733,Petrol,Manual,483000,Hyderabad
+678,Hyundai,2017,Elite i20 SPORTZ 1.2,73815,Petrol,Manual,591000,Hyderabad
+679,Hyundai,2017,Creta SX PLUS 1.6 DIESEL,108343,Diesel,Manual,924000,Hyderabad
+680,Hyundai,2020,NEW I20 Asta 1.0 GDI Turbo IMT,62950,Petrol,Manual,754000,Hyderabad
+681,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,34703,Petrol,Manual,438000,Hyderabad
+682,Hyundai,2017,Elite i20 ASTA 1.2 DUAL TONE,45075,Petrol,Manual,619000,Hyderabad
+683,Hyundai,2017,Elite i20 ASTA 1.2 DUAL TONE,79690,Petrol,Manual,618000,Hyderabad
+684,Hyundai,2019,NEW SANTRO ERA,61740,Petrol,Manual,419000,Hyderabad
+685,Hyundai,2018,Elite i20 ASTA 1.2 CVT,47030,Petrol,Automatic,705000,Hyderabad
+686,Hyundai,2014,Xcent S 1.2,70673,Petrol,Manual,362000,Hyderabad
+687,Hyundai,2013,Verna FLUIDIC 1.6 VTVT SX,90098,Petrol,Manual,450000,Hyderabad
+688,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,48430,Petrol,Manual,480000,Hyderabad
+689,Hyundai,2018,Xcent E+,53633,Petrol,Manual,453000,Hyderabad
+690,Hyundai,2020,VENUE SX 1.0 TURBO,51652,Petrol,Manual,846000,Hyderabad
+691,Hyundai,2013,i10 MAGNA 1.1,46910,Petrol,Manual,308000,Hyderabad
+692,Hyundai,2017,Elite i20 ASTA 1.2,56670,Petrol,Manual,581000,Hyderabad
+693,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,77723,Petrol,Manual,459000,Hyderabad
+694,Hyundai,2017,Elite i20 ASTA 1.2,54765,Petrol,Manual,615000,Hyderabad
+695,Hyundai,2019,Elite i20 SPORTZ PLUS 1.2,25914,Petrol,Manual,657000,Hyderabad
+696,Hyundai,2014,Elite i20 ASTA 1.4 CRDI,90824,Diesel,Manual,517000,Hyderabad
+697,Hyundai,2015,Eon MAGNA +,49679,Petrol,Manual,293000,Hyderabad
+698,Hyundai,2012,i10 MAGNA 1.2,61568,Petrol,Manual,287000,Hyderabad
+699,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,43814,Petrol,Automatic,659000,Hyderabad
+700,Hyundai,2014,Elite i20 ASTA 1.4 CRDI,114142,Diesel,Manual,501000,Hyderabad
+701,Hyundai,2021,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,13513,Petrol,Manual,709000,Hyderabad
+702,Hyundai,2020,VENUE S 1.2,34818,Petrol,Manual,717000,Hyderabad
+703,Hyundai,2014,Xcent S 1.2,55106,Petrol,Manual,370000,Mumbai
+704,Hyundai,2016,Elite i20 ASTA 1.2 (O),27261,Petrol,Manual,521000,Mumbai
+705,Hyundai,2018,Elite i20 ASTA 1.2 (O),56236,Petrol,Manual,597000,Mumbai
+706,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,83626,Petrol,Automatic,853000,Mumbai
+707,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,62163,Petrol,Automatic,399000,Mumbai
+708,Hyundai,2015,Elite i20 SPORTZ 1.2 (O),51020,Petrol,Manual,467000,Mumbai
+709,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,32749,CNG,Manual,484000,Mumbai
+710,Hyundai,2016,Grand i10 SPORTZ 1.2 KAPPA VTVT,59893,Petrol,Manual,372000,Mumbai
+711,Hyundai,2017,Elite i20 SPORTZ 1.2,44558,Petrol,Manual,536000,Mumbai
+712,Hyundai,2021,VENUE SX PLUS 1.0 TURBO DCT,48355,Petrol,Automatic,965000,Mumbai
+713,Hyundai,2016,Elite i20 MAGNA 1.2,38566,Petrol,Manual,469000,Mumbai
+714,Hyundai,2019,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,30977,Petrol,Manual,574000,Mumbai
+715,Hyundai,2019,VENUE SX 1.0 (O) TURBO,45750,Petrol,Manual,758000,Mumbai
+716,Hyundai,2021,VENUE S 1.0 TURBO IMT,49880,Petrol,Manual,827000,Mumbai
+717,Hyundai,2019,VENUE SX 1.0 TURBO,34899,Petrol,Manual,852000,Mumbai
+718,Hyundai,2018,NEW SANTRO MAGNA CNG,59736,CNG,Manual,426000,Mumbai
+719,Hyundai,2014,Elite i20 SPORTZ 1.2,60702,Petrol,Manual,411000,Mumbai
+720,Hyundai,2016,Elite i20 ASTA 1.2,46613,Petrol,Manual,504000,Mumbai
+721,Hyundai,2014,Xcent BASE 1.2,54098,Petrol,Manual,356000,Mumbai
+722,Hyundai,2016,Grand i10 ASTA AT 1.2 KAPPA VTVT,70453,Petrol,Automatic,417000,Mumbai
+723,Hyundai,2017,Creta E PLUS 1.6 PETROL,89501,Petrol,Manual,675000,Mumbai
+724,Hyundai,2016,Elite i20 SPORTZ 1.2,46186,Petrol,Manual,501000,Mumbai
+725,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,86975,Petrol,Automatic,509000,Mumbai
+726,Hyundai,2021,VENUE SX 1.0 TURBO,34705,Petrol,Manual,839000,Mumbai
+727,Hyundai,2015,Elite i20 SPORTZ 1.2 (O),77613,Petrol,Manual,443000,Mumbai
+728,Hyundai,2016,Creta E PLUS 1.6 PETROL,56586,Petrol,Manual,665000,Mumbai
+729,Hyundai,2014,i20 SPORTZ 1.2,35207,Petrol,Manual,366000,Mumbai
+730,Hyundai,2018,Creta SX PLUS 1.6 PETROL DUAL TONE,50556,Petrol,Manual,835000,Mumbai
+731,Hyundai,2016,Xcent S 1.2,95851,Petrol,Manual,338000,Mumbai
+732,Hyundai,2019,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,47261,Petrol,Automatic,570000,Mumbai
+733,Hyundai,2011,i20 SPORTZ 1.2,122248,Petrol,Manual,225000,Mumbai
+734,Hyundai,2017,Elite i20 SPORTZ 1.2,41718,Petrol,Manual,469000,Mumbai
+735,Hyundai,2018,New Elantra 1.6 SX (O) AT DIESEL,48054,Diesel,Automatic,1065000,Mumbai
+736,Hyundai,2016,Creta BASE 1.6 PETROL,53911,Petrol,Manual,658000,Mumbai
+737,Hyundai,2016,Elite i20 ASTA 1.2,62117,Petrol,Manual,480000,Mumbai
+738,Hyundai,2018,Creta SX (O) 1.6 DIESEL,66962,Diesel,Manual,1018000,Mumbai
+739,Hyundai,2011,i10 MAGNA 1.1,79326,Petrol,Manual,194000,Mumbai
+740,Hyundai,2019,New Elantra 2.0 SX(O) AT PETROL,43333,Petrol,Automatic,1085000,Mumbai
+741,Hyundai,2014,i10 SPORTZ 1.1,21258,Petrol,Manual,304000,Mumbai
+742,Hyundai,2016,Elite i20 SPORTZ 1.2,16301,Petrol,Manual,521000,Mumbai
+743,Hyundai,2015,Elite i20 SPORTZ 1.2,30141,Petrol,Manual,426000,Mumbai
+744,Hyundai,2017,Creta SX PLUS AT 1.6 DIESEL,79836,Diesel,Automatic,972000,Mumbai
+745,Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,56392,Petrol,Manual,324000,Mumbai
+746,Hyundai,2019,Creta SX 1.6 PETROL,70430,Petrol,Manual,838000,Mumbai
+747,Hyundai,2017,Grand i10 SPORTZ 1.2 KAPPA VTVT,21635,Petrol,Manual,449000,Mumbai
+748,Hyundai,2016,Elite i20 SPORTZ 1.2,52544,Petrol,Manual,428000,Mumbai
+749,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,113669,Petrol,Automatic,810000,Mumbai
+750,Hyundai,2022,AURA SX PLUS 1.2 AMT,20883,Petrol,Automatic,802000,Mumbai
+751,Hyundai,2017,Grand i10 ASTA 1.2 KAPPA VTVT,44823,Petrol,Manual,453000,Mumbai
+752,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,45213,Petrol,Manual,446000,Mumbai
+753,Hyundai,2017,Creta E PLUS 1.6 PETROL,23252,Petrol,Manual,730000,Mumbai
+754,Hyundai,2018,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,65001,Petrol,Automatic,529000,Mumbai
+755,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,90305,Petrol,Automatic,836000,Mumbai
+756,Hyundai,2015,Xcent S 1.2,65203,Petrol,Manual,348000,Mumbai
+757,Hyundai,2011,i20 ASTA 1.2,31724,Petrol,Manual,221000,Mumbai
+758,Hyundai,2014,Xcent S 1.2,95827,Petrol,Manual,343000,Mumbai
+759,Hyundai,2017,Creta E PLUS 1.6 PETROL,75175,Petrol,Manual,738000,Mumbai
+760,Hyundai,2018,Grand i10 MAGNA 1.2 KAPPA VTVT,38780,Petrol,Manual,451000,Mumbai
+761,Hyundai,2015,Elite i20 SPORTZ 1.2,52696,Petrol,Manual,432000,Mumbai
+762,Hyundai,2017,Creta E PLUS 1.6 PETROL,39827,Petrol,Manual,733000,Mumbai
+763,Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,40049,Petrol,Automatic,478000,Mumbai
+764,Hyundai,2019,NEW SANTRO SPORTZ CNG,70159,CNG,Manual,457000,Mumbai
+765,Hyundai,2017,Creta E PLUS 1.6 PETROL,77926,Petrol,Manual,743000,Mumbai
+766,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,15638,CNG,Manual,694000,Mumbai
+767,Hyundai,2012,i10 SPORTZ 1.2,118765,Petrol,Manual,235000,Mumbai
+768,Hyundai,2017,Creta E PLUS 1.6 PETROL,101128,Petrol,Manual,672000,Mumbai
+769,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,73228,Petrol,Automatic,786000,Mumbai
+770,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,91055,Petrol,Automatic,850000,Mumbai
+771,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,60607,Petrol,Automatic,819000,Mumbai
+772,Hyundai,2018,Creta SX AT 1.6 PETROL,50441,Petrol,Automatic,1027000,Mumbai
+773,Hyundai,2018,Creta SX AT 1.6 PETROL,57206,Petrol,Automatic,1030000,Mumbai
+774,Hyundai,2015,i10 SPORTZ 1.1,54825,Petrol,Manual,306000,Mumbai
+775,Hyundai,2016,Creta SX PLUS 1.6 PETROL,71684,Petrol,Manual,706000,Mumbai
+776,Hyundai,2015,Creta SX 1.6 DIESEL,62018,Diesel,Manual,811000,Mumbai
+777,Hyundai,2017,Grand i10 SPORTZ (O) AT 1.2 KAPPA VTVT,25723,Petrol,Automatic,519000,Mumbai
+778,Hyundai,2016,Creta SX PLUS AT 1.6 PETROL,57440,Petrol,Automatic,764000,Mumbai
+779,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,32393,Petrol,Manual,468000,Mumbai
+780,Hyundai,2019,NEW SANTRO SPORTZ CNG,73820,CNG,Manual,457000,Mumbai
+781,Hyundai,2018,Grand i10 SPORTZ 1.2 KAPPA VTVT,20257,Petrol,Manual,469000,Mumbai
+782,Hyundai,2020,AURA S 1.2 CNG,53948,CNG,Manual,612000,Mumbai
+783,Hyundai,2015,i10 MAGNA 1.1,58859,Petrol,Manual,285000,Mumbai
+784,Hyundai,2014,i10 SPORTZ 1.1,49875,CNG,Manual,287000,Mumbai
+785,Hyundai,2020,AURA SX PLUS 1.2 AMT CRDI,58033,Diesel,Automatic,684000,Mumbai
+786,Hyundai,2021,Creta SX (O) 1.4 TURBO DCT,47485,Petrol,Automatic,1446000,Mumbai
+787,Hyundai,2017,Elite i20 SPORTZ 1.2,11293,Petrol,Manual,513000,Mumbai
+788,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,11942,CNG,Manual,665000,Mumbai
+789,Hyundai,2019,NEW SANTRO MAGNA,16489,Petrol,Manual,430000,Mumbai
+790,Hyundai,2011,i20 SPORTZ (O) 1.2,72888,Petrol,Manual,254000,Mumbai
+791,Hyundai,2011,i10 MAGNA 1.2,32454,Petrol,Manual,211000,Mumbai
+792,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,86350,Petrol,Automatic,810000,Mumbai
+793,Hyundai,2011,i10 SPORTZ 1.2 AT,51696,Petrol,Automatic,252000,Mumbai
+794,Hyundai,2023,AURA SX 1.2 CNG,13184,CNG,Manual,834000,Mumbai
+795,Hyundai,2015,Grand i10 ASTA AT 1.2 KAPPA VTVT,54434,Petrol,Automatic,400000,Mumbai
+796,Hyundai,2015,i20 Active 1.4 SX,77421,Diesel,Manual,504000,Mumbai
+797,Hyundai,2018,Verna 1.6 VTVT SX,24675,Petrol,Manual,721000,Mumbai
+798,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,56522,Petrol,Automatic,919000,Mumbai
+799,Hyundai,2021,VENUE SX 1.0 TURBO IMT,9981,Petrol,Manual,935000,Mumbai
+800,Hyundai,2018,i20 Active 1.2 SX,85880,Petrol,Manual,583000,Mumbai
+801,Hyundai,2018,i20 Active 1.2 SX,21643,Petrol,Manual,596000,Mumbai
+802,Hyundai,2015,i20 Active 1.2 S,53664,Petrol,Manual,478000,Mumbai
+803,Hyundai,2015,i20 Active 1.2 SX,116615,Petrol,Manual,429000,Mumbai
+804,Hyundai,2019,NEW SANTRO SPORTZ MT,9954,Petrol,Manual,423000,Mumbai
+805,Hyundai,2019,NEW SANTRO ERA EXECUTIVE,56077,Petrol,Manual,409000,Mumbai
+806,Hyundai,2017,Creta E PLUS 1.6 PETROL,43358,Petrol,Manual,764000,Mumbai
+807,Hyundai,2017,Elite i20 SPORTZ 1.2,53262,Petrol,Manual,547000,Mumbai
+808,Hyundai,2013,Grand i10 ASTA 1.2 KAPPA VTVT,37652,Petrol,Manual,395000,Mumbai
+809,Hyundai,2014,Xcent S 1.2,27269,Petrol,Manual,371000,Mumbai
+810,Hyundai,2021,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,16808,Petrol,Automatic,683000,Mumbai
+811,Hyundai,2021,VENUE SX 1.0 TURBO IMT,16331,Petrol,Manual,925000,Mumbai
+812,Hyundai,2012,i10 SPORTZ 1.2,35431,Petrol,Manual,233000,Mumbai
+813,Hyundai,2015,i10 MAGNA 1.1,22225,Petrol,Manual,323000,Mumbai
+814,Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,100116,Petrol,Manual,330000,Mumbai
+815,Hyundai,2020,GRAND I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,13144,Petrol,Automatic,680000,Mumbai
+816,Hyundai,2023,NEW I20 ASTA (O) 1.0 TURBO GDI DCT,20047,Petrol,Automatic,1074000,Mumbai
+817,Hyundai,2013,Grand i10 ERA 1.2 KAPPA VTVT,42124,Petrol,Manual,304000,Mumbai
+818,Hyundai,2016,i20 Active 1.2 SX,50568,Petrol,Manual,490000,Mumbai
+819,Hyundai,2015,Grand i10 ASTA 1.2 KAPPA VTVT,47367,Petrol,Manual,389000,Mumbai
+820,Hyundai,2014,Grand i10 ASTA 1.2 KAPPA VTVT,47635,Petrol,Manual,393000,Mumbai
+821,Hyundai,2020,GRAND I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,18332,Petrol,Manual,577000,Mumbai
+822,Hyundai,2017,Elite i20 SPORTZ 1.2,38323,Petrol,Manual,538000,Mumbai
+823,Hyundai,2013,Grand i10 ERA 1.2 KAPPA VTVT,46035,Petrol,Manual,319000,Mumbai
+824,Hyundai,2019,Verna 1.6 VTVT SX O,47605,Petrol,Manual,924000,Mumbai
+825,Hyundai,2019,NEW SANTRO SPORTZ CNG,109255,CNG,Manual,484000,Mumbai
+826,Hyundai,2017,Verna 1.6 SX (O) CRDI MT,57368,Diesel,Manual,860000,Mumbai
+827,Hyundai,2016,Elite i20 SPORTZ 1.2,50900,Petrol,Manual,501000,Mumbai
+828,Hyundai,2017,Creta E PLUS 1.6 PETROL,51559,Petrol,Manual,763000,Mumbai
+829,Hyundai,2017,Creta E PLUS 1.6 PETROL,37417,Petrol,Manual,733000,Mumbai
+830,Hyundai,2019,Verna 1.6 VTVT SX O,92561,Petrol,Manual,911000,Mumbai
+831,Hyundai,2018,Grand i10 SPORTZ AT 1.2 KAPPA VTVT,46597,Petrol,Automatic,527000,Mumbai
+832,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,43419,Petrol,Automatic,918000,Mumbai
+833,Hyundai,2015,Verna FLUIDIC 4S 1.6 VTVT S,38877,Petrol,Manual,516000,Mumbai
+834,Hyundai,2014,Elite i20 SPORTZ 1.2 (O),79418,Petrol,Manual,418000,Mumbai
+835,Hyundai,2017,Elite i20 SPORTZ 1.2,19288,Petrol,Manual,553000,Mumbai
+836,Hyundai,2017,Creta E PLUS 1.6 PETROL,93555,Petrol,Manual,678000,Mumbai
+837,Hyundai,2014,i10 SPORTZ 1.1,40543,Petrol,Manual,260000,Mumbai
+838,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,21570,CNG,Manual,745000,Mumbai
+839,Hyundai,2017,Xcent E+,17771,Petrol,Manual,476000,Mumbai
+840,Hyundai,2017,Creta SX PLUS AT 1.6 PETROL,22311,Petrol,Automatic,966000,Mumbai
+841,Hyundai,2014,Grand i10 MAGNA 1.2 KAPPA VTVT,32064,Petrol,Manual,314000,Mumbai
+842,Hyundai,2022,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,20040,Petrol,Manual,649000,Mumbai
+843,Hyundai,2013,i10 SPORTZ 1.2 AT,48080,Petrol,Automatic,276000,Mumbai
+844,Hyundai,2019,NEW SANTRO SPORTZ CNG,73743,CNG,Manual,476000,Mumbai
+845,Hyundai,2021,VENUE SX PLUS 1.0 TURBO DCT,19377,Petrol,Automatic,1048000,Mumbai
+846,Hyundai,2015,Eon MAGNA +,81162,Petrol,Manual,250000,Mumbai
+847,Hyundai,2016,Creta SX PLUS AT 1.6 DIESEL,33417,Diesel,Automatic,834000,Mumbai
+848,Hyundai,2015,Elite i20 ASTA 1.2,55046,Petrol,Manual,454000,Mumbai
+849,Hyundai,2021,NEW I20 ASTA (O) 1.0 TURBO GDI DCT,14008,Petrol,Automatic,966000,Mumbai
+850,Hyundai,2014,Xcent S 1.2,36391,Petrol,Manual,378000,Mumbai
+851,Hyundai,2017,Creta SX PLUS 1.6 DIESEL,5555,Diesel,Manual,911000,Mumbai
+852,Hyundai,2014,Xcent S 1.2,83669,Petrol,Manual,359000,Mumbai
+853,Hyundai,2021,VENUE SX 1.0 TURBO IMT,15019,Petrol,Manual,927000,Mumbai
+854,Hyundai,2016,Elite i20 ASTA 1.4 CRDI (O),31353,Diesel,Manual,616000,Mumbai
+855,Hyundai,2016,i20 Active 1.2 S,66332,Petrol,Manual,459000,Mumbai
+856,Hyundai,2019,Elite i20 ASTA 1.2 (O),40998,Petrol,Manual,577000,Mumbai
+857,Hyundai,2019,VENUE SX PLUS 1.0 TURBO DCT,41597,Petrol,Automatic,918000,Mumbai
+858,Hyundai,2017,Elite i20 ASTA 1.4 CRDI (O),90918,Diesel,Manual,645000,Mumbai
+859,Hyundai,2021,VENUE SX 1.0 TURBO IMT,9340,Petrol,Manual,965000,Mumbai
+860,Hyundai,2017,Elite i20 SPORTZ 1.2,98272,Petrol,Manual,513000,Mumbai
+861,Hyundai,2013,i20 SPORTZ 1.2,79892,Petrol,Manual,298000,Mumbai
+862,Hyundai,2015,Creta S 1.6 PETROL,76643,Petrol,Manual,632000,Mumbai
+863,Hyundai,2017,New Elantra 2.0 SX(O) AT PETROL,76064,Petrol,Automatic,806000,Mumbai
+864,Hyundai,2018,Creta SX AT 1.6 DIESEL,107774,Diesel,Automatic,1026000,Mumbai
+865,Hyundai,2016,Creta S 1.6 PETROL,45568,Petrol,Manual,668000,Mumbai
+866,Hyundai,2015,i10 MAGNA 1.1,55760,Petrol,Manual,294000,Mumbai
+867,Hyundai,2014,Grand i10 ASTA 1.2 KAPPA VTVT,35272,Petrol,Manual,386000,Mumbai
+868,Hyundai,2021,AURA SX 1.2,14950,Petrol,Manual,663000,Mumbai
+869,Hyundai,2019,NEW SANTRO SPORTZ CNG,77715,CNG,Manual,496000,Mumbai
+870,Hyundai,2012,i10 SPORTZ 1.2,69847,Petrol,Manual,227000,Mumbai
+871,Hyundai,2023,NEW I20 ASTA (O) 1.2 IVT,2358,Petrol,Automatic,978000,Mumbai
+872,Hyundai,2014,Grand i10 SPORTZ 1.2 KAPPA VTVT,84045,Petrol,Manual,337000,Mumbai
+873,Hyundai,2015,Elite i20 ASTA 1.2,33688,Petrol,Manual,475000,Mumbai
+874,Hyundai,2013,i20 SPORTZ 1.2,37973,Petrol,Manual,278000,Mumbai
+875,Hyundai,2017,Xcent S 1.2,57919,Petrol,Manual,470000,Mumbai
+876,Maruti,2012,Swift VXI,64557,Petrol,Manual,463000,Bangalore
+877,Maruti,2017,IGNIS ZETA 1.2,47285,Petrol,Manual,466000,Bangalore
+878,Maruti,2017,IGNIS ZETA 1.2 AMT,22456,Petrol,Automatic,612000,Bangalore
+879,Maruti,2016,Alto K10 VXI,65484,Petrol,Manual,318000,Bangalore
+880,Maruti,2016,Celerio VXI,29309,Petrol,Manual,416000,Bangalore
+881,Maruti,2014,Alto K10 VXI,49599,Petrol,Manual,300000,Bangalore
+882,Maruti,2012,Alto K10 VXI,71979,Petrol,Manual,254000,Bangalore
+883,Maruti,2022,Grand Vitara ALPHA SMART HYBRID ALLGRIP,14358,Petrol,Manual,1616000,Bangalore
+884,Maruti,2013,Swift VDI,96413,Diesel,Manual,444000,Bangalore
+885,Maruti,2022,Baleno DELTA 1.2 AGS,43431,Petrol,Automatic,739000,Bangalore
+886,Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,70110,Petrol,Automatic,859000,Bangalore
+887,Maruti,2020,S PRESSO VXI+,36650,Petrol,Manual,433000,Bangalore
+888,Maruti,2016,Swift VXI,69995,Petrol,Manual,570000,Bangalore
+889,Maruti,2012,Swift VDI,96264,Diesel,Manual,413000,Bangalore
+890,Maruti,2017,Baleno ALPHA PETROL 1.2,81548,Petrol,Manual,633000,Bangalore
+891,Maruti,2012,Ertiga VDI,113536,Diesel,Manual,655000,Bangalore
+892,Maruti,2014,Ritz VXI,73631,Petrol,Manual,376000,Bangalore
+893,Maruti,2019,Dzire VXI,58029,Petrol,Manual,675000,Bangalore
+894,Maruti,2018,Dzire VXI,19437,Petrol,Manual,699000,Bangalore
+895,Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,44980,Petrol,Automatic,877000,Bangalore
+896,Maruti,2016,Alto K10 VXI (O),19613,Petrol,Manual,365000,Bangalore
+897,Maruti,2020,New Wagon-R VXI (O) 1.2,15178,Petrol,Manual,581000,Bangalore
+898,Maruti,2011,Swift VXI,104553,Petrol,Manual,358000,Bangalore
+899,Maruti,2014,OMNI E STD,64243,Petrol,Manual,273000,Bangalore
+900,Maruti,2018,Celerio ZXI AMT (O),95626,Petrol,Automatic,416000,Bangalore
+901,Maruti,2012,Omni 5 STR,37089,Petrol,Manual,244000,Bangalore
+902,Maruti,2016,Ciaz ZXI AT,87285,Petrol,Automatic,613000,Bangalore
+903,Maruti,2016,S Cross ZETA 1.3,78922,Diesel,Manual,721000,Bangalore
+904,Maruti,2023,Swift VXI,9075,Petrol,Manual,761000,Bangalore
+905,Maruti,2022,Ertiga ZXI AT SHVS,29126,Petrol,Automatic,1254000,Bangalore
+906,Maruti,2016,Celerio VXI (O),36837,Petrol,Manual,412000,Bangalore
+907,Maruti,2021,New Wagon-R LXI 1.0,42481,Petrol,Manual,540000,Bangalore
+908,Maruti,2016,Alto K10 VXI (O) AMT,30851,Petrol,Automatic,369000,Bangalore
+909,Maruti,2021,S PRESSO LXI,35273,Petrol,Manual,368000,Bangalore
+910,Maruti,2010,A Star LXI,103867,Petrol,Manual,202000,Bangalore
+911,Maruti,2016,Swift Dzire ZXI,86301,Petrol,Manual,564000,Bangalore
+912,Maruti,2017,Vitara Brezza VDI (O),109407,Diesel,Manual,721000,Bangalore
+913,Maruti,2019,New Wagon-R VXI (O) 1.2 AMT,16796,Petrol,Automatic,561000,Bangalore
+914,Maruti,2011,Swift VXI,86282,Petrol,Manual,322000,Bangalore
+915,Maruti,2017,IGNIS DELTA 1.2,56427,Petrol,Manual,466000,Bangalore
+916,Maruti,2017,IGNIS ZETA 1.2 AMT,95525,Petrol,Automatic,465000,Bangalore
+917,Maruti,2018,Swift ZXI AMT,44996,Petrol,Automatic,673000,Bangalore
+918,Maruti,2017,Swift VXI,37343,Petrol,Manual,582000,Bangalore
+919,Maruti,2019,Alto 800 LXI,39868,Petrol,Manual,334000,Bangalore
+920,Maruti,2018,Swift ZXI AMT,29716,Petrol,Automatic,651000,Bangalore
+921,Maruti,2019,Swift ZXI,32730,Petrol,Manual,640000,Bangalore
+922,Maruti,2022,Celerio ZXI PLUS,28788,Petrol,Manual,563000,Bangalore
+923,Maruti,2015,Ciaz VXI+,98152,Petrol,Manual,508000,Bangalore
+924,Maruti,2023,Swift VXI AMT,13994,Petrol,Automatic,763000,Bangalore
+925,Maruti,2022,New Wagon-R ZXI 1.2 AMT,27743,Petrol,Automatic,635000,Bangalore
+926,Maruti,2017,Ciaz DELTA 1.4 MT PETROL,94757,Petrol,Manual,508000,Bangalore
+927,Maruti,2020,New Wagon-R VXI (O) 1.2,66530,Petrol,Manual,549000,Bangalore
+928,Maruti,2016,Ertiga VDI SHVS,94438,Diesel,Manual,784000,Bangalore
+929,Maruti,2014,Alto 800 VXI,57348,Petrol,Manual,273000,Bangalore
+930,Maruti,2013,Swift VDI,93871,Diesel,Manual,391000,Bangalore
+931,Maruti,2019,Baleno ZETA PETROL 1.2,59228,Petrol,Manual,668000,Bangalore
+932,Maruti,2014,Swift Dzire VDI,89284,Diesel,Manual,572000,Bangalore
+933,Maruti,2012,Swift Dzire VXI,23960,Petrol,Manual,459000,Bangalore
+934,Maruti,2017,Swift ZXI,57560,Petrol,Manual,626000,Bangalore
+935,Maruti,2018,Swift VXI,26638,Petrol,Manual,609000,Bangalore
+936,Maruti,2011,Wagon R 1.0 VXI,53178,Petrol,Manual,245000,Bangalore
+937,Maruti,2017,Dzire VXI AMT,48051,Petrol,Automatic,541000,Bangalore
+938,Maruti,2017,Wagon R 1.0 VXI AMT,36404,Petrol,Automatic,424000,Bangalore
+939,Maruti,2011,Swift Dzire VDI,110407,Diesel,Manual,360000,Bangalore
+940,Maruti,2012,Swift Dzire VXI,104807,Petrol,Manual,392000,Bangalore
+941,Maruti,2022,New Wagon-R ZXI 1.2,8524,Petrol,Manual,668000,Bangalore
+942,Maruti,2016,Baleno ZETA PETROL 1.2,47679,Petrol,Manual,607000,Bangalore
+943,Maruti,2011,Zen Estilo VXI,69568,Petrol,Manual,219000,Bangalore
+944,Maruti,2015,Swift VXI,66341,Petrol,Manual,538000,Bangalore
+945,Maruti,2011,Swift VXI,57051,Petrol,Manual,347000,Bangalore
+946,Maruti,2021,Celerio ZXI PLUS,22245,Petrol,Manual,566000,Bangalore
+947,Maruti,2011,Alto K10 VXI,109991,Petrol,Manual,200000,Bangalore
+948,Maruti,2023,Alto K10 VXI PLUS,8882,Petrol,Manual,515000,Bangalore
+949,Maruti,2013,Swift Dzire VXI,59700,Petrol,Manual,430000,Bangalore
+950,Maruti,2016,Vitara Brezza VDI (O),80227,Diesel,Manual,607000,Bangalore
+951,Maruti,2019,Celerio X ZXI (O) AMT,27215,Petrol,Automatic,505000,Bangalore
+952,Maruti,2018,Celerio ZXI,41806,Petrol,Manual,470000,Bangalore
+953,Maruti,2019,New Wagon-R VXI 1.0 AMT,67526,Petrol,Automatic,523000,Bangalore
+954,Maruti,2016,Vitara Brezza ZDI,91544,Diesel,Manual,754000,Bangalore
+955,Maruti,2011,Wagon R 1.0 VXI,34408,Petrol,Manual,271000,Bangalore
+956,Maruti,2017,Ciaz ZXI+ AT,73371,Petrol,Automatic,661000,Bangalore
+957,Maruti,2013,Wagon R Stingray VXI,97830,Petrol,Manual,303000,Bangalore
+958,Maruti,2015,Ciaz ZXI+,25381,Petrol,Manual,639000,Bangalore
+959,Maruti,2013,Swift Dzire VXI,106215,Petrol,Manual,411000,Bangalore
+960,Maruti,2014,Alto K10 VXI,99832,Petrol,Manual,254000,Bangalore
+961,Maruti,2017,IGNIS ZETA 1.2 AMT,68890,Petrol,Automatic,553000,Bangalore
+962,Maruti,2020,Ciaz ALPHA 1.5 SHVS PETROL,52878,Petrol,Manual,800000,Bangalore
+963,Maruti,2011,Wagon R 1.0 VXI,79484,Petrol,Manual,267000,Bangalore
+964,Maruti,2018,Swift VXI AMT,57341,Petrol,Automatic,620000,Bangalore
+965,Maruti,2022,Swift ZXI PLUS AMT DUAL TONE,31459,Petrol,Automatic,851000,Bangalore
+966,Maruti,2022,Baleno ZETA PETROL 1.2,34474,Petrol,Manual,775000,Bangalore
+967,Maruti,2021,Celerio ZXI PLUS AGS,45807,Petrol,Automatic,658000,Bangalore
+968,Maruti,2018,Celerio X VXI (O),39995,Petrol,Manual,381000,Bangalore
+969,Maruti,2019,Dzire ZXI AMT,28533,Petrol,Automatic,718000,Bangalore
+970,Maruti,2012,Ertiga ZDI,106213,Diesel,Manual,607000,Bangalore
+971,Maruti,2015,Wagon R 1.0 VXI,49078,Petrol,Manual,356000,Bangalore
+972,Maruti,2015,Ertiga ZXI,46440,Petrol,Manual,718000,Bangalore
+973,Maruti,2016,Celerio ZXI,46240,Petrol,Manual,448000,Bangalore
+974,Maruti,2023,New Wagon-R ZXI 1.2,2896,Petrol,Manual,693000,Bangalore
+975,Maruti,2014,Swift Dzire ZXI,122178,Petrol,Manual,451000,Bangalore
+976,Maruti,2019,Celerio VXI (O),28904,Petrol,Manual,482000,Bangalore
+977,Maruti,2021,IGNIS DELTA 1.2 AMT,31951,Petrol,Automatic,646000,Bangalore
+978,Maruti,2018,Celerio ZXI,19171,Petrol,Manual,463000,Bangalore
+979,Maruti,2015,Alto 800 LXI,85107,Petrol,Manual,271000,Bangalore
+980,Maruti,2014,Celerio VXI AMT,14522,Petrol,Automatic,377000,Bangalore
+981,Maruti,2017,Swift VXI,77191,Petrol,Manual,515000,Bangalore
+982,Maruti,2019,Baleno ALPHA PETROL 1.2,36932,Petrol,Manual,727000,Bangalore
+983,Maruti,2012,Swift Dzire ZXI,36201,Petrol,Manual,515000,Bangalore
+984,Maruti,2016,Ciaz ZXI+,75940,Petrol,Manual,596000,Bangalore
+985,Maruti,2016,Ciaz ZXI AT,96520,Petrol,Automatic,578000,Bangalore
+986,Maruti,2018,Celerio ZXI (O),93813,Petrol,Manual,447000,Bangalore
+987,Maruti,2013,Ritz VXI,75497,Petrol,Manual,356000,Bangalore
+988,Maruti,2012,Swift Dzire VDI,110904,Diesel,Manual,413000,Bangalore
+989,Maruti,2018,Celerio VXI (O),69515,Petrol,Manual,434000,Bangalore
+990,Maruti,2016,Swift VXI,65555,Petrol,Manual,579000,Bangalore
+991,Maruti,2019,S PRESSO VXI+,35153,Petrol,Manual,409000,Bangalore
+992,Maruti,2021,Celerio ZXI PLUS AGS,20405,Petrol,Automatic,646000,Bangalore
+993,Maruti,2021,S PRESSO VXI+,34267,Petrol,Manual,458000,Bangalore
+994,Maruti,2011,Wagon R 1.0 VXI,61600,Petrol,Manual,289000,Bangalore
+995,Maruti,2022,Ciaz ALPHA 1.5 SHVS PETROL,14772,Petrol,Manual,1060000,Bangalore
+996,Maruti,2017,Alto K10 VXI,13628,Petrol,Manual,383000,Bangalore
+997,Maruti,2017,Dzire VDI AMT,77413,Diesel,Automatic,713000,Bangalore
+998,Maruti,2017,Celerio ZXI AMT,113666,Petrol,Automatic,423000,Bangalore
+999,Maruti,2022,Dzire VXI AMT,16023,Petrol,Automatic,791000,Bangalore
+1000,Maruti,2013,Ertiga VXI,51980,Petrol,Manual,682000,Bangalore
+1001,Maruti,2017,Dzire ZXI PLUS AMT,105779,Petrol,Automatic,631000,Bangalore
+1002,Maruti,2021,Baleno DELTA CVT PETROL 1.2,32596,Petrol,Automatic,710000,Bangalore
+1003,Maruti,2011,Ritz VDI,72644,Diesel,Manual,385000,Bangalore
+1004,Maruti,2023,Alto K10 VXI PLUS,5654,Petrol,Manual,550000,Bangalore
+1005,Maruti,2018,Ciaz ALPHA 1.4 PETROL,49559,Petrol,Manual,733000,Bangalore
+1006,Maruti,2023,Celerio ZXI AMT,17052,Petrol,Automatic,650000,Bangalore
+1007,Maruti,2015,Wagon R 1.0 VXI,27184,Petrol,Manual,387000,Bangalore
+1008,Maruti,2022,Dzire ZXI Plus AMT,9369,Petrol,Automatic,902000,Bangalore
+1009,Maruti,2023,Celerio VXI AMT,3951,Petrol,Automatic,661000,Bangalore
+1010,Maruti,2011,Swift VXI,96506,Petrol,Manual,352000,Bangalore
+1011,Maruti,2013,Wagon R 1.0 VXI,76286,Petrol,Manual,334000,Bangalore
+1012,Maruti,2023,Alto K10 VXI PLUS AMT,6675,Petrol,Automatic,580000,Bangalore
+1013,Maruti,2016,Celerio ZXI AMT,43855,Petrol,Automatic,465000,Bangalore
+1014,Maruti,2015,Swift VXI,40348,Petrol,Manual,494000,Bangalore
+1015,Maruti,2015,Ciaz ZXI+,104650,Petrol,Manual,558000,Bangalore
+1016,Maruti,2019,Celerio VXI AMT,28264,Petrol,Automatic,508000,Bangalore
+1017,Maruti,2021,Baleno ZETA CVT PETROL 1.2,26477,Petrol,Automatic,840000,Bangalore
+1018,Maruti,2020,Ciaz DELTA 1.5 SHVS MT PETROL,60741,Petrol,Manual,844000,Bangalore
+1019,Maruti,2017,Baleno ZETA PETROL 1.2,22396,Petrol,Manual,648000,Bangalore
+1020,Maruti,2015,Wagon R 1.0 VXI,45789,Petrol,Manual,386000,Bangalore
+1021,Maruti,2018,Baleno ALPHA PETROL 1.2,52083,Petrol,Manual,682000,Bangalore
+1022,Maruti,2013,Swift VXI,27532,Petrol,Manual,459000,Bangalore
+1023,Maruti,2017,Wagon R 1.0 VXI AMT,84182,Petrol,Automatic,465000,Bangalore
+1024,Maruti,2019,Ciaz ALPHA AT 1.5 SHVS PETROL,49968,Petrol,Automatic,897000,Bangalore
+1025,Maruti,2012,Swift VXI,97265,Petrol,Manual,421000,Bangalore
+1026,Maruti,2022,S PRESSO VXI+,11295,Petrol,Manual,503000,Bangalore
+1027,Maruti,2018,Celerio ZXI AMT (O),80488,Petrol,Automatic,450000,Bangalore
+1028,Maruti,2016,Swift VXI,97896,Petrol,Manual,548000,Bangalore
+1029,Maruti,2014,Ciaz VDI,86623,Diesel,Manual,560000,Bangalore
+1030,Maruti,2017,Baleno ALPHA PETROL 1.2,67549,Petrol,Manual,681000,Bangalore
+1031,Maruti,2016,Ciaz ZDI SHVS,60384,Diesel,Manual,722000,Bangalore
+1032,Maruti,2016,Wagon R 1.0 VXI AMT,35322,Petrol,Automatic,438000,Bangalore
+1033,Maruti,2013,Wagon R 1.0 VXI,40896,Petrol,Manual,363000,Bangalore
+1034,Maruti,2012,A Star VXI,71079,Petrol,Manual,279000,Bangalore
+1035,Maruti,2016,Wagon R 1.0 VXI AMT,38333,Petrol,Automatic,442000,Bangalore
+1036,Maruti,2018,Celerio ZXI,39085,Petrol,Manual,482000,Bangalore
+1037,Maruti,2022,Celerio VXI AMT,9778,Petrol,Automatic,619000,Bangalore
+1038,Maruti,2021,Celerio ZXI AMT,20754,Petrol,Automatic,632000,Bangalore
+1039,Maruti,2016,Wagon R 1.0 VXI AMT,69324,Petrol,Automatic,408000,Bangalore
+1040,Maruti,2023,S PRESSO VXI (O) AMT,11631,Petrol,Automatic,577000,Bangalore
+1041,Maruti,2015,Ciaz ZXI,97889,Petrol,Manual,575000,Bangalore
+1042,Maruti,2017,Celerio ZXI AMT (O),35997,Petrol,Automatic,466000,Bangalore
+1043,Maruti,2023,S PRESSO VXI PLUS (O) AMT,7370,Petrol,Automatic,651000,Bangalore
+1044,Maruti,2017,Wagon R 1.0 VXI AMT,44109,Petrol,Automatic,482000,Bangalore
+1045,Maruti,2019,Alto VXI,10041,Petrol,Manual,387000,Bangalore
+1046,Maruti,2017,Baleno ZETA PETROL 1.2,23573,Petrol,Manual,682000,Bangalore
+1047,Maruti,2016,Wagon R 1.0 VXI AMT,48043,Petrol,Automatic,416000,Bangalore
+1048,Maruti,2016,Celerio VXI AMT (O),62383,Petrol,Automatic,455000,Bangalore
+1049,Maruti,2016,Wagon R 1.0 VXI AMT,40428,Petrol,Automatic,397000,Bangalore
+1050,Maruti,2019,Ciaz SIGMA 1.5 SHVS MT PETROL,12567,Petrol,Manual,775000,Bangalore
+1051,Maruti,2014,Alto K10 LXI,63792,Petrol,Manual,280000,Bangalore
+1052,Maruti,2016,Baleno ZETA CVT PETROL 1.2,83635,Petrol,Automatic,531000,Bangalore
+1053,Maruti,2021,Swift VXI,13228,Petrol,Manual,719000,Bangalore
+1054,Maruti,2011,Swift VXI,64003,Petrol,Manual,354000,Bangalore
+1055,Maruti,2021,S PRESSO VXI AMT,9677,Petrol,Automatic,463000,Bangalore
+1056,Maruti,2013,Swift VDI,97837,Diesel,Manual,433000,Bangalore
+1057,Maruti,2019,Baleno ALPHA CVT PETROL 1.2,34783,Petrol,Automatic,774000,Bangalore
+1058,Maruti,2016,Wagon R 1.0 VXI,40339,Petrol,Manual,389000,Bangalore
+1059,Maruti,2014,Swift ZXI,41074,Petrol,Manual,516000,Bangalore
+1060,Maruti,2018,Swift VXI AMT,29219,Petrol,Automatic,645000,Bangalore
+1061,Maruti,2018,Celerio ZXI AMT (O),43407,Petrol,Automatic,470000,Bangalore
+1062,Maruti,2015,Alto K10 VXI AMT,32214,Petrol,Automatic,345000,Bangalore
+1063,Maruti,2021,S PRESSO VXI+,31209,Petrol,Manual,482000,Bangalore
+1064,Maruti,2017,Dzire ZXI PLUS AMT,67275,Petrol,Automatic,665000,Bangalore
+1065,Maruti,2017,Baleno ALPHA PETROL 1.2,54225,Petrol,Manual,670000,Bangalore
+1066,Maruti,2018,Swift ZXI PLUS,64747,Petrol,Manual,718000,Bangalore
+1067,Maruti,2014,Ciaz ZXI,70337,Petrol,Manual,547000,Bangalore
+1068,Maruti,2017,Celerio VXI,37599,Petrol,Manual,482000,Bangalore
+1069,Maruti,2016,Swift VXI,92616,Petrol,Manual,584000,Bangalore
+1070,Maruti,2021,XL6 ALPHA AT,38819,Petrol,Automatic,1129000,Bangalore
+1071,Maruti,2015,Celerio VXI,13855,Petrol,Manual,415000,Bangalore
+1072,Maruti,2018,Baleno DELTA PETROL 1.2,45037,Petrol,Manual,532000,Bangalore
+1073,Maruti,2018,IGNIS SIGMA 1.2,73809,Petrol,Manual,428000,Bangalore
+1074,Maruti,2017,Baleno ZETA PETROL 1.2,48247,Petrol,Manual,714000,Bangalore
+1075,Maruti,2021,XL6 ZETA MT,24293,Petrol,Manual,969000,Bangalore
+1076,Maruti,2018,Dzire VXI,38827,Petrol,Manual,627000,Bangalore
+1077,Maruti,2018,Baleno DELTA CVT PETROL 1.2,36967,Petrol,Automatic,690000,Bangalore
+1078,Maruti,2014,Wagon R 1.0 VXI,35720,Petrol,Manual,367000,Bangalore
+1079,Maruti,2019,Celerio VXI AMT (O),66087,Petrol,Automatic,495000,Bangalore
+1080,Maruti,2017,Baleno DELTA CVT PETROL 1.2,79589,Petrol,Automatic,651000,Bangalore
+1081,Maruti,2023,Baleno ALPHA 1.2 AGS,5154,Petrol,Automatic,1006000,Bangalore
+1082,Maruti,2016,Baleno ZETA PETROL 1.2,54853,Petrol,Manual,670000,Bangalore
+1083,Maruti,2016,Ciaz ZXI+,34800,Petrol,Manual,719000,Bangalore
+1084,Maruti,2020,Alto LXI O,2598,Petrol,Manual,397000,Bangalore
+1085,Maruti,2016,Swift Dzire ZXI,57333,Petrol,Manual,682000,Bangalore
+1086,Maruti,2020,S PRESSO VXI AMT,18350,Petrol,Automatic,459000,Bangalore
+1087,Maruti,2018,Celerio VXI AMT (O),10280,Petrol,Automatic,532000,Bangalore
+1088,Maruti,2014,Celerio VXI,27566,Petrol,Manual,374000,Bangalore
+1089,Maruti,2014,Celerio VXI AMT,10558,Petrol,Automatic,409000,Bangalore
+1090,Maruti,2018,Ciaz DELTA 1.5 SHVS MT PETROL,30948,Petrol,Manual,762000,Bangalore
+1091,Maruti,2012,Swift VXI,97699,Petrol,Manual,413000,Bangalore
+1092,Maruti,2012,Alto K10 VXI,35084,Petrol,Manual,257000,Bangalore
+1093,Maruti,2017,Baleno DELTA CVT PETROL 1.2,74601,Petrol,Automatic,656000,Bangalore
+1094,Maruti,2017,IGNIS ZETA 1.2,79722,Petrol,Manual,486000,Bangalore
+1095,Maruti,2018,Ertiga ZDI + SHVS,69668,Diesel,Manual,1005000,Bangalore
+1096,Maruti,2020,Vitara Brezza ZXI PLUS AT SHVS,50421,Petrol,Automatic,972000,Bangalore
+1097,Maruti,2022,XL6 ZETA MT,59304,Petrol,Manual,1069000,Bangalore
+1098,Maruti,2017,Baleno ALPHA PETROL 1.2,57040,Petrol,Manual,684000,Bangalore
+1099,Maruti,2016,Celerio VXI AMT (O),62447,Petrol,Automatic,454000,Bangalore
+1100,Maruti,2016,Celerio VXI,77319,Petrol,Manual,413000,Bangalore
+1101,Maruti,2015,Celerio VXI AMT,33709,Petrol,Automatic,416000,Bangalore
+1102,Maruti,2018,Celerio VXI AMT,40683,Petrol,Automatic,497000,Bangalore
+1103,Maruti,2021,Baleno DELTA PETROL 1.2,19053,Petrol,Manual,707000,Bangalore
+1104,Maruti,2019,Baleno DELTA PETROL 1.2,24160,Petrol,Manual,699000,Bangalore
+1105,Maruti,2018,Ciaz ZETA 1.4 AT PETROL,50334,Petrol,Automatic,765000,Bangalore
+1106,Maruti,2018,Ciaz DELTA 1.5 SHVS MT PETROL,42483,Petrol,Manual,750000,Bangalore
+1107,Maruti,2018,Baleno ALPHA DIESEL 1.3,82882,Diesel,Manual,722000,Bangalore
+1108,Maruti,2019,Ciaz ALPHA AT 1.5 SHVS PETROL,41774,Petrol,Automatic,917000,Bangalore
+1109,Maruti,2023,New Wagon-R VXI 1.0 AMT,8230,Petrol,Automatic,752000,Bangalore
+1110,Maruti,2016,Swift ZXI,74061,Petrol,Manual,570000,Bangalore
+1111,Maruti,2016,Celerio VXI AMT,63730,Petrol,Automatic,437000,Bangalore
+1112,Maruti,2021,Alto VXI,22625,Petrol,Manual,398000,Bangalore
+1113,Maruti,2016,Swift VXI,70649,Petrol,Manual,595000,Bangalore
+1114,Maruti,2019,Ciaz ALPHA AT 1.5 SHVS PETROL,29041,Petrol,Automatic,925000,Bangalore
+1115,Maruti,2016,Ciaz ZXI+,68828,Petrol,Manual,680000,Bangalore
+1116,Maruti,2014,Swift Dzire VXI,61615,Petrol,Manual,482000,Bangalore
+1117,Maruti,2013,Alto K10 VXI,24202,Petrol,Manual,303000,Bangalore
+1118,Maruti,2021,Celerio ZXI PLUS AGS,25548,Petrol,Automatic,670000,Bangalore
+1119,Maruti,2018,Swift VXI,37330,Petrol,Manual,577000,Bangalore
+1120,Maruti,2018,Baleno ALPHA CVT PETROL 1.2,26277,Petrol,Automatic,714000,Bangalore
+1121,Maruti,2021,IGNIS ALPHA 1.2 AMT,29003,Petrol,Automatic,802000,Bangalore
+1122,Maruti,2017,Swift ZXI,51421,Petrol,Manual,641000,Bangalore
+1123,Maruti,2021,Baleno DELTA PETROL 1.2,17079,Petrol,Manual,715000,Bangalore
+1124,Maruti,2015,Swift Dzire ZXI,30728,Petrol,Manual,580000,Bangalore
+1125,Maruti,2014,Celerio VXI AMT,71320,Petrol,Automatic,372000,Bangalore
+1126,Maruti,2015,Baleno DELTA DIESEL 1.3,63916,Diesel,Manual,637000,Bangalore
+1127,Maruti,2019,New Wagon-R VXI 1.2 AMT,13515,Petrol,Automatic,591000,Bangalore
+1128,Maruti,2016,Celerio ZXI AMT,51729,Petrol,Automatic,497000,Bangalore
+1129,Maruti,2016,Swift VXI,43756,Petrol,Manual,615000,Bangalore
+1130,Maruti,2017,Celerio VXI (O),57214,Petrol,Manual,465000,Bangalore
+1131,Maruti,2016,Wagon R 1.0 VXI AMT,23912,Petrol,Automatic,426000,Bangalore
+1132,Maruti,2017,OMNI E 8 STR,20461,Petrol,Manual,326000,Bangalore
+1133,Maruti,2022,S PRESSO VXI+,6410,Petrol,Manual,486000,Bangalore
+1134,Maruti,2018,Ciaz DELTA DIESEL 1.3,80245,Diesel,Manual,701000,Bangalore
+1135,Maruti,2014,Ertiga VXI,92745,Petrol,Manual,571000,Bangalore
+1136,Maruti,2021,IGNIS SIGMA 1.2,39945,Petrol,Manual,524000,Bangalore
+1137,Maruti,2013,Ertiga VXI,92751,Petrol,Manual,626000,Bangalore
+1138,Maruti,2015,Swift VXI,69474,Petrol,Manual,539000,Bangalore
+1139,Maruti,2017,Ciaz ALPHA 1.4 PETROL,43129,Petrol,Manual,706000,Bangalore
+1140,Maruti,2017,Baleno ALPHA PETROL 1.2,49591,Petrol,Manual,725000,Bangalore
+1141,Maruti,2018,Dzire VXI,38445,Petrol,Manual,682000,Bangalore
+1142,Maruti,2023,Grand Vitara SIGMA SMART HYBRID,20888,Petrol,Manual,1119000,Bangalore
+1143,Maruti,2022,Alto K10 VXI PLUS,13847,Petrol,Manual,511000,Bangalore
+1144,Maruti,2016,Baleno DELTA CVT PETROL 1.2,62524,Petrol,Automatic,603000,Bangalore
+1145,Maruti,2020,Swift ZXI PLUS AMT,38807,Petrol,Automatic,742000,Bangalore
+1146,Maruti,2015,Swift VXI,74874,Petrol,Manual,484000,Bangalore
+1147,Maruti,2017,Celerio VXI,42178,Petrol,Manual,443000,Bangalore
+1148,Maruti,2017,Baleno RS 1.0 PETROL,36274,Petrol,Manual,670000,Bangalore
+1149,Maruti,2019,Baleno ALPHA CVT PETROL 1.2,65568,Petrol,Automatic,686000,Bangalore
+1150,Maruti,2016,Ciaz ZXI,68199,Petrol,Manual,673000,Bangalore
+1151,Maruti,2016,Celerio ZXI AMT (O),39987,Petrol,Automatic,447000,Bangalore
+1152,Maruti,2023,Ertiga ZXI+ AT SHVS,11016,Petrol,Automatic,1364000,Bangalore
+1153,Maruti,2016,Ciaz ZXI AT,66695,Petrol,Automatic,629000,Bangalore
+1154,Maruti,2015,Ciaz ZXI AT,83683,Petrol,Automatic,480000,Bangalore
+1155,Maruti,2016,Wagon R 1.0 VXI AMT,44237,Petrol,Automatic,398000,Bangalore
+1156,Maruti,2016,Celerio VXI AMT (O),38929,Petrol,Automatic,473000,Bangalore
+1157,Maruti,2018,Baleno ALPHA CVT PETROL 1.2,19161,Petrol,Automatic,739000,Bangalore
+1158,Maruti,2017,Baleno ALPHA CVT PETROL 1.2,22358,Petrol,Automatic,715000,Bangalore
+1159,Maruti,2016,Wagon R 1.0 VXI,30478,Petrol,Manual,405000,Bangalore
+1160,Maruti,2018,Ciaz ALPHA 1.4 PETROL,45811,Petrol,Manual,738000,Bangalore
+1161,Maruti,2019,S PRESSO VXI (O),44848,Petrol,Manual,418000,Bangalore
+1162,Maruti,2019,Celerio ZXI AMT (O),23686,Petrol,Automatic,534000,Bangalore
+1163,Maruti,2023,Alto K10 VXI AMT,3136,Petrol,Automatic,567000,Bangalore
+1164,Maruti,2016,Swift ZXI,14031,Petrol,Manual,591000,Bangalore
+1165,Maruti,2015,Wagon R 1.0 VXI AMT,38523,Petrol,Automatic,409000,Bangalore
+1166,Maruti,2020,Celerio ZXI AMT (O),15808,Petrol,Automatic,606000,Bangalore
+1167,Maruti,2011,Alto K10 VXI,74886,Petrol,Manual,237000,Bangalore
+1168,Maruti,2013,Alto 800 VXI,46661,Petrol,Manual,295000,Bangalore
+1169,Maruti,2014,Swift VXI,75750,Petrol,Manual,476000,Bangalore
+1170,Maruti,2016,Swift VXI,53462,Petrol,Manual,581000,Bangalore
+1171,Maruti,2020,S PRESSO VXI PLUS AMT,18106,Petrol,Automatic,501000,Bangalore
+1172,Maruti,2019,New Wagon-R VXI 1.0 AMT,30598,Petrol,Automatic,552000,Bangalore
+1173,Maruti,2019,Eeco 5 STR WITH A/C+HTR,24968,Petrol,Manual,473000,Bangalore
+1174,Maruti,2016,Vitara Brezza ZDI PLUS,60503,Diesel,Manual,779000,Bangalore
+1175,Maruti,2015,Celerio VXI,46241,Petrol,Manual,377000,Bangalore
+1176,Maruti,2016,Ertiga ZDI + SHVS,81649,Diesel,Manual,776000,Bangalore
+1177,Maruti,2017,Baleno DELTA PETROL 1.2,33972,Petrol,Manual,597000,Bangalore
+1178,Maruti,2020,IGNIS ZETA 1.2,30628,Petrol,Manual,568000,Bangalore
+1179,Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,12867,Petrol,Automatic,980000,Bangalore
+1180,Maruti,2019,Swift ZXI AMT,21955,Petrol,Automatic,692000,Bangalore
+1181,Maruti,2014,Celerio VXI AMT,44064,Petrol,Automatic,363000,Bangalore
+1182,Maruti,2017,Baleno DELTA CVT PETROL 1.2,39585,Petrol,Automatic,585000,Bangalore
+1183,Maruti,2017,Celerio ZXI AMT (O),30660,Petrol,Automatic,469000,Bangalore
+1184,Maruti,2013,Wagon R 1.0 VXI,66823,Petrol,Manual,286000,Bangalore
+1185,Maruti,2017,Ertiga ZDI SHVS,108489,Diesel,Manual,843000,Bangalore
+1186,Maruti,2016,Baleno DELTA PETROL 1.2,56956,Petrol,Manual,607000,Bangalore
+1187,Maruti,2017,Dzire VXI AMT,57398,Petrol,Automatic,566000,Bangalore
+1188,Maruti,2017,Dzire ZDI PLUS,121318,Diesel,Manual,646000,Bangalore
+1189,Maruti,2014,Swift ZDI,109999,Diesel,Manual,519000,Bangalore
+1190,Maruti,2019,Swift ZXI PLUS,25462,Petrol,Manual,728000,Bangalore
+1191,Maruti,2017,Ertiga VXI AT,88211,Petrol,Automatic,718000,Bangalore
+1192,Maruti,2014,Swift VXI,89872,Petrol,Manual,450000,Bangalore
+1193,Maruti,2016,Vitara Brezza VDI (O),58038,Diesel,Manual,797000,Bangalore
+1194,Maruti,2015,Ciaz VXI+,95738,Petrol,Manual,517000,Bangalore
+1195,Maruti,2013,Swift Dzire VXI,70963,Petrol,Manual,434000,Bangalore
+1196,Maruti,2015,Wagon R 1.0 VXI,77640,Petrol,Manual,359000,Bangalore
+1197,Maruti,2021,Swift VXI,10637,Petrol,Manual,693000,Bangalore
+1198,Maruti,2022,Baleno DELTA PETROL 1.2,9254,Petrol,Manual,763000,Bangalore
+1199,Maruti,2015,Wagon R 1.0 VXI,110669,Petrol,Manual,332000,Bangalore
+1200,Maruti,2014,Swift Dzire VXI,100458,Petrol,Manual,417000,Bangalore
+1201,Maruti,2017,Baleno ZETA PETROL 1.2,75431,Petrol,Manual,586000,Bangalore
+1202,Maruti,2014,Celerio VXI,96979,Petrol,Manual,323000,Bangalore
+1203,Maruti,2013,Ritz VXI,73335,Petrol,Manual,368000,Bangalore
+1204,Maruti,2014,Swift ZXI,56168,Petrol,Manual,516000,Bangalore
+1205,Maruti,2018,Swift ZXI AMT,54397,Petrol,Automatic,665000,Bangalore
+1206,Maruti,2014,Swift VXI,95421,Petrol,Manual,420000,Bangalore
+1207,Maruti,2011,Wagon R 1.0 VXI,38782,Petrol,Manual,266000,Bangalore
+1208,Maruti,2014,Swift Dzire VXI,61511,Petrol,Manual,421000,Bangalore
+1209,Maruti,2014,Swift VXI,71516,Petrol,Manual,478000,Bangalore
+1210,Maruti,2013,Swift Dzire VXI,98155,Petrol,Manual,437000,Bangalore
+1211,Maruti,2016,Swift VXI,44499,Petrol,Manual,512000,Bangalore
+1212,Maruti,2015,Celerio VXI AMT,29628,Petrol,Automatic,413000,Bangalore
+1213,Maruti,2022,Dzire ZXI Plus AMT,24567,Petrol,Automatic,860000,Bangalore
+1214,Maruti,2016,Baleno ALPHA PETROL 1.2,27306,Petrol,Manual,664000,Bangalore
+1215,Maruti,2020,S PRESSO VXI PLUS AMT,24864,Petrol,Automatic,479000,Bangalore
+1216,Maruti,2021,Baleno ZETA CVT PETROL 1.2,29413,Petrol,Automatic,863000,Bangalore
+1217,Maruti,2015,Ciaz VDI (O) SHVS,87856,Diesel,Manual,600000,Bangalore
+1218,Maruti,2018,Baleno ALPHA PETROL 1.2,26449,Petrol,Manual,708000,Bangalore
+1219,Maruti,2016,Baleno ZETA PETROL 1.2,29641,Petrol,Manual,628000,Bangalore
+1220,Maruti,2016,Alto K10 VXI (O) AMT,15385,Petrol,Automatic,416000,Bangalore
+1221,Maruti,2020,S PRESSO VXI+,21196,Petrol,Manual,436000,Bangalore
+1222,Maruti,2016,Celerio ZXI AMT,28404,Petrol,Automatic,420000,Bangalore
+1223,Maruti,2017,Dzire VXI AMT,29486,Petrol,Automatic,625000,Bangalore
+1224,Maruti,2012,Swift ZXI,105772,Petrol,Manual,388000,Bangalore
+1225,Maruti,2011,Swift Dzire VXI,61266,Petrol,Manual,355000,Bangalore
+1226,Maruti,2020,S PRESSO VXI+,31237,Petrol,Manual,428000,Bangalore
+1227,Maruti,2022,Ertiga VXI SHVS,9884,Petrol,Manual,1033000,Bangalore
+1228,Maruti,2017,Baleno ZETA PETROL 1.2,31727,Petrol,Manual,631000,Bangalore
+1229,Maruti,2018,Eeco 5 STR WITH A/C+HTR,66374,Petrol,Manual,445000,Bangalore
+1230,Maruti,2017,Alto K10 VXI (O) AMT,17897,Petrol,Automatic,418000,Bangalore
+1231,Maruti,2014,Alto K10 VXI,29477,Petrol,Manual,306000,Bangalore
+1232,Maruti,2018,Baleno RS 1.0 PETROL,61005,Petrol,Manual,654000,Bangalore
+1233,Maruti,2022,Baleno SIGMA PETROL 1.2,7259,Petrol,Manual,697000,Bangalore
+1234,Maruti,2015,Ertiga ZDI,57858,Diesel,Manual,775000,Bangalore
+1235,Maruti,2015,Alto 800 LXI,48319,Petrol,Manual,313000,Bangalore
+1236,Maruti,2017,Dzire ZDI PLUS AMT,89319,Diesel,Automatic,706000,Bangalore
+1237,Maruti,2021,Vitara Brezza ZXI PLUS AT SHVS,22250,Petrol,Automatic,1054000,Bangalore
+1238,Maruti,2014,Celerio ZXI (O),29601,Petrol,Manual,395000,Bangalore
+1239,Maruti,2015,Celerio VXI AMT,52643,Petrol,Automatic,404000,Bangalore
+1240,Maruti,2023,Ertiga ZXI SHVS,7989,Petrol,Manual,1179000,Bangalore
+1241,Maruti,2018,Ciaz ALPHA 1.5 SHVS PETROL,91521,Petrol,Manual,655000,Bangalore
+1242,Maruti,2021,Alto VXI PLUS,28158,Petrol,Manual,408000,Bangalore
+1243,Maruti,2018,Dzire ZXI,68309,Petrol,Manual,609000,Bangalore
+1244,Maruti,2015,Celerio VXI,39773,Petrol,Manual,420000,Bangalore
+1245,Maruti,2016,Alto 800 LXI,97698,Petrol,Manual,231000,delhi-ncr
+1246,Maruti,2019,Celerio VXI,63194,Petrol,Manual,398000,delhi-ncr
+1247,Maruti,2015,Swift VXI,102460,Petrol,Manual,333000,delhi-ncr
+1248,Maruti,2021,Vitara Brezza VXI AT SHVS,29125,Petrol,Automatic,836000,delhi-ncr
+1249,Maruti,2018,Swift ZXI PLUS,21574,Petrol,Manual,639000,delhi-ncr
+1250,Maruti,2022,Alto LXI O,13185,Petrol,Manual,373000,delhi-ncr
+1251,Maruti,2019,Baleno ZETA PETROL 1.2,21221,Petrol,Manual,621000,delhi-ncr
+1252,Maruti,2019,Baleno DELTA PETROL 1.2,35190,Petrol,Manual,557000,delhi-ncr
+1253,Maruti,2017,Swift VXI,87820,Petrol,Manual,422000,delhi-ncr
+1254,Maruti,2017,Swift LXI (O),47657,Petrol,Manual,415000,delhi-ncr
+1255,Maruti,2018,Alto 800 LXI O,68062,Petrol,Manual,299000,delhi-ncr
+1256,Maruti,2020,Baleno DELTA PETROL 1.2,38482,Petrol,Manual,603000,delhi-ncr
+1257,Maruti,2015,Alto K10 VXI,45475,Petrol,Manual,227000,delhi-ncr
+1258,Maruti,2021,S PRESSO VXI PLUS AMT,27032,Petrol,Automatic,459000,delhi-ncr
+1259,Maruti,2019,New Wagon-R VXI 1.2,19085,Petrol,Manual,476000,delhi-ncr
+1260,Maruti,2021,Swift VXI AMT,11486,Petrol,Automatic,642000,delhi-ncr
+1261,Maruti,2020,Baleno ZETA PETROL 1.2,58514,Petrol,Manual,636000,delhi-ncr
+1262,Maruti,2018,Swift LXI,53062,Petrol,Manual,437000,delhi-ncr
+1263,Maruti,2022,S Cross SIGMA 1.5,15983,Petrol,Manual,824000,delhi-ncr
+1264,Maruti,2018,Dzire LXI,38776,Petrol,Manual,516000,delhi-ncr
+1265,Maruti,2023,BREZZA ZXI SMART HYBRID,7048,Petrol,Manual,1152000,delhi-ncr
+1266,Maruti,2017,Dzire LXI,22148,Petrol,Manual,470000,delhi-ncr
+1267,Maruti,2022,Eeco 5 STR AC CNG,10783,CNG,Manual,599000,delhi-ncr
+1268,Maruti,2019,Baleno DELTA CVT PETROL 1.2,36013,Petrol,Automatic,590000,delhi-ncr
+1269,Maruti,2014,Ritz VXI,57273,Petrol,Manual,268000,delhi-ncr
+1270,Maruti,2016,Alto 800 LXI,89853,Petrol,Manual,225000,delhi-ncr
+1271,Maruti,2021,IGNIS SIGMA 1.2,17472,Petrol,Manual,475000,delhi-ncr
+1272,Maruti,2023,Swift VXI,14887,Petrol,Manual,638000,delhi-ncr
+1273,Maruti,2022,Baleno ALPHA 1.2 AGS,27052,Petrol,Automatic,835000,delhi-ncr
+1274,Maruti,2017,Wagon R 1.0 VXI,43944,Petrol,Manual,349000,delhi-ncr
+1275,Maruti,2018,Wagon R 1.0 VXI AMT,27391,Petrol,Automatic,413000,delhi-ncr
+1276,Maruti,2023,Swift VXI,10050,Petrol,Manual,680000,delhi-ncr
+1277,Maruti,2020,Baleno ZETA PETROL 1.2,72471,Petrol,Manual,572000,delhi-ncr
+1278,Maruti,2015,Wagon R 1.0 VXI,46592,Petrol,Manual,303000,delhi-ncr
+1279,Maruti,2022,BREZZA ZXI SMART HYBRID DUAL TONE,28284,Petrol,Manual,1049000,delhi-ncr
+1280,Maruti,2012,Swift VXI,90847,Petrol,Manual,264000,delhi-ncr
+1281,Maruti,2020,S PRESSO LXI,26213,Petrol,Manual,325000,delhi-ncr
+1282,Maruti,2021,Dzire VXI AMT,49622,Petrol,Automatic,653000,delhi-ncr
+1283,Maruti,2022,Alto LXI O,4848,Petrol,Manual,373000,delhi-ncr
+1284,Maruti,2017,Baleno SIGMA PETROL 1.2,44732,Petrol,Manual,438000,delhi-ncr
+1285,Maruti,2017,Ciaz ALPHA 1.4 PETROL,93015,Petrol,Manual,577000,delhi-ncr
+1286,Maruti,2021,IGNIS SIGMA 1.2,25742,Petrol,Manual,476000,delhi-ncr
+1287,Maruti,2020,New Wagon-R LXI CNG (O) 1.0,18852,CNG,Manual,513000,delhi-ncr
+1288,Maruti,2022,Celerio VXI CNG,23928,CNG,Manual,562000,delhi-ncr
+1289,Maruti,2023,Alto K10 LXI,14943,Petrol,Manual,434000,delhi-ncr
+1290,Maruti,2011,Alto K10 VXI,63048,Petrol,Manual,160000,delhi-ncr
+1291,Maruti,2018,Baleno DELTA PETROL 1.2,73594,Petrol,Manual,494000,delhi-ncr
+1292,Maruti,2011,Swift VXI,28803,Petrol,Manual,243000,delhi-ncr
+1293,Maruti,2011,Alto K10 LXI,14213,Petrol,Manual,148000,delhi-ncr
+1294,Maruti,2014,Wagon R 1.0 LXI,64539,Petrol,Manual,241000,delhi-ncr
+1295,Maruti,2023,Alto VXI PLUS,17825,Petrol,Manual,400000,delhi-ncr
+1296,Maruti,2015,Ciaz VXI+,119077,Petrol,Manual,434000,delhi-ncr
+1297,Maruti,2020,Baleno DELTA PETROL 1.2,59534,CNG,Manual,627000,delhi-ncr
+1298,Maruti,2018,IGNIS DELTA 1.2 AMT,100481,CNG,Automatic,449000,delhi-ncr
+1299,Maruti,2018,Swift VXI,36970,Petrol,Manual,517000,delhi-ncr
+1300,Maruti,2020,Baleno ZETA PETROL 1.2,25476,Petrol,Manual,628000,delhi-ncr
+1301,Maruti,2019,Baleno DELTA PETROL 1.2,47849,CNG,Manual,554000,delhi-ncr
+1302,Maruti,2021,Baleno DELTA PETROL 1.2,18460,Petrol,Manual,576000,delhi-ncr
+1303,Maruti,2017,Baleno DELTA CVT PETROL 1.2,50509,Petrol,Automatic,495000,delhi-ncr
+1304,Maruti,2016,Wagon R 1.0 VXI,121389,Petrol,Manual,292000,delhi-ncr
+1305,Maruti,2020,Baleno ZETA PETROL 1.2,7922,Petrol,Manual,661000,delhi-ncr
+1306,Maruti,2021,New Wagon-R LXI (O) 1.0,9292,Petrol,Manual,487000,delhi-ncr
+1307,Maruti,2015,Wagon R Stingray VXI,66325,Petrol,Manual,315000,delhi-ncr
+1308,Maruti,2016,Swift VXI ABS,40875,Petrol,Manual,470000,delhi-ncr
+1309,Maruti,2013,Swift Dzire VXI,82412,Petrol,Manual,287000,delhi-ncr
+1310,Maruti,2020,Baleno DELTA PETROL 1.2,60770,Petrol,Manual,597000,delhi-ncr
+1311,Maruti,2020,S PRESSO VXI CNG,64311,CNG,Manual,429000,delhi-ncr
+1312,Maruti,2021,Baleno ZETA CVT PETROL 1.2,39864,Petrol,Automatic,753000,delhi-ncr
+1313,Maruti,2015,Ciaz VXI+,56400,Petrol,Manual,484000,delhi-ncr
+1314,Maruti,2017,Swift LXI (O),55602,Petrol,Manual,412000,delhi-ncr
+1315,Maruti,2017,Celerio VXI AMT,80495,Petrol,Automatic,358000,delhi-ncr
+1316,Maruti,2022,New Wagon-R VXI 1.0 AMT,22666,Petrol,Automatic,592000,delhi-ncr
+1317,Maruti,2019,Celerio ZXI AMT,74343,Petrol,Automatic,432000,delhi-ncr
+1318,Maruti,2014,Wagon R 1.0 LXI,32631,Petrol,Manual,257000,delhi-ncr
+1319,Maruti,2017,Baleno DELTA PETROL 1.2,32348,Petrol,Manual,486000,delhi-ncr
+1320,Maruti,2018,Baleno DELTA PETROL 1.2,77462,Petrol,Manual,445000,delhi-ncr
+1321,Maruti,2020,Baleno DELTA PETROL 1.2,31279,Petrol,Manual,603000,delhi-ncr
+1322,Maruti,2016,Ciaz ZXI+,87163,Petrol,Manual,515000,delhi-ncr
+1323,Maruti,2022,New Wagon-R VXI (O) 1.2,12195,Petrol,Manual,533000,delhi-ncr
+1324,Maruti,2011,Swift VXI,48906,Petrol,Manual,229000,delhi-ncr
+1325,Maruti,2017,Swift ZXI,63367,Petrol,Manual,482000,delhi-ncr
+1326,Maruti,2020,S PRESSO VXI+,43002,Petrol,Manual,367000,delhi-ncr
+1327,Maruti,2020,Baleno ZETA PETROL 1.2,55790,Petrol,Manual,639000,delhi-ncr
+1328,Maruti,2020,Baleno ZETA PETROL 1.2,34834,Petrol,Manual,626000,delhi-ncr
+1329,Maruti,2018,Ciaz ALPHA AT 1.4 PETROL,48743,Petrol,Automatic,699000,delhi-ncr
+1330,Maruti,2013,Swift VXI,63029,Petrol,Manual,283000,delhi-ncr
+1331,Maruti,2019,Ciaz DELTA AT 1.5 SHVS PETROL,52112,Petrol,Automatic,757000,delhi-ncr
+1332,Maruti,2019,New Wagon-R VXI 1.2 AMT,12716,Petrol,Automatic,509000,delhi-ncr
+1333,Maruti,2016,Ciaz VXI,55291,Petrol,Manual,504000,delhi-ncr
+1334,Maruti,2020,New Wagon-R VXI 1.2,30400,Petrol,Manual,482000,delhi-ncr
+1335,Maruti,2019,Ciaz ALPHA 1.5 SHVS PETROL,41735,Petrol,Manual,734000,delhi-ncr
+1336,Maruti,2020,New Wagon-R LXI CNG (O) 1.0,72472,CNG,Manual,503000,delhi-ncr
+1337,Maruti,2020,New Wagon-R LXI 1.0,24266,Petrol,Manual,479000,delhi-ncr
+1338,Maruti,2022,New Wagon-R ZXI 1.2,32238,Petrol,Manual,498000,delhi-ncr
+1339,Maruti,2015,Swift Dzire LXI (O),39849,Petrol,Manual,392000,delhi-ncr
+1340,Maruti,2022,Alto LXI O,21337,Petrol,Manual,352000,delhi-ncr
+1341,Maruti,2018,Wagon R 1.0 LXI CNG,80107,CNG,Manual,394000,delhi-ncr
+1342,Maruti,2018,Celerio X ZXI (O) AMT,50012,Petrol,Automatic,411000,delhi-ncr
+1343,Maruti,2017,Baleno ZETA PETROL 1.2,54948,Petrol,Manual,474000,delhi-ncr
+1344,Maruti,2020,Baleno ZETA PETROL 1.2,56966,Petrol,Manual,639000,delhi-ncr
+1345,Maruti,2016,Ciaz ZXI,107298,Petrol,Manual,474000,delhi-ncr
+1346,Maruti,2018,Baleno ZETA PETROL 1.2,45853,Petrol,Manual,522000,delhi-ncr
+1347,Maruti,2019,Vitara Brezza ZDI,102604,Diesel,Manual,686000,delhi-ncr
+1348,Maruti,2021,Dzire ZXI Plus AMT,23264,Petrol,Automatic,706000,delhi-ncr
+1349,Maruti,2022,Swift ZXI PLUS,24626,Petrol,Manual,721000,delhi-ncr
+1350,Maruti,2019,Baleno ZETA CVT PETROL 1.2,15895,Petrol,Automatic,676000,delhi-ncr
+1351,Maruti,2020,New Wagon-R LXI 1.0,64042,Petrol,Manual,459000,delhi-ncr
+1352,Maruti,2017,Baleno ALPHA PETROL 1.2,65806,Petrol,Manual,503000,delhi-ncr
+1353,Maruti,2020,S PRESSO VXI+,15966,Petrol,Manual,401000,delhi-ncr
+1354,Maruti,2020,New Wagon-R LXI 1.0,54194,Petrol,Manual,455000,delhi-ncr
+1355,Maruti,2020,Baleno ZETA PETROL 1.2,17458,Petrol,Manual,661000,delhi-ncr
+1356,Maruti,2020,Baleno ZETA PETROL 1.2,57169,Petrol,Manual,636000,delhi-ncr
+1357,Maruti,2019,Baleno ALPHA PETROL 1.2,41726,Petrol,Manual,626000,delhi-ncr
+1358,Maruti,2016,Celerio ZXI AMT,37597,Petrol,Automatic,379000,delhi-ncr
+1359,Maruti,2014,Swift Dzire ZXI,78609,Petrol,Manual,339000,delhi-ncr
+1360,Maruti,2020,Baleno ALPHA CVT PETROL 1.2,15673,Petrol,Automatic,765000,delhi-ncr
+1361,Maruti,2021,Baleno DELTA PETROL 1.2,20381,Petrol,Manual,644000,delhi-ncr
+1362,Maruti,2019,Baleno ZETA PETROL 1.2,32866,Petrol,Manual,584000,delhi-ncr
+1363,Maruti,2022,New Wagon-R ZXI 1.2,13103,Petrol,Manual,529000,delhi-ncr
+1364,Maruti,2017,Dzire LXI,22263,Petrol,Manual,470000,delhi-ncr
+1365,Maruti,2015,Ciaz VXI+,16998,Petrol,Manual,515000,delhi-ncr
+1366,Maruti,2011,Swift VXI,47552,Petrol,Manual,229000,delhi-ncr
+1367,Maruti,2014,Wagon R 1.0 LXI,53117,Petrol,Manual,265000,delhi-ncr
+1368,Maruti,2014,Wagon R 1.0 VXI,72090,Petrol,Manual,272000,delhi-ncr
+1369,Maruti,2021,Baleno SIGMA PETROL 1.2,20654,Petrol,Manual,569000,delhi-ncr
+1370,Maruti,2019,Ciaz SIGMA 1.5 SHVS MT PETROL,66068,Petrol,Manual,683000,delhi-ncr
+1371,Maruti,2017,Swift LXI (O),42401,Petrol,Manual,417000,delhi-ncr
+1372,Maruti,2017,Baleno ALPHA PETROL 1.2,29919,Petrol,Manual,575000,delhi-ncr
+1373,Maruti,2020,Baleno ZETA PETROL 1.2,31845,Petrol,Manual,646000,delhi-ncr
+1374,Maruti,2018,Ciaz DELTA 1.5 SHVS MT PETROL,51690,Petrol,Manual,660000,delhi-ncr
+1375,Maruti,2020,Alto VXI,35457,Petrol,Manual,333000,delhi-ncr
+1376,Maruti,2019,Baleno ALPHA CVT PETROL 1.2,47915,Petrol,Automatic,645000,delhi-ncr
+1377,Maruti,2019,Baleno ZETA PETROL 1.2,59602,Petrol,Manual,561000,delhi-ncr
+1378,Maruti,2015,Ciaz VXI+,94923,Petrol,Manual,484000,delhi-ncr
+1379,Maruti,2018,Ciaz ALPHA AT 1.5 SHVS PETROL,104059,Petrol,Automatic,681000,delhi-ncr
+1380,Maruti,2020,Baleno ZETA PETROL 1.2,29899,Petrol,Manual,661000,delhi-ncr
+1381,Maruti,2012,Swift ZXI,55346,Petrol,Manual,311000,delhi-ncr
+1382,Maruti,2011,Swift VXI,68075,Petrol,Manual,216000,delhi-ncr
+1383,Maruti,2012,Swift Dzire VXI,43425,Petrol,Manual,261000,delhi-ncr
+1384,Maruti,2022,S PRESSO VXI+,12690,Petrol,Manual,459000,delhi-ncr
+1385,Maruti,2021,Baleno DELTA PETROL 1.2,25705,Petrol,Manual,643000,delhi-ncr
+1386,Maruti,2017,Baleno DELTA PETROL 1.2,47472,Petrol,Manual,490000,delhi-ncr
+1387,Maruti,2011,Wagon R 1.0 VXI,31824,Petrol,Manual,195000,delhi-ncr
+1388,Maruti,2018,Ciaz SIGMA 1.5 SHVS MT PETROL,52662,Petrol,Manual,608000,delhi-ncr
+1389,Maruti,2020,Baleno ZETA PETROL 1.2,51871,Petrol,Manual,595000,delhi-ncr
+1390,Maruti,2015,Baleno ALPHA PETROL 1.2,33752,Petrol,Manual,484000,delhi-ncr
+1391,Maruti,2019,Baleno DELTA PETROL 1.2,29389,Petrol,Manual,570000,delhi-ncr
+1392,Maruti,2012,Ertiga LXI,52584,Petrol,Manual,389000,delhi-ncr
+1393,Maruti,2014,Swift Dzire ZXI,62656,Petrol,Manual,382000,delhi-ncr
+1394,Maruti,2015,Baleno DELTA PETROL 1.2,75221,Petrol,Manual,421000,delhi-ncr
+1395,Maruti,2021,Baleno DELTA PETROL 1.2,29923,Petrol,Manual,633000,delhi-ncr
+1396,Maruti,2018,Baleno ZETA CVT PETROL 1.2,54458,Petrol,Automatic,560000,delhi-ncr
+1397,Maruti,2021,S PRESSO VXI (O),15360,Petrol,Manual,411000,delhi-ncr
+1398,Maruti,2017,Ciaz ALPHA 1.4 PETROL,43537,Petrol,Manual,644000,delhi-ncr
+1399,Maruti,2015,Ciaz VXI+,109535,Petrol,Manual,462000,delhi-ncr
+1400,Maruti,2012,Swift Dzire VXI,48618,Petrol,Manual,294000,delhi-ncr
+1401,Maruti,2019,Ciaz DELTA AT 1.5 SHVS PETROL,31431,Petrol,Automatic,794000,delhi-ncr
+1402,Maruti,2016,Baleno ALPHA PETROL 1.2,89506,Petrol,Manual,470000,delhi-ncr
+1403,Maruti,2014,Swift LXI (O),72832,Petrol,Manual,319000,delhi-ncr
+1404,Maruti,2017,Baleno ZETA PETROL 1.2,115870,Petrol,Manual,478000,delhi-ncr
+1405,Maruti,2018,Baleno DELTA CVT PETROL 1.2,70189,Petrol,Automatic,536000,delhi-ncr
+1406,Maruti,2012,Swift Dzire VXI,51629,Petrol,Manual,277000,delhi-ncr
+1407,Maruti,2020,Baleno ZETA PETROL 1.2,74081,Petrol,Manual,613000,delhi-ncr
+1408,Maruti,2015,Baleno DELTA PETROL 1.2,69216,Petrol,Manual,421000,delhi-ncr
+1409,Maruti,2017,Celerio VXI AMT,22156,Petrol,Automatic,407000,delhi-ncr
+1410,Maruti,2015,Ciaz VXI,56050,Petrol,Manual,492000,delhi-ncr
+1411,Maruti,2019,Baleno ALPHA PETROL 1.2,48887,Petrol,Manual,626000,delhi-ncr
+1412,Maruti,2019,Baleno DELTA PETROL 1.2,65056,Petrol,Manual,521000,delhi-ncr
+1413,Maruti,2011,Wagon R 1.0 LX,93282,Petrol,Manual,178000,delhi-ncr
+1414,Maruti,2017,Ciaz ZETA 1.4 AT PETROL,63948,Petrol,Automatic,668000,delhi-ncr
+1415,Maruti,2015,Swift Dzire ZXI,43488,Petrol,Manual,424000,delhi-ncr
+1416,Maruti,2017,Baleno DELTA PETROL 1.2,31714,Petrol,Manual,498000,delhi-ncr
+1417,Maruti,2017,Ciaz ALPHA 1.4 PETROL,77919,Petrol,Manual,601000,delhi-ncr
+1418,Maruti,2015,Baleno ALPHA DIESEL 1.3,70867,Diesel,Manual,459000,delhi-ncr
+1419,Maruti,2017,Baleno ZETA PETROL 1.2,66418,Petrol,Manual,512000,delhi-ncr
+1420,Maruti,2014,Ciaz VXI,58200,Petrol,Manual,400000,delhi-ncr
+1421,Maruti,2017,Ciaz ZETA 1.4 AT PETROL,62898,Petrol,Automatic,619000,delhi-ncr
+1422,Maruti,2012,Swift Dzire VXI,62008,Petrol,Manual,275000,delhi-ncr
+1423,Maruti,2017,Swift ZXI,68287,Petrol,Manual,491000,delhi-ncr
+1424,Maruti,2018,Baleno ZETA CVT PETROL 1.2,36969,Petrol,Automatic,630000,delhi-ncr
+1425,Maruti,2018,Ciaz DELTA 1.5 SHVS MT PETROL,95723,Petrol,Manual,643000,delhi-ncr
+1426,Maruti,2017,Ciaz ZETA 1.4 AT PETROL,91528,Petrol,Automatic,627000,delhi-ncr
+1427,Maruti,2020,S PRESSO VXI+,476,Petrol,Manual,397000,delhi-ncr
+1428,Maruti,2017,Baleno DELTA PETROL 1.2,41801,Petrol,Manual,490000,delhi-ncr
+1429,Maruti,2012,Swift Dzire VXI,54292,Petrol,Manual,294000,delhi-ncr
+1430,Maruti,2020,Baleno ZETA PETROL 1.2,59231,Petrol,Manual,595000,delhi-ncr
+1431,Maruti,2018,Ciaz ZETA 1.4 AT PETROL,119884,Petrol,Automatic,749000,delhi-ncr
+1432,Maruti,2021,Baleno DELTA PETROL 1.2,28154,Petrol,Manual,644000,delhi-ncr
+1433,Maruti,2022,S PRESSO VXI+,21688,Petrol,Manual,429000,delhi-ncr
+1434,Maruti,2021,Baleno DELTA PETROL 1.2,30880,Petrol,Manual,643000,delhi-ncr
+1435,Maruti,2017,Baleno DELTA PETROL 1.2,105428,Petrol,Manual,432000,delhi-ncr
+1436,Maruti,2017,Baleno ZETA PETROL 1.2,33665,Petrol,Manual,497000,delhi-ncr
+1437,Maruti,2013,Swift LXI,61671,Petrol,Manual,278000,delhi-ncr
+1438,Maruti,2020,New Wagon-R LXI 1.0,20914,Petrol,Manual,472000,delhi-ncr
+1439,Maruti,2019,Swift LXI,57073,Petrol,Manual,459000,delhi-ncr
+1440,Maruti,2016,Celerio VXI,54080,Petrol,Manual,295000,delhi-ncr
+1441,Maruti,2015,Ciaz VXI+,45312,Petrol,Manual,468000,delhi-ncr
+1442,Maruti,2018,Celerio VXI,11942,Petrol,Manual,393000,delhi-ncr
+1443,Maruti,2020,Vitara Brezza VXI AT SHVS,30949,Petrol,Automatic,800000,delhi-ncr
+1444,Maruti,2019,IGNIS DELTA 1.2,47387,Petrol,Manual,437000,delhi-ncr
+1445,Maruti,2020,Baleno DELTA PETROL 1.2,27841,Petrol,Manual,581000,delhi-ncr
+1446,Maruti,2018,Alto 800 LXI,67026,Petrol,Manual,265000,delhi-ncr
+1447,Maruti,2014,Wagon R 1.0 LXI,65520,Petrol,Manual,265000,delhi-ncr
+1448,Maruti,2022,Celerio VXI,12708,Petrol,Manual,494000,delhi-ncr
+1449,Maruti,2015,Swift LXI (O),71287,Petrol,Manual,339000,delhi-ncr
+1450,Maruti,2012,Swift VXI,34096,Petrol,Manual,272000,delhi-ncr
+1451,Maruti,2022,New Wagon-R LXI CNG 1.0,6799,CNG,Manual,558000,delhi-ncr
+1452,Maruti,2015,Ciaz VXI+,41361,Petrol,Manual,486000,delhi-ncr
+1453,Maruti,2016,Ciaz VXI,123772,Petrol,Manual,419000,delhi-ncr
+1454,Maruti,2015,Swift Dzire LXI (O),27571,Petrol,Manual,392000,delhi-ncr
+1455,Maruti,2012,Swift LXI,41942,Petrol,Manual,261000,delhi-ncr
+1456,Maruti,2020,Baleno ZETA PETROL 1.2,36095,Petrol,Manual,623000,delhi-ncr
+1457,Maruti,2016,Baleno ZETA PETROL 1.2,58530,Petrol,Manual,445000,delhi-ncr
+1458,Maruti,2017,Baleno DELTA PETROL 1.2,65897,Petrol,Manual,455000,delhi-ncr
+1459,Maruti,2019,Ciaz DELTA DIESEL 1.5,61329,Diesel,Manual,702000,delhi-ncr
+1460,Maruti,2022,Alto VXI,34574,Petrol,Manual,376000,delhi-ncr
+1461,Maruti,2017,Wagon R 1.0 LXI CNG,110029,CNG,Manual,332000,delhi-ncr
+1462,Maruti,2015,Swift LXI (O),65365,Petrol,Manual,362000,delhi-ncr
+1463,Maruti,2017,Baleno ALPHA PETROL 1.2,91549,Petrol,Manual,497000,delhi-ncr
+1464,Maruti,2017,Baleno ZETA PETROL 1.2,69227,Petrol,Manual,491000,delhi-ncr
+1465,Maruti,2021,Alto LXI,16001,Petrol,Manual,362000,delhi-ncr
+1466,Maruti,2017,Baleno ALPHA PETROL 1.2,78186,Petrol,Manual,538000,delhi-ncr
+1467,Maruti,2017,Baleno ZETA CVT PETROL 1.2,69002,Petrol,Automatic,534000,delhi-ncr
+1468,Maruti,2021,S PRESSO VXI+,12058,Petrol,Manual,433000,delhi-ncr
+1469,Maruti,2020,New Wagon-R LXI CNG (O) 1.0,65081,CNG,Manual,487000,delhi-ncr
+1470,Maruti,2017,Ciaz ZETA 1.4 MT PETROL,33161,Petrol,Manual,616000,delhi-ncr
+1471,Maruti,2022,Alto LXI O,22725,Petrol,Manual,373000,delhi-ncr
+1472,Maruti,2020,XL6 ALPHA AT,49954,Petrol,Automatic,997000,delhi-ncr
+1473,Maruti,2015,Swift LXI (O),41724,Petrol,Manual,362000,delhi-ncr
+1474,Maruti,2019,S PRESSO VXI PLUS AMT,28660,Petrol,Automatic,415000,delhi-ncr
+1475,Maruti,2022,IGNIS ZETA 1.2,14907,Petrol,Manual,590000,delhi-ncr
+1476,Maruti,2020,Baleno ZETA PETROL 1.2,35495,Petrol,Manual,661000,delhi-ncr
+1477,Maruti,2021,Alto LXI,8830,Petrol,Manual,366000,delhi-ncr
+1478,Maruti,2017,Dzire VXI AMT,29675,Petrol,Automatic,574000,delhi-ncr
+1479,Maruti,2021,IGNIS ALPHA 1.2,30314,Petrol,Manual,585000,delhi-ncr
+1480,Maruti,2016,Baleno DELTA PETROL 1.2,84123,Petrol,Manual,438000,delhi-ncr
+1481,Maruti,2022,Dzire ZXI CNG,47217,CNG,Manual,815000,delhi-ncr
+1482,Maruti,2021,XL6 ZETA AT,27739,Petrol,Automatic,1037000,delhi-ncr
+1483,Maruti,2017,Swift LXI (O),88225,CNG,Manual,411000,delhi-ncr
+1484,Maruti,2017,Ciaz ALPHA AT 1.4 PETROL,90015,CNG,Automatic,635000,delhi-ncr
+1485,Maruti,2018,Ciaz ALPHA 1.5 SHVS PETROL,76460,Petrol,Manual,677000,delhi-ncr
+1486,Maruti,2018,Celerio X ZXI (O) AMT,54533,Petrol,Automatic,437000,delhi-ncr
+1487,Maruti,2016,Celerio VXI AMT,68891,Petrol,Automatic,355000,delhi-ncr
+1488,Maruti,2017,Celerio VXI CNG,103154,CNG,Manual,368000,delhi-ncr
+1489,Maruti,2018,Wagon R 1.0 LXI CNG,72457,CNG,Manual,397000,delhi-ncr
+1490,Maruti,2023,New Wagon-R LXI CNG 1.0,14131,CNG,Manual,619000,delhi-ncr
+1491,Maruti,2015,Alto K10 VXI AMT,62425,Petrol,Automatic,286000,delhi-ncr
+1492,Maruti,2023,S PRESSO VXI PLUS (O) AMT,6333,Petrol,Automatic,490000,delhi-ncr
+1493,Maruti,2020,Alto VXI,20288,Petrol,Manual,366000,delhi-ncr
+1494,Maruti,2015,Celerio VXI AMT,64328,Petrol,Automatic,321000,delhi-ncr
+1495,Maruti,2022,Ciaz ZETA 1.5 SHVS MT PETROL,15892,Petrol,Manual,919000,delhi-ncr
+1496,Maruti,2018,Celerio ZXI,60902,Petrol,Manual,371000,delhi-ncr
+1497,Maruti,2021,Baleno DELTA PETROL 1.2,33848,Petrol,Manual,643000,delhi-ncr
+1498,Maruti,2015,Swift VXI,42213,Petrol,Manual,370000,delhi-ncr
+1499,Maruti,2019,Swift ZXI,43834,Petrol,Manual,589000,delhi-ncr
+1500,Maruti,2020,S PRESSO LXI,30651,Petrol,Manual,378000,delhi-ncr
+1501,Maruti,2022,New Wagon-R LXI 1.0,24828,Petrol,Manual,516000,delhi-ncr
+1502,Maruti,2019,Swift ZXI PLUS AMT,40276,Petrol,Automatic,597000,delhi-ncr
+1503,Maruti,2019,IGNIS SIGMA 1.2,20189,Petrol,Manual,445000,delhi-ncr
+1504,Maruti,2022,Baleno SIGMA PETROL 1.2,27464,Petrol,Manual,612000,delhi-ncr
+1505,Maruti,2020,Vitara Brezza ZXI PLUS DUAL TONE,54467,Petrol,Manual,809000,delhi-ncr
+1506,Maruti,2021,Alto LXI OPT CNG,38458,CNG,Manual,413000,delhi-ncr
+1507,Maruti,2018,Alto 800 LXI CNG,87609,CNG,Manual,321000,delhi-ncr
+1508,Maruti,2022,Ciaz ZETA AT 1.5 SHVS PETROL,21566,Petrol,Automatic,1027000,delhi-ncr
+1509,Maruti,2021,Baleno ZETA PETROL 1.2,39686,Petrol,Manual,683000,delhi-ncr
+1510,Maruti,2020,S PRESSO VXI+,18442,Petrol,Manual,397000,delhi-ncr
+1511,Maruti,2016,Ciaz ZXI,57286,Petrol,Manual,523000,delhi-ncr
+1512,Maruti,2012,Wagon R 1.0 LXI,32625,Petrol,Manual,209000,delhi-ncr
+1513,Maruti,2021,Baleno ZETA CVT PETROL 1.2,39141,Petrol,Automatic,717000,delhi-ncr
+1514,Maruti,2017,IGNIS ZETA 1.2,84544,Petrol,Manual,407000,delhi-ncr
+1515,Maruti,2022,IGNIS ZETA 1.2 AMT,36051,Petrol,Automatic,670000,delhi-ncr
+1516,Maruti,2016,Alto K10 VXI AMT,77786,Petrol,Automatic,264000,delhi-ncr
+1517,Maruti,2023,Swift LXI,11194,Petrol,Manual,559000,delhi-ncr
+1518,Maruti,2016,Alto K10 VXI AMT,48331,Petrol,Automatic,291000,delhi-ncr
+1519,Maruti,2020,Baleno DELTA PETROL 1.2,27940,Petrol,Manual,553000,delhi-ncr
+1520,Maruti,2017,Celerio VXI,56638,Petrol,Manual,344000,delhi-ncr
+1521,Maruti,2014,Wagon R 1.0 VXI,47355,Petrol,Manual,273000,delhi-ncr
+1522,Maruti,2023,IGNIS SIGMA 1.2,10469,Petrol,Manual,523000,delhi-ncr
+1523,Maruti,2023,BREZZA ZXI SMART HYBRID,8502,Petrol,Manual,1090000,delhi-ncr
+1524,Maruti,2022,New Wagon-R VXI CNG 1.0,38261,CNG,Manual,611000,delhi-ncr
+1525,Maruti,2017,Baleno DELTA PETROL 1.2,84098,Petrol,Manual,434000,delhi-ncr
+1526,Maruti,2018,Ciaz DELTA 1.5 SHVS MT PETROL,15115,Petrol,Manual,694000,delhi-ncr
+1527,Maruti,2017,Celerio VXI CNG,116413,CNG,Manual,369000,delhi-ncr
+1528,Maruti,2021,Vitara Brezza VXI AT SHVS,57060,Petrol,Automatic,842000,delhi-ncr
+1529,Maruti,2019,Baleno DELTA PETROL 1.2,65533,Petrol,Manual,519000,delhi-ncr
+1530,Maruti,2016,Baleno DELTA PETROL 1.2,94626,Petrol,Manual,426000,delhi-ncr
+1531,Maruti,2015,Swift Dzire LXI (O),35817,Petrol,Manual,393000,delhi-ncr
+1532,Maruti,2015,Swift Dzire VXI,32721,Petrol,Manual,408000,delhi-ncr
+1533,Maruti,2021,Swift LXI,24003,Petrol,Manual,501000,delhi-ncr
+1534,Maruti,2019,New Wagon-R ZXI 1.2,34898,Petrol,Manual,480000,delhi-ncr
+1535,Maruti,2016,Celerio ZXI AMT,84574,Petrol,Automatic,361000,delhi-ncr
+1536,Maruti,2018,IGNIS DELTA 1.2,29766,Petrol,Manual,396000,delhi-ncr
+1537,Maruti,2023,Alto K10 VXI,21607,Petrol,Manual,465000,delhi-ncr
+1538,Maruti,2019,Eeco 5 STR WITH A/C+HTR,43731,Petrol,Manual,420000,delhi-ncr
+1539,Maruti,2021,New Wagon-R LXI CNG 1.0,44215,CNG,Manual,505000,delhi-ncr
+1540,Maruti,2021,Ertiga ZXI+ SHVS,17163,Petrol,Manual,1032000,delhi-ncr
+1541,Maruti,2021,Alto VXI,9171,Petrol,Manual,372000,delhi-ncr
+1542,Maruti,2014,Wagon R 1.0 LXI,57918,Petrol,Manual,259000,delhi-ncr
+1543,Maruti,2020,S PRESSO VXI+,19520,Petrol,Manual,401000,delhi-ncr
+1544,Maruti,2019,Swift VXI,67091,Petrol,Manual,525000,delhi-ncr
+1545,Maruti,2020,S PRESSO VXI CNG,43486,CNG,Manual,429000,delhi-ncr
+1546,Maruti,2016,Alto K10 LXI,37919,Petrol,Manual,295000,delhi-ncr
+1547,Maruti,2019,Dzire LXI,29453,Petrol,Manual,528000,delhi-ncr
+1548,Maruti,2017,Celerio VXI CNG,61337,CNG,Manual,368000,delhi-ncr
+1549,Maruti,2020,Baleno ZETA PETROL 1.2,56649,Petrol,Manual,636000,delhi-ncr
+1550,Maruti,2018,Alto 800 LXI,39074,Petrol,Manual,274000,delhi-ncr
+1551,Maruti,2017,Wagon R 1.0 LXI CNG,117691,CNG,Manual,327000,delhi-ncr
+1552,Maruti,2017,Baleno DELTA PETROL 1.2,89754,Petrol,Manual,434000,delhi-ncr
+1553,Maruti,2018,IGNIS ALPHA 1.2,31802,Petrol,Manual,528000,delhi-ncr
+1554,Maruti,2020,Celerio LXI (O),54485,Petrol,Manual,374000,delhi-ncr
+1555,Maruti,2019,New Wagon-R VXI (O) 1.0,5464,Petrol,Manual,480000,delhi-ncr
+1556,Maruti,2014,Ertiga VXI ABS,57584,Petrol,Manual,520000,delhi-ncr
+1557,Maruti,2021,New Wagon-R LXI CNG 1.0,43689,CNG,Manual,505000,delhi-ncr
+1558,Maruti,2021,Alto VXI,54855,Petrol,Manual,347000,delhi-ncr
+1559,Maruti,2021,Baleno DELTA PETROL 1.2,33717,Petrol,Manual,622000,delhi-ncr
+1560,Maruti,2020,New Wagon-R LXI CNG (O) 1.0,67693,CNG,Manual,519000,delhi-ncr
+1561,Maruti,2015,Baleno DELTA PETROL 1.2,88342,Petrol,Manual,395000,delhi-ncr
+1562,Maruti,2023,BREZZA VXI SMART HYBRID,19281,Petrol,Manual,936000,delhi-ncr
+1563,Maruti,2018,Wagon R 1.0 LXI CNG,56257,CNG,Manual,382000,delhi-ncr
+1564,Maruti,2023,BREZZA ZXI SMART HYBRID,5398,Petrol,Manual,1087000,delhi-ncr
+1565,Maruti,2022,IGNIS DELTA 1.2,18015,Petrol,Manual,536000,delhi-ncr
+1566,Maruti,2018,Dzire ZXI AMT,50947,Petrol,Automatic,590000,delhi-ncr
+1567,Maruti,2011,Alto K10 VXI,100995,Petrol,Manual,107000,delhi-ncr
+1568,Maruti,2017,Baleno DELTA PETROL 1.2,29628,Petrol,Manual,498000,delhi-ncr
+1569,Maruti,2017,Ciaz ZETA 1.4 AT PETROL,23202,Petrol,Automatic,686000,delhi-ncr
+1570,Maruti,2016,Celerio ZXI AMT,65734,Petrol,Automatic,376000,delhi-ncr
+1571,Maruti,2015,Alto 800 LXI,98998,Petrol,Manual,204000,delhi-ncr
+1572,Maruti,2015,Alto K10 VXI,44871,Petrol,Manual,261000,delhi-ncr
+1573,Maruti,2017,Alto K10 VXI (O) AMT,49080,Petrol,Automatic,321000,delhi-ncr
+1574,Maruti,2013,Alto 800 LXI ANNIVERSARY EDITION,43820,Petrol,Manual,199000,delhi-ncr
+1575,Maruti,2018,IGNIS DELTA 1.2 AMT,26662,Petrol,Automatic,484000,delhi-ncr
+1576,Maruti,2014,Ciaz VXI+,74819,Petrol,Manual,381000,delhi-ncr
+1577,Maruti,2019,Swift ZXI PLUS AMT,67469,Petrol,Automatic,597000,delhi-ncr
+1578,Maruti,2021,Alto LXI OPT CNG,41163,CNG,Manual,352000,delhi-ncr
+1579,Maruti,2018,Alto K10 VXI,33269,Petrol,Manual,324000,delhi-ncr
+1580,Maruti,2019,Celerio VXI CNG,60076,CNG,Manual,421000,delhi-ncr
+1581,Maruti,2018,Celerio ZXI,35425,Petrol,Manual,411000,delhi-ncr
+1582,Maruti,2019,Baleno ZETA PETROL 1.2,58961,CNG,Manual,581000,delhi-ncr
+1583,Maruti,2018,Baleno ZETA PETROL 1.2,44307,CNG,Manual,566000,delhi-ncr
+1584,Maruti,2019,Swift VXI,42091,Petrol,Manual,468000,delhi-ncr
+1585,Maruti,2019,IGNIS DELTA 1.2 AMT,8644,Petrol,Automatic,521000,delhi-ncr
+1586,Maruti,2019,Eeco 5 STR WITH A/C+HTR CNG,62412,CNG,Manual,468000,delhi-ncr
+1587,Maruti,2020,IGNIS ZETA 1.2 AMT,50179,Petrol,Automatic,547000,delhi-ncr
+1588,Maruti,2018,Ciaz ZETA 1.4 AT PETROL,88132,Petrol,Automatic,757000,Hyderabad
+1589,Maruti,2019,Alto LXI,31475,Petrol,Manual,326000,Hyderabad
+1590,Maruti,2019,Ciaz DELTA AT 1.5 SHVS PETROL,55281,Petrol,Automatic,719000,Hyderabad
+1591,Maruti,2020,Baleno ZETA CVT PETROL 1.2,47699,Petrol,Automatic,758000,Hyderabad
+1592,Maruti,2017,Swift VXI,63852,Petrol,Manual,531000,Hyderabad
+1593,Maruti,2020,Alto LXI,62586,Petrol,Manual,306000,Hyderabad
+1594,Maruti,2022,New Wagon-R VXI 1.0,44382,Petrol,Manual,578000,Hyderabad
+1595,Maruti,2014,Swift Dzire ZDI,98752,Diesel,Manual,527000,Hyderabad
+1596,Maruti,2021,Dzire VXI AMT,49950,Petrol,Automatic,745000,Hyderabad
+1597,Maruti,2020,Alto LXI,62751,Petrol,Manual,335000,Hyderabad
+1598,Maruti,2017,Swift LXI (O),98274,Petrol,Manual,496000,Hyderabad
+1599,Maruti,2014,Swift VXI,79273,Petrol,Manual,433000,Hyderabad
+1600,Maruti,2016,Celerio VXI AMT,69973,Petrol,Automatic,385000,Hyderabad
+1601,Maruti,2021,Alto LXI O,26792,Petrol,Manual,380000,Hyderabad
+1602,Maruti,2019,New Wagon-R VXI 1.2,49347,Petrol,Manual,529000,Hyderabad
+1603,Maruti,2014,Wagon R 1.0 VXI,22765,Petrol,Manual,364000,Hyderabad
+1604,Maruti,2018,Baleno ALPHA CVT PETROL 1.2,43363,Petrol,Automatic,659000,Hyderabad
+1605,Maruti,2021,New Wagon-R VXI 1.0,40215,Petrol,Manual,548000,Hyderabad
+1606,Maruti,2017,Wagon R 1.0 VXI,61960,Petrol,Manual,378000,Hyderabad
+1607,Maruti,2021,S PRESSO VXI+,26875,Petrol,Manual,438000,Hyderabad
+1608,Maruti,2023,Celerio ZXI AMT,17447,Petrol,Automatic,670000,Hyderabad
+1609,Maruti,2016,Swift Dzire VXI,107226,Petrol,Manual,401000,Hyderabad
+1610,Maruti,2017,IGNIS DELTA 1.2,77579,Petrol,Manual,429000,Hyderabad
+1611,Maruti,2022,BREZZA ZXI SMART HYBRID,66111,Petrol,Manual,1058000,Hyderabad
+1612,Maruti,2019,Swift ZXI PLUS AMT,90696,Petrol,Automatic,612000,Hyderabad
+1613,Maruti,2021,Alto VXI,45381,Petrol,Manual,358000,Hyderabad
+1614,Maruti,2016,Swift Dzire VXI (O),34781,Petrol,Manual,515000,Hyderabad
+1615,Maruti,2018,Dzire VXI AMT,68760,Petrol,Automatic,623000,Hyderabad
+1616,Maruti,2014,Swift Dzire VXI,62067,Petrol,Manual,451000,Hyderabad
+1617,Maruti,2012,Swift VDI,62234,Diesel,Manual,359000,Hyderabad
+1618,Maruti,2019,Dzire VXI AMT,19029,Petrol,Automatic,664000,Hyderabad
+1619,Maruti,2011,Alto K10 VXI,81585,Petrol,Manual,184000,Hyderabad
+1620,Maruti,2011,Alto K10 VXI,34213,Petrol,Manual,191000,Hyderabad
+1621,Maruti,2018,Alto K10 VXI,44407,Petrol,Manual,302000,Hyderabad
+1622,Maruti,2019,Dzire VXI AMT,41666,Petrol,Automatic,650000,Hyderabad
+1623,Maruti,2012,Swift VXI,71115,Petrol,Manual,366000,Hyderabad
+1624,Maruti,2017,Dzire ZDI AMT,82302,Diesel,Automatic,699000,Hyderabad
+1625,Maruti,2018,Swift ZXI AMT,106179,Petrol,Automatic,559000,Hyderabad
+1626,Maruti,2010,Wagon R 1.0 VXI,81637,Petrol,Manual,202000,Hyderabad
+1627,Maruti,2016,Baleno DELTA PETROL 1.2,97531,Petrol,Manual,513000,Hyderabad
+1628,Maruti,2022,Celerio VXI CNG,48731,CNG,Manual,637000,Hyderabad
+1629,Maruti,2017,Swift VDI,112727,Diesel,Manual,532000,Hyderabad
+1630,Maruti,2021,Dzire VXI,45407,Petrol,Manual,701000,Hyderabad
+1631,Maruti,2021,Alto VXI PLUS,24381,Petrol,Manual,374000,Hyderabad
+1632,Maruti,2014,Swift VXI,54507,Petrol,Manual,433000,Hyderabad
+1633,Maruti,2023,BREZZA ZXI SMART HYBRID,22737,Petrol,Manual,1146000,Hyderabad
+1634,Maruti,2022,Vitara Brezza ZXI PLUS AT SHVS,24794,Petrol,Automatic,1096000,Hyderabad
+1635,Maruti,2020,Dzire VXI AMT,41774,Petrol,Automatic,709000,Hyderabad
+1636,Maruti,2017,Swift VXI,69042,Petrol,Manual,472000,Hyderabad
+1637,Maruti,2020,Ciaz DELTA 1.5 SHVS MT PETROL,50172,Petrol,Manual,707000,Hyderabad
+1638,Maruti,2019,Baleno ALPHA PETROL 1.2,24499,Petrol,Manual,727000,Hyderabad
+1639,Maruti,2013,Ritz ZDI,82552,Diesel,Manual,382000,Hyderabad
+1640,Maruti,2022,XL6 ZETA AT,41145,Petrol,Automatic,1243000,Hyderabad
+1641,Maruti,2011,Alto K10 VXI,72134,Petrol,Manual,190000,Hyderabad
+1642,Maruti,2016,Swift Dzire ZXI,38023,Petrol,Manual,623000,Hyderabad
+1643,Maruti,2013,Alto 800 LXI,93744,Petrol,Manual,222000,Hyderabad
+1644,Maruti,2019,Alto K10 VXI,47066,Petrol,Manual,336000,Hyderabad
+1645,Maruti,2016,Alto K10 VXI,88875,Petrol,Manual,270000,Hyderabad
+1646,Maruti,2020,Alto VXI PLUS,66938,Petrol,Manual,328000,Hyderabad
+1647,Maruti,2015,Alto 800 LXI,110664,Petrol,Manual,209000,Hyderabad
+1648,Maruti,2020,New Wagon-R ZXI 1.2,66966,Petrol,Manual,509000,Hyderabad
+1649,Maruti,2014,Wagon R 1.0 VXI,98723,Petrol,Manual,304000,Hyderabad
+1650,Maruti,2011,Alto K10 VXI,50057,Petrol,Manual,182000,Hyderabad
+1651,Maruti,2019,Baleno ZETA PETROL 1.2,24199,Petrol,Manual,687000,Hyderabad
+1652,Maruti,2018,Alto K10 VXI (O) AMT,64150,Petrol,Automatic,339000,Hyderabad
+1653,Maruti,2016,Celerio VXI AMT,32899,Petrol,Automatic,385000,Hyderabad
+1654,Maruti,2013,Wagon R 1.0 LXI,51088,Petrol,Manual,292000,Hyderabad
+1655,Maruti,2014,Celerio VXI AMT,58071,Petrol,Automatic,347000,Hyderabad
+1656,Maruti,2012,Wagon R 1.0 LXI,76750,Petrol,Manual,312000,Hyderabad
+1657,Maruti,2014,Swift Dzire VXI,55835,Petrol,Manual,454000,Hyderabad
+1658,Maruti,2022,Dzire VXI AMT,52707,Petrol,Automatic,770000,Hyderabad
+1659,Maruti,2013,Swift Dzire VXI REGAL EDITION,52178,Petrol,Manual,420000,Hyderabad
+1660,Maruti,2018,Celerio VXI AMT (O),69185,Petrol,Automatic,438000,Hyderabad
+1661,Maruti,2018,Ciaz ALPHA 1.4 PETROL,98119,Petrol,Manual,683000,Hyderabad
+1662,Maruti,2014,Wagon R 1.0 VXI,83098,Petrol,Manual,304000,Hyderabad
+1663,Maruti,2020,Celerio ZXI AMT,47616,Petrol,Automatic,530000,Hyderabad
+1664,Maruti,2022,S PRESSO VXI+,59398,Petrol,Manual,448000,Hyderabad
+1665,Maruti,2015,Wagon R 1.0 VXI,29956,Petrol,Manual,390000,Hyderabad
+1666,Maruti,2015,Wagon R 1.0 VXI,43791,Petrol,Manual,333000,Hyderabad
+1667,Maruti,2022,New Wagon-R ZXI 1.2,22594,Petrol,Manual,611000,Hyderabad
+1668,Maruti,2016,Wagon R 1.0 VXI,77225,Petrol,Manual,388000,Hyderabad
+1669,Maruti,2012,Wagon R 1.0 LXI,72470,Petrol,Manual,275000,Hyderabad
+1670,Maruti,2019,Celerio ZXI,69332,Petrol,Manual,459000,Hyderabad
+1671,Maruti,2021,Alto VXI PLUS,24463,Petrol,Manual,400000,Hyderabad
+1672,Maruti,2022,New Wagon-R VXI 1.0 AMT,9301,Petrol,Automatic,620000,Hyderabad
+1673,Maruti,2020,New Wagon-R VXI 1.2,48833,Petrol,Manual,504000,Hyderabad
+1674,Maruti,2019,New Wagon-R VXI 1.2,52608,Petrol,Manual,498000,Hyderabad
+1675,Maruti,2016,Wagon R 1.0 VXI AMT,82834,Petrol,Automatic,387000,Hyderabad
+1676,Maruti,2016,Alto K10 VXI AMT,26500,Petrol,Automatic,338000,Hyderabad
+1677,Maruti,2017,Ciaz DELTA 1.4 MT PETROL,105815,Petrol,Manual,591000,Hyderabad
+1678,Maruti,2017,Alto 800 LXI,46112,Petrol,Manual,290000,Hyderabad
+1679,Maruti,2017,Alto 800 LXI,96161,Petrol,Manual,240000,Hyderabad
+1680,Maruti,2017,Alto 800 VXI,77702,Petrol,Manual,282000,Hyderabad
+1681,Maruti,2014,Wagon R 1.0 VXI,69455,Petrol,Manual,344000,Hyderabad
+1682,Maruti,2019,Alto K10 VXI,39091,Petrol,Manual,369000,Hyderabad
+1683,Maruti,2017,Alto 800 LXI,49061,Petrol,Manual,283000,Hyderabad
+1684,Maruti,2021,S PRESSO VXI+,16647,Petrol,Manual,450000,Hyderabad
+1685,Maruti,2019,Baleno ZETA PETROL 1.2,36262,Petrol,Manual,677000,Hyderabad
+1686,Maruti,2016,Alto K10 VXI AMT,85292,Petrol,Automatic,317000,Hyderabad
+1687,Maruti,2018,Celerio X ZXI AMT,68971,Petrol,Automatic,445000,Hyderabad
+1688,Maruti,2020,New Wagon-R VXI (O) 1.2 AMT,26074,Petrol,Automatic,598000,Hyderabad
+1689,Maruti,2018,Celerio ZXI (O),99649,Petrol,Manual,415000,Hyderabad
+1690,Maruti,2018,Wagon R 1.0 VXI,92102,Petrol,Manual,401000,Hyderabad
+1691,Maruti,2015,Celerio ZXI AMT,75112,Petrol,Automatic,396000,Hyderabad
+1692,Maruti,2015,Wagon R 1.0 VXI,90358,Petrol,Manual,319000,Hyderabad
+1693,Maruti,2013,Alto 800 LXI,36298,Petrol,Manual,229000,Hyderabad
+1694,Maruti,2022,BREZZA ZXI SMART HYBRID,23690,Petrol,Manual,1091000,Hyderabad
+1695,Maruti,2022,S PRESSO VXI+,35049,Petrol,Manual,488000,Hyderabad
+1696,Maruti,2012,Wagon R 1.0 VXI,79478,Petrol,Manual,262000,Hyderabad
+1697,Maruti,2023,BREZZA ZXI SMART HYBRID,18693,Petrol,Manual,1146000,Hyderabad
+1698,Maruti,2013,Alto 800 LXI,48658,Petrol,Manual,219000,Hyderabad
+1699,Maruti,2013,Alto 800 LXI,56113,Petrol,Manual,219000,Hyderabad
+1700,Maruti,2017,Celerio ZXI AMT,77481,Petrol,Automatic,418000,Hyderabad
+1701,Maruti,2014,Celerio VXI AMT,98335,Petrol,Automatic,376000,Hyderabad
+1702,Maruti,2017,IGNIS ZETA 1.2,63716,Petrol,Manual,508000,Hyderabad
+1703,Maruti,2017,Alto 800 VXI,66467,Petrol,Manual,286000,Hyderabad
+1704,Maruti,2015,Wagon R 1.0 VXI,97385,Petrol,Manual,323000,Hyderabad
+1705,Maruti,2018,IGNIS DELTA 1.2 AMT,33509,Petrol,Automatic,540000,Hyderabad
+1706,Maruti,2017,Wagon R 1.0 VXI+ (O) MT,92836,Petrol,Manual,392000,Hyderabad
+1707,Maruti,2022,S PRESSO VXI PLUS (O) AMT,5581,Petrol,Automatic,567000,Hyderabad
+1708,Maruti,2015,Wagon R 1.0 VXI,34292,Petrol,Manual,349000,Hyderabad
+1709,Maruti,2017,IGNIS DELTA 1.2,85064,Petrol,Manual,409000,Hyderabad
+1710,Maruti,2021,Celerio ZXI AMT,24059,Petrol,Automatic,602000,Hyderabad
+1711,Maruti,2019,Baleno ALPHA CVT PETROL 1.2,32201,Petrol,Automatic,747000,Hyderabad
+1712,Maruti,2021,S PRESSO VXI+,18842,Petrol,Manual,438000,Hyderabad
+1713,Maruti,2011,Swift VXI,86465,Petrol,Manual,291000,Hyderabad
+1714,Maruti,2015,Baleno DELTA PETROL 1.2,61446,Petrol,Manual,451000,Hyderabad
+1715,Maruti,2016,Wagon R 1.0 VXI,63813,Petrol,Manual,336000,Hyderabad
+1716,Maruti,2014,Alto 800 LXI,57290,Petrol,Manual,244000,Hyderabad
+1717,Maruti,2017,Baleno ALPHA PETROL 1.2,61462,Petrol,Manual,609000,Hyderabad
+1718,Maruti,2017,Vitara Brezza VDI (O),45146,Diesel,Manual,747000,Hyderabad
+1719,Maruti,2017,Alto 800 LXI,63989,Petrol,Manual,277000,Hyderabad
+1720,Maruti,2022,Alto K10 VXI,22864,Petrol,Manual,403000,Hyderabad
+1721,Maruti,2018,Swift VXI,74858,Petrol,Manual,549000,Hyderabad
+1722,Maruti,2018,Ciaz ALPHA AT 1.5 SHVS PETROL,50723,Petrol,Automatic,779000,Hyderabad
+1723,Maruti,2022,Baleno ALPHA PETROL 1.2,31283,Petrol,Manual,858000,Hyderabad
+1724,Maruti,2019,Celerio ZXI,99910,Petrol,Manual,450000,Hyderabad
+1725,Maruti,2016,Swift Dzire VXI,58570,Petrol,Manual,513000,Hyderabad
+1726,Maruti,2018,Wagon R 1.0 VXI OPT,41965,Petrol,Manual,386000,Hyderabad
+1727,Maruti,2017,Alto 800 LXI,47179,Petrol,Manual,290000,Hyderabad
+1728,Maruti,2021,S PRESSO VXI+,10266,Petrol,Manual,450000,Hyderabad
+1729,Maruti,2021,S PRESSO VXI+,45232,Petrol,Manual,436000,Hyderabad
+1730,Maruti,2013,Alto 800 LXI,93071,Petrol,Manual,202000,Hyderabad
+1731,Maruti,2019,New Wagon-R VXI 1.0 AMT,95456,Petrol,Automatic,498000,Hyderabad
+1732,Maruti,2020,Baleno ZETA PETROL 1.2,55997,Petrol,Manual,693000,Hyderabad
+1733,Maruti,2021,New Wagon-R VXI (O) 1.2 AMT,37541,Petrol,Automatic,584000,Hyderabad
+1734,Maruti,2017,Celerio ZXI,81204,Petrol,Manual,413000,Hyderabad
+1735,Maruti,2013,Swift ZDI,102255,Diesel,Manual,433000,Hyderabad
+1736,Maruti,2020,Dzire ZXI AMT,15435,Petrol,Automatic,720000,Hyderabad
+1737,Maruti,2018,IGNIS ALPHA 1.2,35090,Petrol,Manual,533000,Hyderabad
+1738,Maruti,2020,Alto VXI,32285,Petrol,Manual,360000,Hyderabad
+1739,Maruti,2023,Alto VXI PLUS,29652,Petrol,Manual,449000,Hyderabad
+1740,Maruti,2020,Baleno ALPHA PETROL 1.2,25580,Petrol,Manual,750000,Hyderabad
+1741,Maruti,2017,Celerio ZXI (O),76079,Petrol,Manual,447000,Hyderabad
+1742,Maruti,2016,Swift ZXI,77053,Petrol,Manual,501000,Hyderabad
+1743,Maruti,2021,Ciaz ALPHA AT 1.5 SHVS PETROL,57002,Petrol,Automatic,961000,Hyderabad
+1744,Maruti,2017,Alto 800 VXI O,92881,Petrol,Manual,264000,Hyderabad
+1745,Maruti,2023,Alto K10 LXI,16628,Petrol,Manual,472000,Hyderabad
+1746,Maruti,2020,Ciaz DELTA 1.5 SHVS MT PETROL,61765,Petrol,Manual,802000,Hyderabad
+1747,Maruti,2012,Alto LXI,3877,Petrol,Manual,225000,Hyderabad
+1748,Maruti,2019,Baleno ZETA CVT PETROL 1.2,11957,Petrol,Automatic,714000,Hyderabad
+1749,Maruti,2020,Alto LXI,30292,Petrol,Manual,364000,Hyderabad
+1750,Maruti,2019,Baleno ALPHA PETROL 1.2,88651,Petrol,Manual,649000,Hyderabad
+1751,Maruti,2020,Alto LXI,13485,Petrol,Manual,358000,Hyderabad
+1752,Maruti,2017,Alto K10 VXI (O) AMT,67823,Petrol,Automatic,336000,Hyderabad
+1753,Maruti,2020,IGNIS DELTA 1.2,77633,Petrol,Manual,513000,Hyderabad
+1754,Maruti,2020,New Wagon-R VXI 1.2 AMT,19711,Petrol,Automatic,602000,Hyderabad
+1755,Maruti,2023,Alto K10 VXI PLUS AMT,15262,Petrol,Automatic,565000,Hyderabad
+1756,Maruti,2019,S PRESSO VXI,50645,Petrol,Manual,373000,Hyderabad
+1757,Maruti,2023,Baleno ALPHA PETROL 1.2,28570,Petrol,Manual,898000,Hyderabad
+1758,Maruti,2015,Swift Dzire VDI ABS,89450,Diesel,Manual,582000,Hyderabad
+1759,Maruti,2021,Vitara Brezza ZXI PLUS AT DUAL TONE SHVS,68282,Petrol,Automatic,961000,Hyderabad
+1760,Maruti,2016,Celerio VXI,80189,Petrol,Manual,341000,Hyderabad
+1761,Maruti,2020,Dzire VXI,45505,Petrol,Manual,642000,Hyderabad
+1762,Maruti,2021,XL6 ZETA MT,54421,Petrol,Manual,999000,Hyderabad
+1763,Maruti,2020,Dzire ZXI PLUS AMT,32142,Petrol,Automatic,756000,Hyderabad
+1764,Maruti,2018,Wagon R 1.0 VXI AMT,99726,Petrol,Automatic,418000,Hyderabad
+1765,Maruti,2017,Dzire VDI AMT,77742,Diesel,Automatic,643000,Hyderabad
+1766,Maruti,2022,Ciaz DELTA 1.5 SHVS MT PETROL,16453,Petrol,Manual,897000,Hyderabad
+1767,Maruti,2019,Baleno ZETA PETROL 1.2,55295,Petrol,Manual,646000,Hyderabad
+1768,Maruti,2014,Swift ZXI,48194,Petrol,Manual,465000,Hyderabad
+1769,Maruti,2019,Celerio ZXI AMT (O),87744,Petrol,Automatic,483000,Hyderabad
+1770,Maruti,2016,Baleno DELTA PETROL 1.2,48242,Petrol,Manual,519000,Hyderabad
+1771,Maruti,2022,Alto LXI O,18317,Petrol,Manual,399000,Hyderabad
+1772,Maruti,2019,Baleno ZETA PETROL 1.2,58448,Petrol,Manual,667000,Hyderabad
+1773,Maruti,2020,Baleno ZETA PETROL 1.2,65323,Petrol,Manual,693000,Hyderabad
+1774,Maruti,2018,Swift ZXI AMT,76836,Petrol,Automatic,639000,Hyderabad
+1775,Maruti,2021,Dzire VXI,60706,Petrol,Manual,701000,Hyderabad
+1776,Maruti,2020,New Wagon-R VXI 1.2 AMT,50380,Petrol,Automatic,549000,Hyderabad
+1777,Maruti,2020,New Wagon-R ZXI 1.2,52823,Petrol,Manual,540000,Hyderabad
+1778,Maruti,2023,Alto K10 VXI PLUS AMT,8023,Petrol,Automatic,565000,Hyderabad
+1779,Maruti,2020,Baleno DELTA PETROL 1.2,61979,Petrol,Manual,634000,Hyderabad
+1780,Maruti,2022,Alto VXI,10612,Petrol,Manual,424000,Hyderabad
+1781,Maruti,2020,Celerio VXI (O),28358,Petrol,Manual,494000,Hyderabad
+1782,Maruti,2016,Baleno DELTA PETROL 1.2,93648,Petrol,Manual,547000,Hyderabad
+1783,Maruti,2017,Celerio ZXI (O),51182,Petrol,Manual,413000,Hyderabad
+1784,Maruti,2018,Wagon R 1.0 VXI,76210,Petrol,Manual,409000,Hyderabad
+1785,Maruti,2019,Celerio X ZXI AMT,52328,Petrol,Automatic,514000,Hyderabad
+1786,Maruti,2019,IGNIS DELTA 1.2,72496,Petrol,Manual,458000,Hyderabad
+1787,Maruti,2018,Dzire VXI,80505,Petrol,Manual,564000,Hyderabad
+1788,Maruti,2017,IGNIS ZETA 1.2 AMT,39347,Petrol,Automatic,538000,Hyderabad
+1789,Maruti,2017,Ciaz ZETA DIESEL 1.3,101069,Diesel,Manual,683000,Hyderabad
+1790,Maruti,2019,S PRESSO VXI,53383,Petrol,Manual,373000,Hyderabad
+1791,Maruti,2018,Wagon R 1.0 VXI AMT,64157,Petrol,Automatic,422000,Hyderabad
+1792,Maruti,2021,Baleno ZETA PETROL 1.2,31437,Petrol,Manual,739000,Hyderabad
+1793,Maruti,2016,Baleno DELTA PETROL 1.2,40131,Petrol,Manual,534000,Hyderabad
+1794,Maruti,2017,Wagon R 1.0 VXI,66341,Petrol,Manual,405000,Hyderabad
+1795,Maruti,2018,Swift VXI,81095,Petrol,Manual,529000,Hyderabad
+1796,Maruti,2018,Swift VXI,78023,Petrol,Manual,549000,Hyderabad
+1797,Maruti,2023,New Wagon-R ZXI 1.2,35595,Petrol,Manual,608000,Hyderabad
+1798,Maruti,2014,Swift Dzire VXI,65612,Petrol,Manual,454000,Hyderabad
+1799,Maruti,2019,Baleno ZETA PETROL 1.2,31968,Petrol,Manual,687000,Hyderabad
+1800,Maruti,2018,Baleno DELTA PETROL 1.2,52856,Petrol,Manual,527000,Hyderabad
+1801,Maruti,2014,Swift Dzire VXI,84992,Petrol,Manual,442000,Hyderabad
+1802,Maruti,2021,Dzire ZXI,39505,Petrol,Manual,775000,Hyderabad
+1803,Maruti,2021,XL6 ZETA MT,53293,Petrol,Manual,980000,Hyderabad
+1804,Maruti,2013,Alto K10 VXI,70050,Petrol,Manual,224000,Hyderabad
+1805,Maruti,2017,IGNIS ZETA 1.2,52488,Petrol,Manual,498000,Hyderabad
+1806,Maruti,2015,Swift VDI ABS,90513,Diesel,Manual,521000,Hyderabad
+1807,Maruti,2020,Dzire VXI,51090,Petrol,Manual,662000,Hyderabad
+1808,Maruti,2019,S PRESSO VXI PLUS AMT,44589,Petrol,Automatic,421000,Hyderabad
+1809,Maruti,2022,Ertiga ZXI+ SHVS,28892,Petrol,Manual,1083000,Hyderabad
+1810,Maruti,2014,Ertiga ZXI,74199,Petrol,Manual,653000,Hyderabad
+1811,Maruti,2021,S PRESSO VXI+,46355,Petrol,Manual,436000,Hyderabad
+1812,Maruti,2017,Dzire VDI AMT,95453,Diesel,Automatic,640000,Hyderabad
+1813,Maruti,2018,Swift VDI,72273,Diesel,Manual,615000,Hyderabad
+1814,Maruti,2017,Swift Dzire VXI,53469,Petrol,Manual,534000,Hyderabad
+1815,Maruti,2013,Alto K10 VXI,62715,Petrol,Manual,194000,Hyderabad
+1816,Maruti,2023,Baleno ALPHA PETROL 1.2,7563,Petrol,Manual,898000,Hyderabad
+1817,Maruti,2020,Vitara Brezza ZXI PLUS AT DUAL TONE SHVS,48436,Petrol,Automatic,965000,Hyderabad
+1818,Maruti,2023,BREZZA ZXI SMART HYBRID,12590,Petrol,Manual,1271000,Hyderabad
+1819,Maruti,2018,Baleno DELTA CVT PETROL 1.2,85573,Petrol,Automatic,582000,Hyderabad
+1820,Maruti,2012,Wagon R 1.0 LXI,61342,Petrol,Manual,248000,Hyderabad
+1821,Maruti,2017,Celerio ZXI AMT,53241,Petrol,Automatic,451000,Hyderabad
+1822,Maruti,2017,IGNIS DELTA 1.2,70873,Petrol,Manual,462000,Hyderabad
+1823,Maruti,2016,Ciaz VXI+,79933,Petrol,Manual,583000,Hyderabad
+1824,Maruti,2022,Baleno ALPHA PETROL 1.2,49533,Petrol,Manual,857000,Hyderabad
+1825,Maruti,2018,Swift ZXI PLUS AMT,49070,Petrol,Automatic,619000,Hyderabad
+1826,Maruti,2023,Dzire ZXI AMT,10289,Petrol,Automatic,828000,Hyderabad
+1827,Maruti,2020,Swift VXI,47110,Petrol,Manual,577000,Hyderabad
+1828,Maruti,2019,Ciaz DELTA 1.5 SHVS MT PETROL,45932,Petrol,Manual,663000,Hyderabad
+1829,Maruti,2021,Swift VXI,23180,Petrol,Manual,642000,Hyderabad
+1830,Maruti,2023,Swift VXI AMT,10239,Petrol,Automatic,748000,Hyderabad
+1831,Maruti,2018,Celerio ZXI AMT (O),10060,Petrol,Automatic,499000,Hyderabad
+1832,Maruti,2020,S PRESSO VXI,90701,Petrol,Manual,390000,Hyderabad
+1833,Maruti,2017,Baleno ALPHA PETROL 1.2,47626,Petrol,Manual,589000,Hyderabad
+1834,Maruti,2021,Swift ZXI,62062,Petrol,Manual,681000,Hyderabad
+1835,Maruti,2019,Baleno ZETA PETROL 1.2,36144,Petrol,Manual,687000,Hyderabad
+1836,Maruti,2013,Alto 800 LXI,49551,Petrol,Manual,219000,Hyderabad
+1837,Maruti,2016,Celerio ZXI AMT,87131,Petrol,Automatic,413000,Hyderabad
+1838,Maruti,2020,Swift VXI,43464,Petrol,Manual,584000,Hyderabad
+1839,Maruti,2018,Dzire VXI AMT,51852,Petrol,Automatic,550000,Mumbai
+1840,Maruti,2014,Swift Dzire ZDI,11144,Diesel,Manual,613000,Mumbai
+1841,Maruti,2012,Wagon R 1.0 VXI,42425,Petrol,Manual,231000,Mumbai
+1842,Maruti,2022,Ertiga ZXI (O) CNG,20619,CNG,Manual,1192000,Mumbai
+1843,Maruti,2016,Baleno DELTA DIESEL 1.3,62767,Diesel,Manual,557000,Mumbai
+1844,Maruti,2016,Celerio ZXI AMT,76727,Petrol,Automatic,381000,Mumbai
+1845,Maruti,2017,Baleno ZETA PETROL 1.2,40995,Petrol,Manual,545000,Mumbai
+1846,Maruti,2016,Baleno DELTA PETROL 1.2,43273,Petrol,Manual,505000,Mumbai
+1847,Maruti,2017,Wagon R 1.0 LXI CNG,56359,CNG,Manual,369000,Mumbai
+1848,Maruti,2021,Ciaz DELTA 1.5 SHVS MT PETROL,30926,Petrol,Manual,777000,Mumbai
+1849,Maruti,2016,Vitara Brezza ZDI PLUS DUAL TONE,99679,Diesel,Manual,674000,Mumbai
+1850,Maruti,2020,Baleno DELTA PETROL 1.2,33723,Petrol,Manual,583000,Mumbai
+1851,Maruti,2015,Ertiga ZXI,48033,Petrol,Manual,649000,Mumbai
+1852,Maruti,2014,Wagon R 1.0 LXI CNG,99498,CNG,Manual,279000,Mumbai
+1853,Maruti,2014,Swift VXI,29876,Petrol,Manual,393000,Mumbai
+1854,Maruti,2014,Swift VXI,53120,Petrol,Manual,371000,Mumbai
+1855,Maruti,2013,Wagon R 1.0 LXI CNG,80601,CNG,Manual,279000,Mumbai
+1856,Maruti,2016,Ciaz ZXI+ AT,90742,Petrol,Automatic,567000,Mumbai
+1857,Maruti,2013,Wagon R 1.0 VXI,44412,Petrol,Manual,269000,Mumbai
+1858,Maruti,2020,New Wagon-R VXI 1.2,20785,Petrol,Manual,516000,Mumbai
+1859,Maruti,2019,Celerio VXI CNG,35436,CNG,Manual,518000,Mumbai
+1860,Maruti,2017,Wagon R 1.0 VXI,34793,Petrol,Manual,382000,Mumbai
+1861,Maruti,2017,Wagon R 1.0 VXI,22280,Petrol,Manual,382000,Mumbai
+1862,Maruti,2019,New Wagon-R VXI (O) 1.2,25824,Petrol,Manual,512000,Mumbai
+1863,Maruti,2017,Baleno ZETA PETROL 1.2,49544,Petrol,Manual,454000,Mumbai
+1864,Maruti,2017,Celerio ZXI AMT,42234,Petrol,Automatic,408000,Mumbai
+1865,Maruti,2016,Wagon R 1.0 VXI,51265,Petrol,Manual,339000,Mumbai
+1866,Maruti,2017,Baleno DELTA PETROL 1.2,35708,Petrol,Manual,520000,Mumbai
+1867,Maruti,2019,Baleno DELTA CVT PETROL 1.2,16547,Petrol,Automatic,600000,Mumbai
+1868,Maruti,2015,Swift VXI,76928,Petrol,Manual,389000,Mumbai
+1869,Maruti,2015,Ciaz ZXI,85633,Petrol,Manual,476000,Mumbai
+1870,Maruti,2017,Ciaz ZDI+ SHVS,75650,Diesel,Manual,604000,Mumbai
+1871,Maruti,2016,Swift Dzire VXI,49757,Petrol,Manual,438000,Mumbai
+1872,Maruti,2017,Baleno ALPHA DIESEL 1.3,73649,Diesel,Manual,556000,Mumbai
+1873,Maruti,2013,Wagon R Stingray VXI,35954,Petrol,Manual,295000,Mumbai
+1874,Maruti,2022,BREZZA ZXI SMART HYBRID,5377,Petrol,Manual,1159000,Mumbai
+1875,Maruti,2016,Alto 800 LXI,45935,Petrol,Manual,250000,Mumbai
+1876,Maruti,2012,Swift VXI,15045,Petrol,Manual,315000,Mumbai
+1877,Maruti,2014,Celerio VXI AMT,76296,Petrol,Automatic,312000,Mumbai
+1878,Maruti,2016,Swift VXI O,35970,Petrol,Manual,433000,Mumbai
+1879,Maruti,2014,Swift Dzire ZDI,114899,Diesel,Manual,465000,Mumbai
+1880,Maruti,2017,Wagon R 1.0 VXI AMT,65289,Petrol,Automatic,366000,Mumbai
+1881,Maruti,2020,Baleno ZETA PETROL 1.2,14523,Petrol,Manual,605000,Mumbai
+1882,Maruti,2017,Baleno ZETA CVT PETROL 1.2,77650,Petrol,Automatic,521000,Mumbai
+1883,Maruti,2020,S PRESSO VXI CNG,66992,CNG,Manual,399000,Mumbai
+1884,Maruti,2018,Celerio VXI CNG,74536,CNG,Manual,395000,Mumbai
+1885,Maruti,2021,New Wagon-R LXI CNG 1.0,23233,CNG,Manual,562000,Mumbai
+1886,Maruti,2019,Baleno ZETA CVT PETROL 1.2,24684,Petrol,Automatic,708000,Mumbai
+1887,Maruti,2015,Wagon R 1.0 VXI AMT,95214,Petrol,Automatic,298000,Mumbai
+1888,Maruti,2012,Swift Dzire ZXI,60719,Petrol,Manual,341000,Mumbai
+1889,Maruti,2014,Celerio VXI,66046,Petrol,Manual,299000,Mumbai
+1890,Maruti,2017,Celerio VXI CNG,79682,CNG,Manual,405000,Mumbai
+1891,Maruti,2017,Swift VXI,47322,Petrol,Manual,486000,Mumbai
+1892,Maruti,2014,Swift VXI,69389,Petrol,Manual,333000,Mumbai
+1893,Maruti,2021,New Wagon-R LXI CNG (O) 1.0,13106,CNG,Manual,584000,Mumbai
+1894,Maruti,2017,Swift VXI,57535,Petrol,Manual,474000,Mumbai
+1895,Maruti,2021,New Wagon-R LXI CNG 1.0,19622,CNG,Manual,562000,Mumbai
+1896,Maruti,2017,Wagon R 1.0 LXI CNG,62850,CNG,Manual,321000,Mumbai
+1897,Maruti,2018,Ciaz ZETA 1.5 SHVS MT PETROL,18001,Petrol,Manual,708000,Mumbai
+1898,Maruti,2012,Wagon R 1.0 VXI,43569,Petrol,Manual,233000,Mumbai
+1899,Maruti,2016,Celerio ZXI,33655,Petrol,Manual,367000,Mumbai
+1900,Maruti,2023,BREZZA ZXI SMART HYBRID,10234,Petrol,Manual,1231000,Mumbai
+1901,Maruti,2014,Wagon R 1.0 LXI,67447,Petrol,Manual,283000,Mumbai
+1902,Maruti,2017,Dzire VDI AMT,36258,Diesel,Automatic,614000,Mumbai
+1903,Maruti,2021,New Wagon-R LXI CNG 1.0,27051,CNG,Manual,562000,Mumbai
+1904,Maruti,2017,Celerio ZXI,27882,Petrol,Manual,388000,Mumbai
+1905,Maruti,2020,S Cross ALPHA AT SMART HYBRID,29624,Petrol,Automatic,1006000,Mumbai
+1906,Maruti,2023,New Wagon-R LXI 1.0,1958,Petrol,Manual,589000,Mumbai
+1907,Maruti,2021,S PRESSO VXI+,12655,Petrol,Manual,405000,Mumbai
+1908,Maruti,2020,New Wagon-R LXI CNG 1.0,12950,CNG,Manual,509000,Mumbai
+1909,Maruti,2021,New Wagon-R LXI CNG (O) 1.0,39613,CNG,Manual,574000,Mumbai
+1910,Maruti,2015,Wagon R 1.0 VXI,30992,Petrol,Manual,307000,Mumbai
+1911,Maruti,2013,Wagon R 1.0 LXI CNG,75349,CNG,Manual,269000,Mumbai
+1912,Maruti,2015,Wagon R 1.0 VXI,28048,Petrol,Manual,309000,Mumbai
+1913,Maruti,2013,Wagon R 1.0 VXI,68427,Petrol,Manual,268000,Mumbai
+1914,Maruti,2019,S PRESSO VXI PLUS AMT,21125,Petrol,Automatic,430000,Mumbai
+1915,Maruti,2021,New Wagon-R LXI CNG 1.0,30981,CNG,Manual,562000,Mumbai
+1916,Maruti,2013,Swift Dzire ZDI,120050,Diesel,Manual,438000,Mumbai
+1917,Maruti,2022,S PRESSO VXI+,10815,Petrol,Manual,476000,Mumbai
+1918,Maruti,2021,New Wagon-R VXI (O) 1.2,19528,Petrol,Manual,516000,Mumbai
+1919,Maruti,2019,New Wagon-R VXI 1.2,37678,Petrol,Manual,467000,Mumbai
+1920,Maruti,2021,New Wagon-R LXI CNG (O) 1.0,36188,CNG,Manual,582000,Mumbai
+1921,Maruti,2017,IGNIS DELTA 1.2,30176,Petrol,Manual,438000,Mumbai
+1922,Maruti,2019,IGNIS ALPHA 1.2,22343,Petrol,Manual,529000,Mumbai
+1923,Maruti,2018,Baleno ALPHA CVT PETROL 1.2,33155,Petrol,Automatic,607000,Mumbai
+1924,Maruti,2019,Ciaz DELTA AT 1.5 SHVS PETROL,54408,Petrol,Automatic,684000,Mumbai
+1925,Maruti,2021,New Wagon-R LXI CNG 1.0,13032,CNG,Manual,570000,Mumbai
+1926,Maruti,2017,IGNIS DELTA 1.2,56219,CNG,Manual,430000,Mumbai
+1927,Maruti,2014,Wagon R 1.0 LXI CNG,105898,CNG,Manual,279000,Mumbai
+1928,Maruti,2021,Ciaz DELTA AT 1.5 SHVS PETROL,16992,Petrol,Automatic,922000,Mumbai
+1929,Maruti,2016,Baleno DELTA CVT PETROL 1.2,58631,Petrol,Automatic,484000,Mumbai
+1930,Maruti,2016,Celerio VXI CNG,90267,CNG,Manual,389000,Mumbai
+1931,Maruti,2015,Ertiga ZDI,74875,Diesel,Manual,725000,Mumbai
+1932,Maruti,2020,S PRESSO VXI (O) AMT,13440,Petrol,Automatic,459000,Mumbai
+1933,Maruti,2016,Baleno DELTA PETROL 1.2,43373,Petrol,Manual,472000,Mumbai
+1934,Maruti,2017,IGNIS ZETA 1.2 AMT DUAL TONE,38048,Petrol,Automatic,475000,Mumbai
+1935,Maruti,2021,New Wagon-R VXI 1.2,18693,Petrol,Manual,536000,Mumbai
+1936,Maruti,2021,Ciaz ALPHA AT 1.5 SHVS PETROL,33706,Petrol,Automatic,944000,Mumbai
+1937,Maruti,2022,New Wagon-R ZXI 1.2,20987,Petrol,Manual,587000,Mumbai
+1938,Maruti,2017,Baleno DELTA PETROL 1.2,62669,Petrol,Manual,509000,Mumbai
+1939,Maruti,2020,Ciaz ALPHA AT 1.5 SHVS PETROL,23697,Petrol,Automatic,886000,Mumbai
+1940,Maruti,2016,Baleno DELTA PETROL 1.2,9508,Petrol,Manual,507000,Mumbai
+1941,Maruti,2020,S PRESSO VXI CNG,37608,CNG,Manual,412000,Mumbai
+1942,Maruti,2015,Celerio VXI CNG,83704,CNG,Manual,358000,Mumbai
+1943,Maruti,2018,Wagon R 1.0 LXI CNG,48605,CNG,Manual,382000,Mumbai
+1944,Maruti,2016,Swift Dzire VXI,34315,Petrol,Manual,462000,Mumbai
+1945,Maruti,2015,Wagon R 1.0 LXI CNG,81560,CNG,Manual,330000,Mumbai
+1946,Maruti,2017,Ertiga ZDI + SHVS,44741,Diesel,Manual,884000,Mumbai
+1947,Maruti,2015,Celerio VXI AMT,73092,Petrol,Automatic,327000,Mumbai
+1948,Maruti,2021,Ciaz DELTA AT 1.5 SHVS PETROL,29291,Petrol,Automatic,865000,Mumbai
+1949,Maruti,2015,Wagon R 1.0 LXI CNG,65098,CNG,Manual,339000,Mumbai
+1950,Maruti,2020,S PRESSO VXI CNG,26321,CNG,Manual,430000,Mumbai
+1951,Maruti,2012,Wagon R 1.0 VXI,32422,Petrol,Manual,250000,Mumbai
+1952,Maruti,2021,S PRESSO VXI (O) CNG,48375,CNG,Manual,467000,Mumbai
+1953,Maruti,2021,XL6 ALPHA MT,48740,Petrol,Manual,1027000,Mumbai
+1954,Maruti,2019,Swift VXI,13167,Petrol,Manual,567000,Mumbai
+1955,Maruti,2017,Baleno DELTA PETROL 1.2,29835,Petrol,Manual,527000,Mumbai
+1956,Maruti,2021,Alto LXI,26866,Petrol,Manual,363000,Mumbai
+1957,Maruti,2017,Wagon R 1.0 LXI CNG,8367,CNG,Manual,396000,Mumbai
+1958,Maruti,2014,Wagon R 1.0 VXI,43024,Petrol,Manual,297000,Mumbai
+1959,Maruti,2014,Celerio VXI AMT,98502,Petrol,Automatic,318000,Mumbai
+1960,Maruti,2013,Ertiga ZXI,41016,Petrol,Manual,529000,Mumbai
+1961,Maruti,2019,S PRESSO VXI+,51291,Petrol,Manual,390000,Mumbai
+1962,Maruti,2017,Baleno ZETA PETROL 1.2,65230,Petrol,Manual,509000,Mumbai
+1963,Maruti,2017,Dzire LXI,89378,Petrol,Manual,448000,Mumbai
+1964,Maruti,2019,Baleno ZETA CVT PETROL 1.2,16282,Petrol,Automatic,641000,Mumbai
+1965,Maruti,2014,Swift Dzire ZXI,47496,Petrol,Manual,426000,Mumbai
+1966,Maruti,2018,IGNIS ZETA 1.2 AMT,76787,Petrol,Automatic,454000,Mumbai
+1967,Maruti,2014,Celerio VXI AMT,32718,Petrol,Automatic,329000,Mumbai
+1968,Maruti,2015,Alto K10 VXI,51243,Petrol,Manual,243000,Mumbai
+1969,Maruti,2014,Celerio VXI CNG,78331,CNG,Manual,339000,Mumbai
+1970,Maruti,2017,Baleno DELTA PETROL 1.2,30064,Petrol,Manual,521000,Mumbai
+1971,Maruti,2017,Wagon R 1.0 LXI CNG,57012,CNG,Manual,369000,Mumbai
+1972,Maruti,2014,Ertiga VXI CNG,62157,CNG,Manual,579000,Mumbai
+1973,Maruti,2016,Ertiga VXI,69763,CNG,Manual,704000,Mumbai
+1974,Maruti,2021,Baleno ZETA PETROL 1.2,14955,Petrol,Manual,716000,Mumbai
+1975,Maruti,2017,Alto 800 LXI CNG O,76202,CNG,Manual,278000,Mumbai
+1976,Maruti,2016,Ciaz VXI,99615,Petrol,Manual,455000,Mumbai
+1977,Maruti,2021,Ciaz SIGMA 1.5 SHVS MT PETROL,16909,Petrol,Manual,763000,Mumbai
+1978,Maruti,2015,Baleno ALPHA DIESEL 1.3,59958,Diesel,Manual,546000,Mumbai
+1979,Maruti,2018,Baleno DELTA CVT PETROL 1.2,33974,Petrol,Automatic,581000,Mumbai
+1980,Maruti,2016,Ertiga VXI,61711,Petrol,Manual,653000,Mumbai
+1981,Maruti,2015,Wagon R 1.0 VXI,55946,Petrol,Manual,309000,Mumbai
+1982,Maruti,2022,New Wagon-R VXI 1.0 AMT,28720,Petrol,Automatic,674000,Mumbai
+1983,Maruti,2013,Swift Dzire VXI,33244,Petrol,Manual,365000,Mumbai
+1984,Maruti,2015,Alto 800 LXI CNG,68920,CNG,Manual,240000,Mumbai
+1985,Maruti,2022,BREZZA ZXI SMART HYBRID,18859,Petrol,Manual,1138000,Mumbai
+1986,Maruti,2013,Wagon R 1.0 VXI,45304,Petrol,Manual,270000,Mumbai
+1987,Maruti,2017,Celerio VXI CNG,74159,CNG,Manual,390000,Mumbai
+1988,Maruti,2015,Alto K10 VXI AMT,57838,Petrol,Automatic,261000,Mumbai
+1989,Maruti,2021,Baleno ZETA PETROL 1.2,27156,Petrol,Manual,705000,Mumbai
+1990,Maruti,2018,Baleno ZETA CVT PETROL 1.2,43313,Petrol,Automatic,631000,Mumbai
+1991,Maruti,2015,Wagon R 1.0 VXI,34384,Petrol,Manual,339000,Mumbai
+1992,Maruti,2014,Ertiga VDI,119998,Diesel,Manual,591000,Mumbai
+1993,Maruti,2014,Wagon R 1.0 VXI,53375,Petrol,Manual,274000,Mumbai
+1994,Maruti,2017,Baleno ALPHA PETROL 1.2,36118,Petrol,Manual,561000,Mumbai
+1995,Maruti,2021,New Wagon-R ZXI 1.2 AMT,26550,Petrol,Automatic,612000,Mumbai
+1996,Maruti,2023,IGNIS SIGMA 1.2,4684,Petrol,Manual,533000,Mumbai
+1997,Maruti,2018,Wagon R 1.0 LXI CNG,98745,CNG,Manual,396000,Mumbai
+1998,Maruti,2021,New Wagon-R ZXI 1.2 AMT,34224,Petrol,Automatic,611000,Mumbai
+1999,Maruti,2017,Wagon R 1.0 VXI OPT,43944,Petrol,Manual,361000,Mumbai
+2000,Maruti,2015,Wagon R 1.0 VXI,16624,Petrol,Manual,339000,Mumbai
+2001,Maruti,2017,Celerio VXI,25368,Petrol,Manual,395000,Mumbai
+2002,Maruti,2018,Baleno ALPHA CVT PETROL 1.2,44613,Petrol,Automatic,580000,Mumbai
+2003,Maruti,2014,Alto K10 VXI,31827,Petrol,Manual,204000,Mumbai
+2004,Maruti,2015,Ertiga VXI CNG,31504,CNG,Manual,665000,Mumbai
+2005,Maruti,2014,Wagon R 1.0 LXI CNG,95135,CNG,Manual,325000,Mumbai
+2006,Maruti,2013,Swift ZXI,42338,Petrol,Manual,341000,Mumbai
+2007,Maruti,2017,Celerio VXI CNG,85712,CNG,Manual,391000,Mumbai
+2008,Maruti,2013,Wagon R 1.0 LXI,21606,Petrol,Manual,268000,Mumbai
+2009,Maruti,2022,XL6 ZETA MT,9626,Petrol,Manual,968000,Mumbai
+2010,Maruti,2015,Swift Dzire VXI,84530,Petrol,Manual,369000,Mumbai
+2011,Maruti,2019,New Wagon-R VXI 1.2,11829,Petrol,Manual,467000,Mumbai
+2012,Maruti,2015,Ertiga VXI CNG,52143,CNG,Manual,589000,Mumbai
+2013,Maruti,2020,IGNIS ALPHA 1.2,20435,Petrol,Manual,554000,Mumbai
+2014,Maruti,2011,Swift ZXI,67725,Petrol,Manual,237000,Mumbai
+2015,Maruti,2017,Baleno DELTA PETROL 1.2,57626,Petrol,Manual,476000,Mumbai
+2016,Maruti,2017,Vitara Brezza VDI,53140,Diesel,Manual,629000,Mumbai
+2017,Maruti,2015,Wagon R 1.0 LXI CNG,30014,CNG,Manual,354000,Mumbai
+2018,Maruti,2012,Swift VXI,52220,Petrol,Manual,295000,Mumbai
+2019,Maruti,2018,Wagon R 1.0 VXI AMT,34473,Petrol,Automatic,366000,Mumbai
+2020,Maruti,2017,Baleno SIGMA PETROL 1.2,76316,Petrol,Manual,420000,Mumbai
+2021,Maruti,2023,Dzire ZXI Plus AMT,12653,Petrol,Automatic,827000,Mumbai
+2022,Maruti,2017,Ertiga ZDI + SHVS,94570,Diesel,Manual,825000,Mumbai
+2023,Maruti,2016,Baleno DELTA CVT PETROL 1.2,34019,Petrol,Automatic,520000,Mumbai
+2024,Maruti,2015,Baleno ZETA DIESEL 1.3,56687,Diesel,Manual,526000,Mumbai
+2025,Maruti,2021,Celerio ZXI (O),23012,Petrol,Manual,501000,Mumbai
+2026,Maruti,2018,Baleno ZETA PETROL 1.2,54530,Petrol,Manual,507000,Mumbai
+2027,Maruti,2022,S PRESSO VXI (O) CNG,31772,CNG,Manual,488000,Mumbai
+2028,Maruti,2021,New Wagon-R LXI CNG (O) 1.0,50418,CNG,Manual,580000,Mumbai
+2029,Maruti,2021,S PRESSO VXI PLUS AMT,27012,Petrol,Automatic,426000,Mumbai
+2030,Maruti,2019,S PRESSO VXI+,11141,Petrol,Manual,375000,Mumbai
+2031,Maruti,2015,Ertiga ZXI,70559,CNG,Manual,675000,Mumbai
+2032,Maruti,2018,Swift VDI AMT,57407,Diesel,Automatic,579000,Mumbai
+2033,Maruti,2022,XL6 ALPHA AT,24494,Petrol,Automatic,1213000,Mumbai
+2034,Maruti,2014,Swift Dzire VXI,42022,Petrol,Manual,390000,Mumbai
+2035,Maruti,2014,Alto 800 LXI,40783,Petrol,Manual,211000,Mumbai
+2036,Maruti,2021,Baleno ZETA CVT PETROL 1.2,14683,Petrol,Automatic,787000,Mumbai
+2037,Maruti,2013,Alto 800 LXI CNG,66699,CNG,Manual,192000,Mumbai
+2038,Maruti,2022,IGNIS ZETA 1.2,3806,Petrol,Manual,581000,Mumbai
+2039,Maruti,2017,Swift Dzire ZXI,34196,Petrol,Manual,519000,Mumbai
+2040,Tata,2023,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,7511,Petrol,Automatic,964000,Bangalore
+2041,Tata,2020,NEXON XZA PLUS (O) PETROL,38575,Petrol,Automatic,1038000,Bangalore
+2042,Tata,2022,NEXON XZA PLUS PETROL,31940,Petrol,Automatic,1038000,Bangalore
+2043,Tata,2016,Tiago XZ PETROL,53919,Petrol,Manual,378000,Bangalore
+2044,Tata,2022,NEXON XZ PLUS (PREMIUM) PETROL JET,30058,Petrol,Manual,1194000,Bangalore
+2045,Tata,2021,ALTROZ XE PETROL,20428,Petrol,Manual,613000,Bangalore
+2046,Tata,2023,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,1848,Petrol,Automatic,953000,Bangalore
+2047,Tata,2016,Tiago XZ PETROL,70208,Petrol,Manual,378000,Bangalore
+2048,Tata,2021,ALTROZ XE PETROL,31073,Petrol,Manual,631000,Bangalore
+2049,Tata,2016,Tiago XZ PETROL,39182,Petrol,Manual,372000,Bangalore
+2050,Tata,2021,Harrier XM 2.0L KRYOTEC,46225,Diesel,Manual,1375000,Bangalore
+2051,Tata,2016,Tiago XZ PETROL,86034,Petrol,Manual,359000,Bangalore
+2052,Tata,2018,TIGOR XZA PETROL,70793,Petrol,Automatic,520000,Bangalore
+2053,Tata,2022,PUNCH CREATIVE IRA AMT 1.2 RTN DUAL TONE,26123,Petrol,Automatic,856000,Bangalore
+2054,Tata,2022,Safari XZA PLUS DARK EDITION,15681,Diesel,Automatic,2247000,Bangalore
+2055,Tata,2017,Tiago XT PETROL,45575,Petrol,Manual,450000,Bangalore
+2056,Tata,2023,PUNCH CREATIVE iRA PACK MT,14518,Petrol,Manual,932000,Bangalore
+2057,Tata,2022,ALTROZ XZA PLUS,6161,Petrol,Automatic,897000,Bangalore
+2058,Tata,2020,ALTROZ XZ PETROL,40143,Petrol,Manual,687000,Bangalore
+2059,Tata,2021,Tiago XZ PLUS DUAL TONE PETROL,35406,Petrol,Manual,630000,Bangalore
+2060,Tata,2017,Tiago XZA PETROL,94294,Petrol,Automatic,438000,Bangalore
+2061,Tata,2018,NEXON XZA PLUS DIESEL,90759,Diesel,Automatic,806000,Bangalore
+2062,Tata,2014,Zest XMA F-TRONIC DIESEL,96667,Diesel,Automatic,369000,Bangalore
+2063,Tata,2020,NEXON XZA PLUS (O) PETROL DUAL TONE,59046,Petrol,Automatic,1047000,Bangalore
+2064,Tata,2020,ALTROZ XZ PETROL,34901,Petrol,Manual,734000,Bangalore
+2065,Tata,2022,NEXON XZ PLUS (HS) DIESEL,31035,Diesel,Manual,1152000,Bangalore
+2066,Tata,2016,Zest XMS PETROL,80078,Petrol,Manual,440000,Bangalore
+2067,Tata,2017,Tiago XT PETROL,28606,Petrol,Manual,455000,Bangalore
+2068,Tata,2020,NEXON XZ PLUS PETROL,67069,Petrol,Manual,835000,Bangalore
+2069,Tata,2023,NEXON XM PETROL,16129,Petrol,Manual,911000,Bangalore
+2070,Tata,2019,NEXON XZA PLUS DIESEL,60079,Diesel,Automatic,861000,Bangalore
+2071,Tata,2022,NEXON XZ PLUS (PREMIUM) DARK EDITION PETROL,24386,Petrol,Manual,1168000,Bangalore
+2072,Tata,2022,NEXON XZ PLUS (O) DIESEL DARK EDITION,14434,Diesel,Manual,1375000,Bangalore
+2073,Tata,2022,NEXON XZ PLUS DIESEL KAZIRANGA,14871,Diesel,Manual,1321000,Bangalore
+2074,Tata,2022,NEXON XZA PLUS (HS) PETROL,26350,Petrol,Automatic,1190000,Bangalore
+2075,Tata,2020,NEXON XZ PLUS SUNROOF PETROL DUAL TONE,45321,Petrol,Manual,914000,Bangalore
+2076,Tata,2020,NEXON XZA PLUS PETROL,54568,Petrol,Automatic,965000,Bangalore
+2077,Tata,2020,NEXON XZ PLUS PETROL DUAL TONE,54623,Petrol,Manual,883000,Bangalore
+2078,Tata,2022,NEXON XZA PLUS (O) PETROL,13619,Petrol,Automatic,1263000,Bangalore
+2079,Tata,2020,NEXON XZ PLUS (O) PETROL,46447,Petrol,Manual,1005000,Bangalore
+2080,Tata,2019,NEXON XZA PLUS PETROL DUAL TONE,59737,Petrol,Automatic,807000,Bangalore
+2081,Tata,2022,TIGOR XZ PETROL,13622,Petrol,Manual,690000,Bangalore
+2082,Tata,2022,NEXON XZA PLUS (HS) PETROL,15617,Petrol,Automatic,1218000,Bangalore
+2083,Tata,2022,NEXON XZA PLUS (HS) PETROL,11001,Petrol,Automatic,1222000,Bangalore
+2084,Tata,2020,Harrier XZA PLUS 2.0L,68859,Diesel,Automatic,1816000,Bangalore
+2085,Tata,2023,Tiago XZA PLUS PETROL,2280,Petrol,Automatic,796000,Bangalore
+2086,Tata,2020,NEXON XZA PLUS PETROL DUAL TONE,59565,Petrol,Automatic,878000,Bangalore
+2087,Tata,2020,Tiago XZA PLUS PETROL,38930,Petrol,Automatic,678000,Bangalore
+2088,Tata,2017,TIGOR XZA PETROL,94257,Petrol,Automatic,465000,Bangalore
+2089,Tata,2022,Tiago XZA PLUS PETROL,6541,Petrol,Automatic,698000,Bangalore
+2090,Tata,2017,Zest XT PETROL,53940,Petrol,Manual,433000,Bangalore
+2091,Tata,2022,PUNCH CREATIVE MT,20447,Petrol,Manual,813000,Bangalore
+2092,Tata,2022,ALTROZ XZA PLUS,16221,Petrol,Automatic,969000,Bangalore
+2093,Tata,2021,NEXON XZA PLUS (O) PETROL DARK EDITION,28606,Petrol,Automatic,1146000,Bangalore
+2094,Tata,2022,NEXON XZ PLUS PETROL,15785,Petrol,Manual,996000,Bangalore
+2095,Tata,2022,NEXON XM SUNROOF DIESEL,23036,Diesel,Manual,1043000,Bangalore
+2096,Tata,2022,Safari XZ PLUS 6S ADVENTURE,39627,Diesel,Manual,2012000,Bangalore
+2097,Tata,2015,Zest XTA F-TRONIC DIESEL,79684,Diesel,Automatic,480000,Bangalore
+2098,Tata,2021,Safari XZA PLUS,13787,Diesel,Automatic,2166000,Bangalore
+2099,Tata,2016,Tiago XZ PETROL,48738,Petrol,Manual,441000,Bangalore
+2100,Tata,2019,Tiago XZA PLUS PETROL,16943,Petrol,Automatic,637000,Bangalore
+2101,Tata,2020,ALTROZ XZ PETROL,11336,Petrol,Manual,777000,Bangalore
+2102,Tata,2021,TIGOR XZ PLUS PETROL,53454,Petrol,Manual,673000,Bangalore
+2103,Tata,2018,TIGOR XZA PETROL,57190,Petrol,Automatic,568000,Bangalore
+2104,Tata,2019,Tiago XZA PETROL,35928,Petrol,Automatic,520000,Bangalore
+2105,Tata,2021,NEXON XZ PLUS (O) PETROL,19430,Petrol,Manual,1033000,Bangalore
+2106,Tata,2022,NEXON XZA PLUS KAZIRANGA PETROL,28971,Petrol,Automatic,1219000,Bangalore
+2107,Tata,2022,PUNCH CREATIVE 1.2 AMT KAZIRANGA EDITION,15486,Petrol,Automatic,914000,Bangalore
+2108,Tata,2023,ALTROZ XZA PLUS,5198,Petrol,Automatic,899000,Bangalore
+2109,Tata,2017,Tiago XT PETROL,60536,Petrol,Manual,450000,Bangalore
+2110,Tata,2020,TIGOR XZ PLUS PETROL,27603,Petrol,Manual,665000,Bangalore
+2111,Tata,2023,PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,2806,Petrol,Automatic,956000,Bangalore
+2112,Tata,2023,TIAGO NRG XZ AMT,2370,Petrol,Automatic,809000,Bangalore
+2113,Tata,2023,TIAGO NRG XZ AMT,7402,Petrol,Automatic,796000,Bangalore
+2114,Tata,2017,Tiago XZA PETROL,57920,Petrol,Automatic,461000,Bangalore
+2115,Tata,2021,Harrier XMA 2.0L KRYOTEC,28570,Diesel,Automatic,1474000,Bangalore
+2116,Tata,2022,Harrier XT PLUS 2.0L KRYOTEC,49190,Diesel,Manual,1739000,Bangalore
+2117,Tata,2022,PUNCH ACCOMPLISHED DAZZLE PACK AMT,3572,Petrol,Automatic,869000,Bangalore
+2118,Tata,2017,Tiago XT PETROL,67872,Petrol,Manual,401000,Bangalore
+2119,Tata,2020,TIGOR XZA PLUS PETROL,33984,Petrol,Automatic,703000,Bangalore
+2120,Tata,2016,Tiago XZ PETROL,86716,Petrol,Manual,396000,Bangalore
+2121,Tata,2018,Tiago XZ PETROL,72597,Petrol,Manual,453000,Bangalore
+2122,Tata,2015,Zest XMS PETROL,75916,Petrol,Manual,372000,Bangalore
+2123,Tata,2022,ALTROZ XZ I-TURBO PETROL,19400,Petrol,Manual,810000,Bangalore
+2124,Tata,2020,Tiago XZA PLUS DUAL TONE PETROL,26526,Petrol,Automatic,628000,Bangalore
+2125,Tata,2020,Tiago XZ PLUS DUAL TONE PETROL,25101,Petrol,Manual,568000,Bangalore
+2126,Tata,2018,NEXON XZA PLUS DIESEL,63671,Diesel,Automatic,872000,Bangalore
+2127,Tata,2017,NEXON XZ PLUS PETROL DUAL TONE,17466,Petrol,Manual,779000,Bangalore
+2128,Tata,2021,Tiago XZ PETROL,26041,Petrol,Manual,633000,Bangalore
+2129,Tata,2020,NEXON XZA PLUS PETROL,40443,Petrol,Automatic,890000,Bangalore
+2130,Tata,2018,NEXON XZA PLUS DIESEL,34059,Diesel,Automatic,977000,Bangalore
+2131,Tata,2018,NEXON XM PETROL,38482,Petrol,Manual,635000,Bangalore
+2132,Tata,2021,PUNCH ACCOMPLISHED MT,4700,Petrol,Manual,758000,Bangalore
+2133,Tata,2018,NEXON XZ PLUS DIESEL,69566,Diesel,Manual,750000,Bangalore
+2134,Tata,2018,Tiago XZA PETROL,21979,Petrol,Automatic,528000,Bangalore
+2135,Tata,2021,NEXON XZA PLUS SUNROOF PETROL,35445,Petrol,Automatic,1030000,Bangalore
+2136,Tata,2016,Tiago XZ PETROL,70138,Petrol,Manual,392000,Bangalore
+2137,Tata,2021,ALTROZ XM PLUS PETROL,49461,Petrol,Manual,629000,delhi-ncr
+2138,Tata,2022,NEXON XZ PLUS (O) PETROL DARK EDITION,26202,Petrol,Manual,1054000,delhi-ncr
+2139,Tata,2017,NEXON XZ PLUS PETROL,82375,Petrol,Manual,600000,delhi-ncr
+2140,Tata,2022,Harrier XZA PLUS 2.0L DARK EDITION,24142,Diesel,Automatic,1680000,delhi-ncr
+2141,Tata,2022,Tiago XZ PLUS CNG,16775,CNG,Manual,610000,delhi-ncr
+2142,Tata,2021,Safari XZ,30203,Diesel,Manual,1595000,delhi-ncr
+2143,Tata,2022,NEXON XM SUNROOF DIESEL,45834,Diesel,Manual,803000,delhi-ncr
+2144,Tata,2021,Tiago XT PETROL,38180,Petrol,Manual,501000,delhi-ncr
+2145,Tata,2022,NEXON XM PLUS SUNROOF PETROL,22251,Petrol,Manual,785000,delhi-ncr
+2146,Tata,2023,NEXON XZ PLUS PETROL SUNROOF,24415,Petrol,Manual,1000000,delhi-ncr
+2147,Tata,2021,ALTROZ XM PLUS PETROL,43427,Petrol,Manual,577000,delhi-ncr
+2148,Tata,2023,TIAGO EV XT LONG RANGE,9789,Electric,Automatic,900000,delhi-ncr
+2149,Tata,2021,PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,14582,Petrol,Automatic,774000,delhi-ncr
+2150,Tata,2022,NEXON XZ PLUS (O) PETROL DARK EDITION,28067,Petrol,Manual,985000,delhi-ncr
+2151,Tata,2022,ALTROZ XZA,19606,Petrol,Automatic,769000,delhi-ncr
+2152,Tata,2023,Tiago XM CNG,17340,CNG,Manual,588000,delhi-ncr
+2153,Tata,2022,NEXON XZ PETROL,27385,Petrol,Manual,843000,delhi-ncr
+2154,Tata,2022,NEXON XZ PLUS PETROL SUNROOF,42490,Petrol,Manual,964000,delhi-ncr
+2155,Tata,2020,NEXON XZA PLUS (O) PETROL DUAL TONE,37456,Petrol,Automatic,863000,delhi-ncr
+2156,Tata,2020,NEXON XZA PLUS SUNROOF PETROL,62116,Petrol,Automatic,805000,delhi-ncr
+2157,Tata,2019,NEXON XZA PLUS PETROL,61470,Petrol,Automatic,726000,delhi-ncr
+2158,Tata,2022,NEXON XM PETROL,30785,Petrol,Manual,713000,delhi-ncr
+2159,Tata,2022,Tiago XZ PLUS CNG,36087,CNG,Manual,662000,delhi-ncr
+2160,Tata,2020,ALTROZ XE PETROL,61103,Petrol,Manual,491000,delhi-ncr
+2161,Tata,2020,Tiago XZA PLUS DUAL TONE PETROL,33731,Petrol,Automatic,511000,delhi-ncr
+2162,Tata,2018,NEXON XZA PLUS PETROL DUAL TONE,85837,Petrol,Automatic,665000,delhi-ncr
+2163,Tata,2022,TIGOR XZ PLUS CNG,37557,CNG,Manual,755000,delhi-ncr
+2164,Tata,2021,Tiago XT LIMITED EDITION PETROL,28282,Petrol,Manual,551000,delhi-ncr
+2165,Tata,2020,NEXON XZ PLUS PETROL,62246,Petrol,Manual,736000,delhi-ncr
+2166,Tata,2022,NEXON XZA PLUS (O) PETROL,30129,Petrol,Automatic,1003000,delhi-ncr
+2167,Tata,2022,Safari XMA,20858,Diesel,Automatic,1714000,delhi-ncr
+2168,Tata,2017,Tiago XTA PETROL,102235,Petrol,Automatic,384000,delhi-ncr
+2169,Tata,2022,NEXON XZA PLUS PETROL,12616,Petrol,Automatic,986000,delhi-ncr
+2170,Tata,2020,Tiago XZ PLUS PETROL,66943,Petrol,Manual,536000,delhi-ncr
+2171,Tata,2021,Harrier XZA PLUS 2.0L KAZIRANGA,21995,Diesel,Automatic,1644000,delhi-ncr
+2172,Tata,2020,ALTROZ XT PETROL,44696,Petrol,Manual,597000,delhi-ncr
+2173,Tata,2019,Harrier XZ 2.0L,52622,Diesel,Manual,1188000,delhi-ncr
+2174,Tata,2021,NEXON XZA PLUS PETROL,36473,Petrol,Automatic,917000,delhi-ncr
+2175,Tata,2022,TIGOR XZ PLUS CNG,24939,CNG,Manual,736000,delhi-ncr
+2176,Tata,2020,NEXON XZ PLUS (O) PETROL DUAL TONE,43032,Petrol,Manual,825000,delhi-ncr
+2177,Tata,2021,NEXON XZA PLUS PETROL,17824,Petrol,Automatic,916000,delhi-ncr
+2178,Tata,2022,Tiago XT CNG,12693,CNG,Manual,633000,delhi-ncr
+2179,Tata,2021,NEXON XZA PLUS SUNROOF PETROL,43424,Petrol,Automatic,951000,delhi-ncr
+2180,Tata,2021,NEXON XZ PETROL,8119,Petrol,Manual,819000,delhi-ncr
+2181,Tata,2021,TIGOR XE PETROL,24927,Petrol,Manual,515000,delhi-ncr
+2182,Tata,2018,TIAGO NRG PETROL,35764,Petrol,Manual,430000,delhi-ncr
+2183,Tata,2017,NEXON XZ PLUS PETROL,40890,Petrol,Manual,570000,delhi-ncr
+2184,Tata,2022,TIGOR XZ PLUS CNG,37622,CNG,Manual,690000,delhi-ncr
+2185,Tata,2022,NEXON XZ PLUS PETROL,30719,Petrol,Manual,866000,delhi-ncr
+2186,Tata,2021,TIGOR XE PETROL,29667,Petrol,Manual,537000,delhi-ncr
+2187,Tata,2022,ALTROZ XZA PLUS,24908,Petrol,Automatic,850000,delhi-ncr
+2188,Tata,2022,TIGOR XZ PLUS CNG,38888,CNG,Manual,756000,delhi-ncr
+2189,Tata,2021,Safari XT PLUS,42072,Diesel,Manual,1429000,delhi-ncr
+2190,Tata,2023,Tiago XT (O) PETROL,12657,Petrol,Manual,574000,delhi-ncr
+2191,Tata,2021,Tiago XZ PETROL,47603,Petrol,Manual,533000,delhi-ncr
+2192,Tata,2022,Harrier XZA PLUS 2.0L,27222,Diesel,Automatic,1789000,delhi-ncr
+2193,Tata,2023,Tiago XE PETROL,7441,Petrol,Manual,521000,delhi-ncr
+2194,Tata,2020,Tiago XZA PLUS PETROL,34644,Petrol,Automatic,573000,delhi-ncr
+2195,Tata,2023,PUNCH CREATIVE AMT 1.2 RTN DUAL TONE,893,Petrol,Automatic,892000,delhi-ncr
+2196,Tata,2021,ALTROZ XT PETROL,14752,Petrol,Manual,645000,delhi-ncr
+2197,Tata,2018,Tiago XT PETROL,94153,Petrol,Manual,386000,delhi-ncr
+2198,Tata,2020,ALTROZ XE PETROL,47970,Petrol,Manual,508000,delhi-ncr
+2199,Tata,2020,Tiago XZ PLUS PETROL,38427,CNG,Manual,538000,delhi-ncr
+2200,Tata,2019,TIGOR XZ PLUS PETROL,17225,Petrol,Manual,539000,delhi-ncr
+2201,Tata,2022,NEXON XZA PLUS DIESEL,34248,Diesel,Automatic,1085000,delhi-ncr
+2202,Tata,2022,PUNCH CREATIVE 1.2 RTN DUAL TONE,20770,Petrol,Manual,844000,delhi-ncr
+2203,Tata,2020,ALTROZ XZ PETROL,30195,Petrol,Manual,602000,delhi-ncr
+2204,Tata,2022,NEXON XZA PLUS DIESEL DARK EDITION,19648,Diesel,Automatic,1085000,delhi-ncr
+2205,Tata,2021,NEXON XE PETROL,32892,CNG,Manual,705000,delhi-ncr
+2206,Tata,2022,NEXON XM SUNROOF PETROL,21794,Petrol,Manual,822000,delhi-ncr
+2207,Tata,2022,NEXON XZ PLUS PETROL,14073,Petrol,Manual,952000,delhi-ncr
+2208,Tata,2019,Tiago XZA PLUS PETROL,64090,Petrol,Automatic,501000,delhi-ncr
+2209,Tata,2017,TIGOR XT PETROL,53306,Petrol,Manual,403000,delhi-ncr
+2210,Tata,2022,NEXON XZ PLUS PETROL,22894,Petrol,Manual,941000,delhi-ncr
+2211,Tata,2020,ALTROZ XZ PETROL,31360,Petrol,Manual,642000,delhi-ncr
+2212,Tata,2022,PUNCH ACCOMPLISHED MT,21955,Petrol,Manual,670000,delhi-ncr
+2213,Tata,2019,Harrier XZ 2.0L DARK EDITION,56690,Diesel,Manual,1072000,delhi-ncr
+2214,Tata,2021,NEXON XZ PLUS DIESEL SUNROOF,32265,Diesel,Manual,823000,delhi-ncr
+2215,Tata,2019,NEXON XMA DIESEL,61857,Diesel,Automatic,654000,delhi-ncr
+2216,Tata,2017,Zest XT PETROL,66656,CNG,Manual,422000,delhi-ncr
+2217,Tata,2021,ALTROZ XM PLUS PETROL,40167,Petrol,Manual,591000,delhi-ncr
+2218,Tata,2022,Tiago XZ PLUS CNG,30034,CNG,Manual,689000,delhi-ncr
+2219,Tata,2024,PUNCH PURE MT,5048,Petrol,Manual,639000,delhi-ncr
+2220,Tata,2021,NEXON XE PETROL,13415,Petrol,Manual,681000,delhi-ncr
+2221,Tata,2021,NEXON XZA PLUS (O) PETROL,16677,Petrol,Automatic,1110000,Hyderabad
+2222,Tata,2022,NEXON XZA PLUS (O) PETROL DUAL TONE,24629,Petrol,Automatic,1169000,Hyderabad
+2223,Tata,2021,NEXON XZA PLUS (O) PETROL,24019,Petrol,Automatic,1137000,Hyderabad
+2224,Tata,2020,ALTROZ XZ PETROL,44602,Petrol,Manual,682000,Hyderabad
+2225,Tata,2021,Tiago XZA PLUS PETROL,41884,Petrol,Automatic,658000,Hyderabad
+2226,Tata,2021,TIAGO NRG XZ MT,50406,Petrol,Manual,579000,Hyderabad
+2227,Tata,2017,Tiago XZA PETROL,86495,Petrol,Automatic,444000,Hyderabad
+2228,Tata,2021,ALTROZ XZ PETROL,43222,Petrol,Manual,721000,Hyderabad
+2229,Tata,2018,Tiago XZ PETROL,30392,Petrol,Manual,468000,Hyderabad
+2230,Tata,2020,Tiago XZ PLUS DUAL TONE PETROL,61102,Petrol,Manual,584000,Hyderabad
+2231,Tata,2018,NEXON XZA PLUS DIESEL,37484,Diesel,Automatic,833000,Hyderabad
+2232,Tata,2017,Tiago XM PETROL,72749,Petrol,Manual,404000,Hyderabad
+2233,Tata,2020,NEXON XZ PLUS (O) PETROL,46626,Petrol,Manual,956000,Hyderabad
+2234,Tata,2021,Tiago XT PETROL,52679,Petrol,Manual,579000,Hyderabad
+2235,Tata,2021,ALTROZ XZ PETROL,53218,Petrol,Manual,730000,Hyderabad
+2236,Tata,2022,NEXON XZA PLUS (L),32111,Petrol,Automatic,1099000,Hyderabad
+2237,Tata,2019,Tiago XZ PETROL,65331,Petrol,Manual,455000,Hyderabad
+2238,Tata,2021,TIGOR XE PETROL,47778,Petrol,Manual,577000,Hyderabad
+2239,Tata,2023,NEXON XM PLUS SUNROOF PETROL,10718,Petrol,Manual,998000,Hyderabad
+2240,Tata,2020,ALTROZ XZ PETROL,35548,Petrol,Manual,723000,Hyderabad
+2241,Tata,2020,NEXON XZA PLUS (O) PETROL DUAL TONE,85380,Petrol,Automatic,1060000,Hyderabad
+2242,Tata,2020,NEXON XZA PLUS PETROL,63677,Petrol,Automatic,877000,Hyderabad
+2243,Tata,2023,NEXON XZA PLUS PETROL,27320,Petrol,Automatic,1126000,Hyderabad
+2244,Tata,2022,ALTROZ XZA PLUS DARK EDTION,28466,Petrol,Automatic,883000,Hyderabad
+2245,Tata,2020,NEXON XZ PLUS PETROL,75042,Petrol,Manual,826000,Hyderabad
+2246,Tata,2022,ALTROZ XZ PETROL,36608,Petrol,Manual,806000,Hyderabad
+2247,Tata,2022,PUNCH ACCOMPLISHED DAZZLE PACK MT,12157,Petrol,Manual,821000,Hyderabad
+2248,Tata,2019,Tiago XT PETROL,95660,Petrol,Manual,455000,Hyderabad
+2249,Tata,2020,TIGOR XZ PLUS PETROL,49158,Petrol,Manual,666000,Hyderabad
+2250,Tata,2018,Tiago XZ PETROL,63045,Petrol,Manual,465000,Hyderabad
+2251,Tata,2018,TIGOR XZ (O) PETROL,77786,Petrol,Manual,458000,Hyderabad
+2252,Tata,2021,NEXON XZA PLUS (O) PETROL,23893,Petrol,Automatic,1045000,Hyderabad
+2253,Tata,2022,NEXON XZ PLUS (PREMIUM) PETROL,22121,Petrol,Manual,1134000,Hyderabad
+2254,Tata,2020,Tiago XE PETROL,57810,Petrol,Manual,463000,Hyderabad
+2255,Tata,2020,NEXON XZ PLUS (O) PETROL DUAL TONE,23529,Petrol,Manual,916000,Hyderabad
+2256,Tata,2019,NEXON XZ PLUS PETROL DUAL TONE,72094,Petrol,Manual,808000,Hyderabad
+2257,Tata,2020,NEXON XZ PLUS (O) PETROL DUAL TONE,22741,Petrol,Manual,911000,Hyderabad
+2258,Tata,2019,Tiago XZ PLUS PETROL,39154,Petrol,Manual,558000,Hyderabad
+2259,Tata,2020,NEXON XZ PLUS (O) DIESEL DUAL TONE,51910,Diesel,Manual,827000,Hyderabad
+2260,Tata,2020,NEXON XM PETROL,45935,Petrol,Manual,724000,Hyderabad
+2261,Tata,2023,NEXON XMA SUNROOF PETROL,5856,Petrol,Automatic,1026000,Hyderabad
+2262,Tata,2018,Tiago XZ PETROL,70841,Petrol,Manual,465000,Hyderabad
+2263,Tata,2022,PUNCH ADVENTURE RHYTHM PACK MT,5291,Petrol,Manual,702000,Hyderabad
+2264,Tata,2020,NEXON XZ PLUS PETROL,44067,Petrol,Manual,791000,Hyderabad
+2265,Tata,2020,ALTROZ XE PETROL,11528,Petrol,Manual,553000,Hyderabad
+2266,Tata,2023,PUNCH CREATIVE AMT,11767,Petrol,Automatic,951000,Hyderabad
+2267,Tata,2018,TIGOR XZ PETROL,94586,Petrol,Manual,408000,Mumbai
+2268,Tata,2017,Tiago XZ PETROL,37602,Petrol,Manual,390000,Mumbai
+2269,Tata,2019,Tiago XZA PETROL,32045,Petrol,Automatic,514000,Mumbai
+2270,Tata,2021,ALTROZ XZ PLUS PETROL,13348,Petrol,Manual,744000,Mumbai
+2271,Tata,2021,NEXON XZ PETROL,13342,Petrol,Manual,861000,Mumbai
+2272,Tata,2022,NEXON XZA PLUS DIESEL KAZIRANGA,37152,Diesel,Automatic,1215000,Mumbai
+2273,Tata,2019,Harrier XZ 2.0L,52045,Diesel,Manual,1268000,Mumbai
+2274,Tata,2022,TIGOR XZ PLUS CNG,5837,CNG,Manual,793000,Mumbai
+2275,Tata,2020,ALTROZ XZ PETROL,47992,Petrol,Manual,654000,Mumbai
+2276,Tata,2018,NEXON XZA PLUS DIESEL DUAL TONE,104792,Diesel,Automatic,668000,Mumbai
+2277,Tata,2022,TIGOR XZ PLUS CNG,18438,CNG,Manual,708000,Mumbai
+2278,Tata,2020,ALTROZ XZ PETROL,71356,Petrol,Manual,669000,Mumbai
+2279,Tata,2020,ALTROZ XZ PETROL,11670,Petrol,Manual,693000,Mumbai
+2280,Tata,2019,NEXON XZA PLUS PETROL,61806,Petrol,Automatic,773000,Mumbai
+2281,Tata,2022,ALTROZ XZA PLUS,2973,Petrol,Automatic,868000,Mumbai
+2282,Tata,2019,NEXON XZA PLUS DIESEL,51506,Diesel,Automatic,836000,Mumbai
+2283,Tata,2022,NEXON XZ PLUS PETROL,18598,Petrol,Manual,898000,Mumbai
+2284,Tata,2021,TIGOR XZA PLUS PETROL,39046,Petrol,Automatic,667000,Mumbai
+2285,Tata,2020,ALTROZ XZ PETROL,27102,Petrol,Manual,690000,Mumbai
+2286,Tata,2018,Tiago XZ PETROL,76127,Petrol,Manual,411000,Mumbai
+2287,Tata,2022,Safari XZA PLUS ADVENTURE,42408,Diesel,Automatic,1985000,Mumbai
+2288,Tata,2022,ALTROZ XZA PLUS DARK EDTION,16783,Petrol,Automatic,807000,Mumbai
+2289,Tata,2019,Harrier XZ 2.0L,57037,Diesel,Manual,1284000,Mumbai
+2290,Tata,2022,NEXON XZ PLUS PETROL SUNROOF,35275,Petrol,Manual,918000,Mumbai
+2291,Tata,2021,ALTROZ XT PETROL,43417,Petrol,Manual,637000,Mumbai
+2292,Tata,2021,NEXON XZ PLUS PETROL SUNROOF,26645,Petrol,Manual,914000,Mumbai
+2293,Tata,2023,TIGOR XZ PLUS CNG,3817,CNG,Manual,791000,Mumbai
+2294,Tata,2022,ALTROZ XZA,10206,Petrol,Automatic,838000,Mumbai
+2295,Tata,2022,NEXON XM PETROL,5448,Petrol,Manual,810000,Mumbai
+2296,Tata,2020,ALTROZ XZ PETROL,23825,Petrol,Manual,693000,Mumbai
+2297,Tata,2021,TIGOR XE PETROL,52153,Petrol,Manual,517000,Mumbai
+2298,Tata,2020,Tiago XZA PLUS PETROL,6375,Petrol,Automatic,608000,Mumbai
+2299,Tata,2021,Tiago XZA PLUS PETROL,8115,Petrol,Automatic,636000,Mumbai
+2300,Tata,2021,Harrier XZA PLUS 2.0L DARK EDITION,31539,Diesel,Automatic,1869000,Mumbai
+2301,Tata,2022,ALTROZ XZA PLUS,18364,Petrol,Automatic,867000,Mumbai
+2302,Tata,2021,NEXON XZA PLUS (O) PETROL,26213,Petrol,Automatic,1036000,Mumbai
+2303,Tata,2021,Tiago XE PETROL,10232,Petrol,Manual,544000,Mumbai
+2304,Tata,2020,NEXON XZA PLUS SUNROOF DIESEL,75525,Diesel,Automatic,986000,Mumbai
+2305,Tata,2022,TIGOR XZ PLUS CNG,24490,CNG,Manual,781000,Mumbai
+2306,Tata,2018,Tiago XZ PETROL,90317,Petrol,Manual,390000,Mumbai
+2307,Tata,2021,Safari XZ PLUS,16603,Diesel,Manual,1878000,Mumbai
+2308,Tata,2019,NEXON XZA PLUS PETROL,18798,Petrol,Automatic,844000,Mumbai
+2309,Tata,2018,NEXON XZ PLUS PETROL,48213,CNG,Manual,654000,Mumbai
+2310,Tata,2018,NEXON XZA PLUS PETROL,39992,Petrol,Automatic,739000,Mumbai
+2311,Toyota,2023,Glanza V AMT,7757,Petrol,Automatic,1072000,Bangalore
+2312,Toyota,2014,Fortuner 3.0 4X2 AT,108796,Diesel,Automatic,1609000,Bangalore
+2313,Toyota,2019,YARIS G MT,42324,Petrol,Manual,869000,Bangalore
+2314,Toyota,2012,Etios Liva GD,123224,Diesel,Manual,362000,Bangalore
+2315,Toyota,2011,Etios G,100303,Petrol,Manual,321000,Bangalore
+2316,Toyota,2014,Etios CROSS 1.4 GD,121920,Diesel,Manual,455000,Bangalore
+2317,Toyota,2012,Etios Liva GD,115572,Diesel,Manual,398000,Bangalore
+2318,Toyota,2019,Glanza G,53435,Petrol,Manual,688000,Bangalore
+2319,Toyota,2014,Camry 2.5L AT,113336,Petrol,Automatic,934000,Bangalore
+2320,Toyota,2021,Glanza G CVT,28290,Petrol,Automatic,802000,Bangalore
+2321,Toyota,2022,Innova Crysta 2.4 ZX 7 STR,3597,Diesel,Manual,2702000,Bangalore
+2322,Toyota,2021,URBAN CRUISER PREMIUM GRADE MT DUAL TONE,14232,Petrol,Manual,968000,Bangalore
+2323,Toyota,2019,Glanza V,34240,Petrol,Manual,714000,Bangalore
+2324,Toyota,2020,YARIS G MT,37411,Petrol,Manual,809000,delhi-ncr
+2325,Toyota,2019,Glanza G CVT,55311,Petrol,Automatic,641000,delhi-ncr
+2326,Toyota,2011,Etios VX,90308,Petrol,Manual,204000,delhi-ncr
+2327,Toyota,2015,Corolla Altis VL CVT PETROL,100681,Petrol,Automatic,789000,delhi-ncr
+2328,Toyota,2011,Etios VX,71433,Petrol,Manual,241000,delhi-ncr
+2329,Toyota,2011,Etios VX,95917,Petrol,Manual,198000,delhi-ncr
+2330,Toyota,2013,Etios Liva G,41856,Petrol,Manual,277000,delhi-ncr
+2331,Toyota,2012,Etios Liva G SP,77476,Petrol,Manual,243000,delhi-ncr
+2332,Toyota,2014,Etios G,76413,Petrol,Manual,304000,delhi-ncr
+2333,Toyota,2011,Etios G,73409,Petrol,Manual,227000,delhi-ncr
+2334,Toyota,2011,Etios V,68623,Petrol,Manual,206000,delhi-ncr
+2335,Toyota,2021,URBAN CRUISER PREMIUM GRADE MT,42381,Petrol,Manual,894000,delhi-ncr
+2336,Toyota,2021,Glanza G CVT,10873,Petrol,Automatic,744000,delhi-ncr
+2337,Toyota,2020,Glanza V CVT,4496,Petrol,Automatic,711000,delhi-ncr
+2338,Toyota,2022,URBAN CRUISER MID GRADE MT,28970,Petrol,Manual,869000,delhi-ncr
+2339,Toyota,2011,Etios V,83914,Petrol,Manual,218000,delhi-ncr
+2340,Toyota,2017,Fortuner 2.8 4X2 AT,103102,Diesel,Automatic,2215000,delhi-ncr
+2341,Toyota,2011,Corolla Altis G PETROL,80901,Petrol,Manual,269000,delhi-ncr
+2342,Toyota,2016,Corolla Altis G PETROL,89737,Petrol,Manual,702000,delhi-ncr
+2343,Toyota,2019,Innova Crysta 2.4 VX 8 STR,84135,Diesel,Manual,1510000,delhi-ncr
+2344,Toyota,2019,Glanza V,54895,Petrol,Manual,722000,Hyderabad
+2345,Toyota,2013,Etios G,82590,Petrol,Manual,364000,Hyderabad
+2346,Toyota,2022,URBAN CRUISER PREMIUM GRADE AT,20214,Petrol,Automatic,1040000,Hyderabad
+2347,Toyota,2021,URBAN CRUISER PREMIUM GRADE AT DUAL TONE,82237,Petrol,Automatic,1039000,Hyderabad
+2348,Toyota,2020,Glanza V CVT,21269,Petrol,Automatic,761000,Hyderabad
+2349,Toyota,2019,Glanza V,31957,Petrol,Manual,725000,Hyderabad
+2350,Toyota,2019,Glanza G,31501,Petrol,Manual,656000,Hyderabad
+2351,Toyota,2022,URBAN CRUISER PREMIUM GRADE MT DUAL TONE,25295,Petrol,Manual,940000,Hyderabad
+2352,Toyota,2011,Etios G,77786,Petrol,Manual,299000,Hyderabad
+2353,Toyota,2018,YARIS J CVT,92585,Petrol,Automatic,686000,Hyderabad
+2354,Toyota,2018,YARIS VX MT,30509,Petrol,Manual,783000,Mumbai
+2355,Toyota,2011,Etios Liva G,79645,Petrol,Manual,227000,Mumbai
+2356,Toyota,2022,URBAN CRUISER PREMIUM GRADE AT,34486,Petrol,Automatic,989000,Mumbai
+2357,Toyota,2011,Etios Liva G,77595,Petrol,Manual,237000,Mumbai
+2358,Toyota,2018,Corolla Altis VL CVT PETROL,74502,Petrol,Automatic,958000,Mumbai
+2359,Toyota,2017,Corolla Altis VL CVT PETROL,56595,Petrol,Automatic,1011000,Mumbai
+2360,Toyota,2019,Glanza G CVT,16870,Petrol,Automatic,602000,Mumbai
+2361,Toyota,2018,Corolla Altis VL CVT PETROL,77581,Petrol,Automatic,980000,Mumbai
+2362,Toyota,2020,Glanza V CVT,57023,Petrol,Automatic,683000,Mumbai
+2363,Toyota,2017,Corolla Altis VL CVT PETROL,61520,Petrol,Automatic,1021000,Mumbai
+2364,Toyota,2019,Glanza V CVT,15816,Petrol,Automatic,737000,Mumbai
+2365,Toyota,2019,Glanza G CVT,21695,Petrol,Automatic,677000,Mumbai
+2366,Toyota,2011,Etios Liva G,75420,Petrol,Manual,244000,Mumbai
+2367,Toyota,2021,URBAN CRUISER HIGH GRADE AT,45799,Petrol,Automatic,964000,Mumbai
+2368,Toyota,2021,URBAN CRUISER MID GRADE MT,39069,Petrol,Manual,826000,Mumbai
+2369,Toyota,2022,URBAN CRUISER PREMIUM GRADE AT,13896,Petrol,Automatic,1106000,Mumbai
+2370,Toyota,2021,URBAN CRUISER PREMIUM GRADE MT,18001,Petrol,Manual,894000,Mumbai
+2371,Toyota,2015,Innova 2.5 VX 7 STR,121038,Diesel,Manual,883000,Mumbai
+2372,Toyota,2022,Glanza G,5052,Petrol,Manual,731000,Mumbai
